@@ -1,0 +1,1201 @@
+brand,model,year,price,mileage,fuel_type,transmission,engine_capacity,body_type,location,condition,seller_type,color,features_count,vehicle_age,tax_era,brand_category,fuel_efficiency,price_per_km,is_popular_model
+Suzuki,Every,2012,619706,199879,Hybrid,Automatic,1500,Van,Kandy,Used,Individual,White,7,12,Low Tax Era,Standard,High,3.1,0
+BMW,X3,2021,5042039,17433,Petrol,Automatic,3000,Hatchback,Kandy,Used,Individual,Silver,14,3,High Tax Era,Luxury,Low,289.21,0
+BMW,530i,2016,3183433,75773,Petrol,Automatic,2000,SUV,Negombo,Reconditioned,Individual,White,18,8,Medium Tax Era,Luxury,Low,42.01,0
+Toyota,Premio,2013,1281523,200174,Hybrid,Automatic,1500,Sedan,Gampaha,Reconditioned,Dealer,White,10,11,Low Tax Era,Standard,High,6.4,0
+Honda,Insight,2021,3518571,21873,Diesel,Automatic,1800,Coupe,Gampaha,Reconditioned,Dealer,Black,12,3,High Tax Era,Standard,Low,160.86,0
+Nissan,Juke,2019,2041246,52185,Electric,Automatic,0,Wagon,Matara,Used,Individual,Green,5,5,Medium Tax Era,Standard,Very High,39.11,0
+Toyota,Axio,2018,2542284,53986,Hybrid,Automatic,1300,Sedan,Colombo,Used,Dealer,Silver,6,6,Medium Tax Era,Standard,High,47.09,1
+Suzuki,Spacia,2014,1053722,90965,Hybrid,Automatic,2000,Coupe,Negombo,Reconditioned,Individual,White,13,10,Low Tax Era,Standard,High,11.58,0
+Toyota,Axio,2009,632200,202096,Petrol,Automatic,2000,Sedan,Kandy,Used,Dealer,White,11,15,Low Tax Era,Standard,Low,3.13,1
+Toyota,Prius,2017,2379672,82557,Hybrid,Manual,1800,Van,Anuradhapura,Used,Individual,Blue,11,7,Medium Tax Era,Standard,High,28.82,1
+Toyota,Corolla,2019,2785431,95016,Diesel,Automatic,1500,Sedan,Colombo,Used,Individual,White,19,5,Medium Tax Era,Standard,Low,29.32,0
+Toyota,Vezel,2018,2296965,94384,Petrol,Automatic,1800,SUV,Kandy,Used,Individual,White,21,6,Medium Tax Era,Standard,Low,24.34,1
+BMW,X3,2010,1232301,170084,Petrol,Automatic,2400,Wagon,Batticaloa,Used,Individual,Silver,15,14,Low Tax Era,Luxury,Low,7.25,0
+Toyota,Vitz,2015,1929668,92083,Electric,Automatic,0,Hatchback,Matara,Reconditioned,Individual,Black,20,9,Low Tax Era,Standard,Very High,20.96,0
+Honda,Vezel,2013,1237085,204249,Hybrid,Automatic,1800,SUV,Gampaha,Reconditioned,Individual,Blue,15,11,Low Tax Era,Standard,High,6.06,1
+Toyota,CH-R,2017,2090470,100713,Petrol,Automatic,1300,SUV,Galle,Reconditioned,Individual,Green,16,7,Medium Tax Era,Standard,Medium,20.76,0
+KIA,Sportage,2014,1116752,95151,Hybrid,Manual,1000,Van,Colombo,Used,Dealer,Silver,7,10,Low Tax Era,Standard,High,11.74,0
+Hyundai,i10,2008,500000,101357,Petrol,Automatic,2000,Sedan,Colombo,Used,Individual,White,12,16,Low Tax Era,Standard,Low,4.93,0
+Honda,Fit,2017,2069609,80818,Hybrid,Automatic,2000,Hatchback,Anuradhapura,Used,Individual,Black,5,7,Medium Tax Era,Standard,High,25.61,1
+Suzuki,Every,2013,876530,125714,Hybrid,Manual,1000,Van,Kandy,Reconditioned,Individual,Grey,13,11,Low Tax Era,Standard,High,6.97,0
+Toyota,Premio,2017,2637935,106235,Hybrid,Automatic,2000,Sedan,Gampaha,Used,Individual,Black,14,7,Medium Tax Era,Standard,High,24.83,0
+Honda,Accord,2010,772674,152991,Petrol,Automatic,1500,Hatchback,Ratnapura,Reconditioned,Dealer,Red,20,14,Low Tax Era,Standard,Low,5.05,0
+Toyota,Camry,2019,3741843,69592,Hybrid,Automatic,1000,Sedan,Colombo,Used,Individual,Black,18,5,Medium Tax Era,Standard,High,53.77,0
+Toyota,Prius,2011,802304,222038,Petrol,Automatic,1300,Coupe,Kurunegala,Used,Individual,White,10,13,Low Tax Era,Standard,Medium,3.61,1
+Suzuki,Every,2016,1086699,59508,Petrol,Manual,1800,Van,Colombo,Reconditioned,Individual,Silver,12,8,Medium Tax Era,Standard,Low,18.26,0
+BMW,X3,2018,3249429,113847,Petrol,Automatic,2400,Wagon,Colombo,Used,Individual,Silver,5,6,Medium Tax Era,Luxury,Low,28.54,0
+Toyota,Prius,2013,1337387,85237,Hybrid,Automatic,2000,Sedan,Negombo,Reconditioned,Dealer,Silver,7,11,Low Tax Era,Standard,High,15.69,1
+Suzuki,Every,2011,596058,173468,Petrol,Automatic,1000,Van,Batticaloa,Used,Individual,White,20,13,Low Tax Era,Standard,Medium,3.44,0
+Toyota,Premio,2015,1923960,63049,Electric,Manual,0,Sedan,Colombo,Used,Dealer,Black,9,9,Low Tax Era,Standard,Very High,30.51,0
+Honda,Accord,2018,2405101,89115,Hybrid,Manual,1800,Hatchback,Colombo,Used,Dealer,Blue,16,6,Medium Tax Era,Standard,High,26.99,0
+BMW,318i,2013,1608873,231836,Petrol,Automatic,2400,Wagon,Negombo,Used,Individual,White,14,11,Low Tax Era,Luxury,Low,6.94,0
+Mitsubishi,Outlander,2016,1643370,78513,Hybrid,Manual,1800,SUV,Batticaloa,Used,Individual,Black,7,8,Medium Tax Era,Standard,High,20.93,0
+Suzuki,Alto,2013,686598,245983,Diesel,Manual,660,Hatchback,Negombo,Used,Dealer,White,21,11,Low Tax Era,Standard,Medium,2.79,1
+Suzuki,Wagon R,2014,939201,146234,Petrol,Automatic,660,Hatchback,Colombo,Reconditioned,Individual,Gold,24,10,Low Tax Era,Standard,Medium,6.42,1
+Honda,Insight,2011,869156,182795,Petrol,Automatic,1800,Wagon,Ratnapura,Reconditioned,Individual,Black,11,13,Low Tax Era,Standard,Low,4.75,0
+Toyota,Axio,2020,3331296,52098,Hybrid,Manual,1000,Sedan,Kurunegala,Reconditioned,Individual,White,17,4,High Tax Era,Standard,High,63.94,1
+Suzuki,Swift,2018,1599061,94693,Electric,Automatic,0,Hatchback,Matara,Used,Dealer,Green,8,6,Medium Tax Era,Standard,Very High,16.89,1
+Nissan,Note,2019,1849398,66790,Diesel,Manual,1500,Wagon,Kandy,Used,Individual,White,13,5,Medium Tax Era,Standard,Low,27.69,0
+Honda,Civic,2021,4222234,48982,Hybrid,Automatic,1000,Sedan,Batticaloa,Used,Individual,Gold,19,3,High Tax Era,Standard,High,86.2,0
+Suzuki,Swift,2021,2546276,40826,Hybrid,Automatic,1000,Hatchback,Gampaha,Used,Dealer,Silver,7,3,High Tax Era,Standard,High,62.37,1
+Toyota,Camry,2021,3880447,36447,Diesel,Automatic,2000,Sedan,Colombo,Used,Individual,Black,22,3,High Tax Era,Standard,Low,106.47,0
+Suzuki,Hustler,2022,2744551,55080,Petrol,Automatic,2000,Van,Colombo,Used,Individual,Gold,23,2,High Tax Era,Standard,Low,49.83,0
+Honda,Grace,2010,875852,138141,Diesel,Automatic,1000,Sedan,Kandy,Reconditioned,Dealer,Black,21,14,Low Tax Era,Standard,Medium,6.34,0
+Suzuki,Swift,2011,518569,80404,Petrol,Manual,1000,Hatchback,Ratnapura,Used,Dealer,Silver,9,13,Low Tax Era,Standard,Medium,6.45,1
+Suzuki,Every,2016,944869,78765,Petrol,Automatic,1800,Van,Negombo,Used,Dealer,Black,12,8,Medium Tax Era,Standard,Low,12,0
+Suzuki,Spacia,2019,2153714,72049,Hybrid,Automatic,2000,Coupe,Kandy,Reconditioned,Individual,White,19,5,Medium Tax Era,Standard,High,29.89,0
+Honda,Vezel,2013,1284407,161317,Hybrid,Manual,1300,SUV,Gampaha,Used,Individual,Brown,24,11,Low Tax Era,Standard,High,7.96,1
+Suzuki,Celerio,2015,1178799,110390,Hybrid,Automatic,2000,Van,Jaffna,Used,Dealer,White,9,9,Low Tax Era,Standard,High,10.68,0
+Suzuki,Every,2013,713719,223087,Diesel,Automatic,1500,Van,Kurunegala,Used,Individual,White,7,11,Low Tax Era,Standard,Low,3.2,0
+Suzuki,Ertiga,2012,552322,201465,Petrol,Manual,1300,Van,Colombo,Used,Individual,Black,16,12,Low Tax Era,Standard,Medium,2.74,0
+Suzuki,Spacia,2014,832717,103624,Petrol,Automatic,1500,Wagon,Jaffna,Used,Individual,Silver,24,10,Low Tax Era,Standard,Low,8.04,0
+Suzuki,Spacia,2013,818322,108699,Diesel,Automatic,2000,Hatchback,Gampaha,Used,Dealer,Grey,18,11,Low Tax Era,Standard,Low,7.53,0
+Toyota,Prius,2016,1710773,74674,Petrol,Automatic,2000,Van,Gampaha,Used,Individual,White,16,8,Medium Tax Era,Standard,Low,22.91,1
+Toyota,Corolla,2018,2891102,113794,Hybrid,Automatic,1800,Sedan,Kurunegala,Used,Dealer,Black,23,6,Medium Tax Era,Standard,High,25.41,0
+Toyota,Allion,2018,2410269,74529,Petrol,Automatic,2000,Sedan,Colombo,Reconditioned,Individual,Black,20,6,Medium Tax Era,Standard,Low,32.34,0
+Toyota,Vezel,2020,2773172,28046,Petrol,Automatic,2000,SUV,Colombo,Reconditioned,Individual,Gold,8,4,High Tax Era,Standard,Low,98.88,1
+BMW,X1,2012,1924497,93234,Hybrid,Manual,2500,Hatchback,Ratnapura,Used,Individual,White,23,12,Low Tax Era,Luxury,High,20.64,0
+Nissan,Caravan,2011,672558,184537,Diesel,Automatic,1500,Van,Gampaha,Reconditioned,Dealer,Black,14,13,Low Tax Era,Standard,Low,3.64,0
+Suzuki,Alto,2014,854185,245459,Petrol,Automatic,660,Hatchback,Kandy,Used,Dealer,Red,21,10,Low Tax Era,Standard,Medium,3.48,1
+Nissan,March,2011,670427,219639,Diesel,Automatic,1000,Hatchback,Ratnapura,Used,Dealer,Blue,12,13,Low Tax Era,Standard,Medium,3.05,0
+Nissan,Caravan,2012,702741,166740,Petrol,Automatic,1300,Van,Gampaha,Reconditioned,Dealer,Silver,12,12,Low Tax Era,Standard,Medium,4.21,0
+Suzuki,Swift,2017,1461680,111520,Hybrid,Automatic,1000,Hatchback,Gampaha,Used,Individual,White,12,7,Medium Tax Era,Standard,High,13.11,1
+Toyota,Vitz,2014,1328543,163122,Diesel,Automatic,2000,Hatchback,Ratnapura,Used,Dealer,Green,5,10,Low Tax Era,Standard,Low,8.14,0
+Nissan,Leaf,2009,564136,99029,Diesel,Automatic,1300,Sedan,Galle,Used,Individual,Black,24,15,Low Tax Era,Standard,Medium,5.7,0
+Mitsubishi,Mirage,2016,1708888,43756,Hybrid,Automatic,1500,Van,Gampaha,Used,Individual,White,14,8,Medium Tax Era,Standard,High,39.05,0
+Toyota,CH-R,2016,2106625,116077,Hybrid,Manual,1300,SUV,Colombo,Used,Dealer,Brown,8,8,Medium Tax Era,Standard,High,18.15,0
+Mitsubishi,Mirage,2018,1982607,92329,Hybrid,Automatic,1000,Coupe,Colombo,Used,Dealer,Brown,5,6,Medium Tax Era,Standard,High,21.47,0
+Benz,E250,2012,2426827,197718,Electric,Manual,0,SUV,Gampaha,Used,Individual,White,24,12,Low Tax Era,Luxury,Very High,12.27,0
+Honda,Vezel,2015,1607969,89688,Hybrid,Manual,1300,SUV,Anuradhapura,Used,Dealer,White,23,9,Low Tax Era,Standard,High,17.93,1
+Honda,Civic,2015,1584426,86240,Diesel,Automatic,1300,Sedan,Negombo,Used,Individual,Gold,21,9,Low Tax Era,Standard,Medium,18.37,0
+Mazda,CX-3,2012,1092178,231878,Hybrid,Automatic,1500,SUV,Gampaha,Reconditioned,Individual,Silver,20,12,Low Tax Era,Standard,High,4.71,0
+Toyota,Axio,2016,2181308,68865,Hybrid,Automatic,1500,Sedan,Colombo,Used,Dealer,Gold,14,8,Medium Tax Era,Standard,High,31.67,1
+Honda,Civic,2019,2604647,66399,Hybrid,Automatic,1000,Sedan,Gampaha,Used,Individual,Black,12,5,Medium Tax Era,Standard,High,39.23,0
+Mitsubishi,Lancer,2020,2501482,35059,Petrol,Automatic,1500,Van,Colombo,Reconditioned,Individual,White,22,4,High Tax Era,Standard,Low,71.35,0
+Toyota,CH-R,2020,2788071,35079,Petrol,Automatic,1800,SUV,Anuradhapura,Reconditioned,Dealer,White,6,4,High Tax Era,Standard,Low,79.48,0
+Toyota,Allion,2017,2441952,118757,Hybrid,Automatic,2000,Sedan,Kalutara,Used,Dealer,White,14,7,Medium Tax Era,Standard,High,20.56,0
+Benz,C180,2016,3589472,67856,Petrol,Automatic,3500,Sedan,Colombo,Used,Dealer,Green,17,8,Medium Tax Era,Luxury,Low,52.9,0
+Honda,Freed,2021,3802033,41665,Hybrid,Automatic,1000,Van,Kandy,Used,Dealer,White,10,3,High Tax Era,Standard,High,91.25,0
+Toyota,Corolla,2016,2140473,99052,Hybrid,Automatic,1300,Sedan,Gampaha,Used,Dealer,White,8,8,Medium Tax Era,Standard,High,21.61,0
+Toyota,Vezel,2015,1678521,112355,Hybrid,Automatic,1500,SUV,Gampaha,Reconditioned,Dealer,White,5,9,Low Tax Era,Standard,High,14.94,1
+Suzuki,Swift,2017,1433917,55850,Hybrid,Manual,1500,Hatchback,Ratnapura,Used,Individual,White,21,7,Medium Tax Era,Standard,High,25.67,1
+Nissan,March,2016,1503673,64354,Hybrid,Automatic,1000,Hatchback,Kurunegala,Used,Individual,White,21,8,Medium Tax Era,Standard,High,23.37,0
+Hyundai,i10,2012,886387,212413,Electric,Manual,0,Wagon,Negombo,Reconditioned,Dealer,Green,22,12,Low Tax Era,Standard,Very High,4.17,0
+Toyota,Camry,2010,681535,239007,Diesel,Manual,1300,Sedan,Anuradhapura,Used,Individual,Silver,13,14,Low Tax Era,Standard,Medium,2.85,0
+Toyota,CH-R,2019,2993094,76062,Hybrid,Automatic,1300,SUV,Kurunegala,Used,Dealer,Black,16,5,Medium Tax Era,Standard,High,39.35,0
+Toyota,Premio,2016,1982956,60662,Diesel,Automatic,1000,Sedan,Negombo,Used,Dealer,Black,17,8,Medium Tax Era,Standard,Medium,32.69,0
+Toyota,CH-R,2016,1672536,106081,Petrol,Manual,2000,SUV,Kalutara,Used,Individual,White,21,8,Medium Tax Era,Standard,Low,15.77,0
+Suzuki,Wagon R,2017,1253567,98606,Diesel,Automatic,1000,Hatchback,Negombo,Used,Individual,White,18,7,Medium Tax Era,Standard,Medium,12.71,1
+Mazda,Demio,2013,979651,246472,Petrol,Automatic,1800,Hatchback,Kalutara,Used,Dealer,White,10,11,Low Tax Era,Standard,Low,3.97,0
+KIA,Picanto,2020,2141501,29561,Petrol,Manual,1500,Van,Colombo,Reconditioned,Dealer,White,15,4,High Tax Era,Standard,Low,72.44,0
+Toyota,Aqua,2021,3589289,29199,Diesel,Automatic,1000,Hatchback,Kurunegala,Used,Individual,White,7,3,High Tax Era,Standard,Medium,122.92,1
+Honda,Accord,2020,2515162,22906,Petrol,Automatic,1000,Sedan,Jaffna,Reconditioned,Individual,Black,13,4,High Tax Era,Standard,Medium,109.8,0
+Mazda,Demio,2019,2808925,82520,Hybrid,Automatic,1800,Hatchback,Gampaha,Used,Dealer,Black,10,5,Medium Tax Era,Standard,High,34.04,0
+Toyota,Premio,2023,5383469,5733,Hybrid,Automatic,2000,Sedan,Galle,Used,Dealer,Black,17,1,High Tax Era,Standard,High,938.87,0
+Mazda,Atenza,2020,2659171,17139,Hybrid,Manual,1000,Wagon,Negombo,Reconditioned,Dealer,Silver,10,4,High Tax Era,Standard,High,155.14,0
+KIA,Cerato,2020,2421709,27713,Petrol,Automatic,1300,Van,Ratnapura,Used,Individual,White,17,4,High Tax Era,Standard,Medium,87.38,0
+Benz,C180,2011,1623622,224059,Petrol,Manual,2500,Coupe,Kandy,Used,Dealer,Black,19,13,Low Tax Era,Luxury,Low,7.25,0
+Toyota,Allion,2012,1495430,195953,Electric,Automatic,0,Sedan,Negombo,Reconditioned,Individual,White,22,12,Low Tax Era,Standard,Very High,7.63,0
+BMW,520d,2016,3104420,61427,Hybrid,Automatic,2500,Sedan,Kandy,Used,Dealer,Silver,6,8,Medium Tax Era,Luxury,High,50.54,0
+Benz,C180,2011,1578300,177768,Petrol,Manual,3500,SUV,Colombo,Used,Dealer,Silver,7,13,Low Tax Era,Luxury,Low,8.88,0
+Toyota,Premio,2020,3370301,43602,Electric,Automatic,0,Sedan,Gampaha,Used,Individual,Red,6,4,High Tax Era,Standard,Very High,77.3,0
+Toyota,Corolla,2018,2931631,66385,Hybrid,Automatic,1800,Sedan,Jaffna,Used,Dealer,Red,18,6,Medium Tax Era,Standard,High,44.16,0
+Toyota,Premio,2021,4353039,30251,Hybrid,Automatic,1000,Sedan,Colombo,Used,Dealer,White,6,3,High Tax Era,Standard,High,143.89,0
+Toyota,Aqua,2008,592588,237661,Petrol,Automatic,1500,Hatchback,Jaffna,Reconditioned,Dealer,White,23,16,Low Tax Era,Standard,Low,2.49,1
+Toyota,Corolla,2017,2515214,114319,Hybrid,Automatic,1000,Sedan,Colombo,Used,Individual,Black,5,7,Medium Tax Era,Standard,High,22,0
+Toyota,Allion,2015,1547342,92326,Petrol,Automatic,1300,Sedan,Colombo,Reconditioned,Individual,White,15,9,Low Tax Era,Standard,Medium,16.76,0
+KIA,Sportage,2021,2684505,41015,Petrol,Manual,1300,Van,Gampaha,Reconditioned,Dealer,White,24,3,High Tax Era,Standard,Medium,65.45,0
+Honda,Freed,2016,2006350,96446,Hybrid,Automatic,1500,Van,Kurunegala,Reconditioned,Dealer,Black,23,8,Medium Tax Era,Standard,High,20.8,0
+BMW,X3,2019,5061530,68380,Hybrid,Automatic,2500,Van,Negombo,Used,Individual,Green,13,5,Medium Tax Era,Luxury,High,74.02,0
+Toyota,Axio,2018,2145555,56309,Petrol,Automatic,1800,Sedan,Batticaloa,Used,Individual,Blue,9,6,Medium Tax Era,Standard,Low,38.1,1
+Suzuki,Hustler,2016,1392744,44703,Hybrid,Automatic,1300,Van,Anuradhapura,Reconditioned,Individual,White,23,8,Medium Tax Era,Standard,High,31.15,0
+Suzuki,Swift,2017,1212919,97056,Petrol,Automatic,1300,Hatchback,Batticaloa,Used,Individual,Grey,17,7,Medium Tax Era,Standard,Medium,12.5,1
+Toyota,Vezel,2017,1867769,109350,Petrol,Automatic,1000,SUV,Jaffna,Used,Individual,Silver,16,7,Medium Tax Era,Standard,Medium,17.08,1
+BMW,530i,2013,2259443,124738,Diesel,Automatic,3500,Hatchback,Colombo,Reconditioned,Individual,Silver,16,11,Low Tax Era,Luxury,Low,18.11,0
+Toyota,Allion,2015,1768292,75946,Hybrid,Automatic,2000,Sedan,Negombo,Reconditioned,Individual,Grey,10,9,Low Tax Era,Standard,High,23.28,0
+Toyota,Prius,2022,4783136,15968,Hybrid,Manual,2000,Sedan,Kandy,Used,Dealer,White,21,2,High Tax Era,Standard,High,299.53,1
+Honda,Civic,2022,4492655,16239,Hybrid,Automatic,1000,Sedan,Jaffna,Used,Individual,Black,22,2,High Tax Era,Standard,High,276.64,0
+Suzuki,Celerio,2009,500000,112556,Petrol,Manual,1800,Hatchback,Negombo,Used,Individual,White,19,15,Low Tax Era,Standard,Low,4.44,0
+Honda,City,2022,4119171,37473,Petrol,Automatic,1300,Sedan,Kalutara,Used,Dealer,Silver,23,2,High Tax Era,Standard,Medium,109.92,0
+Mitsubishi,Mirage,2017,1681770,48125,Hybrid,Manual,1000,Sedan,Jaffna,Used,Dealer,Silver,13,7,Medium Tax Era,Standard,High,34.95,0
+Honda,Freed,2014,1215291,84114,Hybrid,Manual,1000,Van,Jaffna,Used,Individual,White,11,10,Low Tax Era,Standard,High,14.45,0
+Toyota,Camry,2015,1464963,49108,Diesel,Automatic,1000,Sedan,Gampaha,Used,Individual,White,7,9,Low Tax Era,Standard,Medium,29.83,0
+Honda,Grace,2016,1784201,62612,Hybrid,Automatic,1800,Sedan,Gampaha,Used,Individual,Black,9,8,Medium Tax Era,Standard,High,28.5,0
+Suzuki,Swift,2019,2036488,99889,Hybrid,Automatic,2000,Hatchback,Colombo,Used,Dealer,Grey,8,5,Medium Tax Era,Standard,High,20.39,1
+Toyota,Premio,2016,1713424,77650,Petrol,Automatic,2000,Sedan,Gampaha,Used,Dealer,Black,20,8,Medium Tax Era,Standard,Low,22.07,0
+Nissan,March,2014,1243285,234243,Hybrid,Automatic,1000,Hatchback,Colombo,Reconditioned,Individual,Red,21,10,Low Tax Era,Standard,High,5.31,0
+Toyota,Allion,2015,2028167,52149,Hybrid,Automatic,2000,Sedan,Kalutara,Used,Dealer,Blue,13,9,Low Tax Era,Standard,High,38.89,0
+Honda,Accord,2015,1770451,115388,Electric,Automatic,0,Sedan,Ratnapura,Used,Individual,Blue,11,9,Low Tax Era,Standard,Very High,15.34,0
+Toyota,Allion,2012,874572,207556,Petrol,Manual,1300,Sedan,Galle,Used,Individual,White,7,12,Low Tax Era,Standard,Medium,4.21,0
+Suzuki,Alto,2013,705366,87421,Petrol,Automatic,1000,Hatchback,Kandy,Reconditioned,Individual,Red,21,11,Low Tax Era,Standard,Medium,8.07,1
+Toyota,Axio,2017,2312082,73893,Hybrid,Automatic,1800,Sedan,Anuradhapura,Used,Individual,White,10,7,Medium Tax Era,Standard,High,31.29,1
+Toyota,Aqua,2020,3277434,20051,Hybrid,Automatic,2000,Hatchback,Kurunegala,Used,Dealer,White,7,4,High Tax Era,Standard,High,163.45,1
+Toyota,Prius,2015,2141989,49686,Hybrid,Automatic,1800,Hatchback,Colombo,Reconditioned,Dealer,White,20,9,Low Tax Era,Standard,High,43.11,1
+Suzuki,Celerio,2019,1576404,69328,Diesel,Manual,1500,Coupe,Gampaha,Used,Individual,Green,12,5,Medium Tax Era,Standard,Low,22.74,0
+Toyota,Premio,2011,733156,201237,Petrol,Manual,1000,Sedan,Galle,Used,Individual,White,8,13,Low Tax Era,Standard,Medium,3.64,0
+Toyota,Prius,2015,2129384,75585,Electric,Automatic,0,SUV,Gampaha,Reconditioned,Dealer,Grey,10,9,Low Tax Era,Standard,Very High,28.17,1
+Suzuki,Spacia,2017,1447404,101929,Hybrid,Automatic,1300,Wagon,Jaffna,Used,Dealer,Blue,20,7,Medium Tax Era,Standard,High,14.2,0
+Mitsubishi,Mirage,2009,542074,100609,Petrol,Manual,1300,Hatchback,Colombo,Reconditioned,Dealer,Brown,18,15,Low Tax Era,Standard,Medium,5.39,0
+KIA,Cerato,2014,1173747,246370,Diesel,Automatic,2000,Hatchback,Colombo,Used,Individual,Gold,16,10,Low Tax Era,Standard,Low,4.76,0
+Suzuki,Every,2021,2187595,43179,Diesel,Automatic,2000,Van,Kurunegala,Used,Individual,Black,9,3,High Tax Era,Standard,Low,50.66,0
+Suzuki,Alto,2016,1057359,89841,Petrol,Automatic,660,Hatchback,Colombo,Used,Individual,Red,18,8,Medium Tax Era,Standard,Medium,11.77,1
+Honda,Civic,2017,2346337,86851,Electric,Automatic,0,Sedan,Gampaha,Used,Dealer,Black,11,7,Medium Tax Era,Standard,Very High,27.02,0
+Mitsubishi,ASX,2018,2215218,66715,Hybrid,Automatic,2000,Coupe,Colombo,Reconditioned,Individual,Black,10,6,Medium Tax Era,Standard,High,33.2,0
+Nissan,March,2012,810225,140428,Petrol,Automatic,660,Hatchback,Colombo,Used,Individual,Black,21,12,Low Tax Era,Standard,Medium,5.77,0
+Suzuki,Hustler,2013,939717,109300,Hybrid,Automatic,1800,Van,Matara,Reconditioned,Dealer,Grey,14,11,Low Tax Era,Standard,High,8.6,0
+KIA,Sportage,2011,714746,83191,Petrol,Automatic,1800,Wagon,Kalutara,Used,Individual,Red,15,13,Low Tax Era,Standard,Low,8.59,0
+Suzuki,Spacia,2017,1323240,89230,Hybrid,Automatic,2000,SUV,Batticaloa,Used,Individual,White,12,7,Medium Tax Era,Standard,High,14.83,0
+Nissan,Tiida,2019,2305179,116816,Electric,Automatic,0,Hatchback,Batticaloa,Used,Dealer,Gold,23,5,Medium Tax Era,Standard,Very High,19.73,0
+Toyota,Premio,2017,1978674,116295,Petrol,Automatic,1800,Sedan,Ratnapura,Reconditioned,Individual,Green,19,7,Medium Tax Era,Standard,Low,17.01,0
+Toyota,Allion,2019,3181059,99560,Electric,Automatic,0,Sedan,Gampaha,Reconditioned,Individual,Black,6,5,Medium Tax Era,Standard,Very High,31.95,0
+Honda,City,2016,2245244,100703,Hybrid,Automatic,1000,Hatchback,Gampaha,Used,Individual,Black,22,8,Medium Tax Era,Standard,High,22.3,0
+Toyota,Premio,2018,2792067,104946,Hybrid,Automatic,1500,Sedan,Gampaha,Reconditioned,Dealer,White,19,6,Medium Tax Era,Standard,High,26.6,0
+Nissan,Tiida,2022,3176221,48069,Hybrid,Automatic,1800,SUV,Ratnapura,Used,Individual,Black,17,2,High Tax Era,Standard,High,66.07,0
+Toyota,Allion,2019,3244379,84638,Hybrid,Automatic,1800,Sedan,Galle,Reconditioned,Dealer,Black,23,5,Medium Tax Era,Standard,High,38.33,0
+Toyota,Corolla,2019,2749009,69806,Petrol,Automatic,1000,Sedan,Anuradhapura,Reconditioned,Individual,White,14,5,Medium Tax Era,Standard,Medium,39.38,0
+Toyota,Premio,2018,2391267,119578,Petrol,Automatic,2000,Sedan,Galle,Used,Dealer,Blue,16,6,Medium Tax Era,Standard,Low,20,0
+Toyota,Prius,2019,2419022,55379,Diesel,Automatic,1500,Wagon,Gampaha,Used,Dealer,Red,7,5,Medium Tax Era,Standard,Low,43.68,1
+Honda,Freed,2018,2359263,99796,Petrol,Automatic,1800,Van,Colombo,Reconditioned,Dealer,Black,18,6,Medium Tax Era,Standard,Low,23.64,0
+Toyota,Camry,2017,2545092,76727,Hybrid,Automatic,1300,Sedan,Colombo,Used,Individual,Silver,23,7,Medium Tax Era,Standard,High,33.17,0
+Toyota,Camry,2018,2768839,83934,Hybrid,Automatic,2000,Sedan,Gampaha,Used,Individual,White,24,6,Medium Tax Era,Standard,High,32.99,0
+Mitsubishi,Lancer,2018,2556259,61621,Hybrid,Automatic,1800,Van,Colombo,Reconditioned,Individual,Blue,15,6,Medium Tax Era,Standard,High,41.48,0
+Hyundai,Accent,2012,762426,219401,Diesel,Automatic,1000,Coupe,Gampaha,Reconditioned,Individual,White,23,12,Low Tax Era,Standard,Medium,3.48,0
+Suzuki,Swift,2015,943568,47999,Petrol,Automatic,1300,Hatchback,Negombo,Reconditioned,Dealer,White,11,9,Low Tax Era,Standard,Medium,19.66,1
+Suzuki,Wagon R,2008,500000,205736,Petrol,Automatic,660,Hatchback,Kurunegala,Reconditioned,Dealer,White,16,16,Low Tax Era,Standard,Medium,2.43,1
+Toyota,CH-R,2013,1261256,99675,Hybrid,Manual,1300,SUV,Gampaha,Reconditioned,Individual,Grey,15,11,Low Tax Era,Standard,High,12.65,0
+KIA,Sportage,2014,1196966,97073,Diesel,Automatic,1300,SUV,Galle,Reconditioned,Dealer,White,16,10,Low Tax Era,Standard,Medium,12.33,0
+Honda,Insight,2022,3663274,43228,Hybrid,Automatic,1000,SUV,Kalutara,Used,Dealer,White,5,2,High Tax Era,Standard,High,84.74,0
+Toyota,Camry,2010,805206,244437,Petrol,Automatic,2000,Sedan,Kandy,Used,Individual,Red,21,14,Low Tax Era,Standard,Low,3.29,0
+Toyota,Vitz,2020,2872491,28140,Petrol,Automatic,1000,Hatchback,Kandy,Reconditioned,Individual,Silver,16,4,High Tax Era,Standard,Medium,102.07,0
+Suzuki,Hustler,2015,1000016,56994,Petrol,Automatic,2000,Van,Ratnapura,Used,Dealer,White,12,9,Low Tax Era,Standard,Low,17.55,0
+Mazda,CX-5,2013,1062915,107624,Hybrid,Manual,1000,SUV,Colombo,Used,Individual,Brown,5,11,Low Tax Era,Standard,High,9.88,0
+Mitsubishi,Pajero,2016,1345388,91578,Diesel,Automatic,1500,SUV,Galle,Used,Individual,Red,8,8,Medium Tax Era,Standard,Low,14.69,0
+Toyota,Corolla,2015,1969828,107821,Hybrid,Automatic,1800,Sedan,Colombo,Used,Dealer,Black,22,9,Low Tax Era,Standard,High,18.27,0
+Suzuki,Hustler,2013,715116,169087,Diesel,Manual,1500,Wagon,Kurunegala,Used,Individual,Grey,16,11,Low Tax Era,Standard,Low,4.23,0
+Toyota,Aqua,2015,1505789,82870,Petrol,Automatic,1300,Hatchback,Anuradhapura,Used,Individual,White,9,9,Low Tax Era,Standard,Medium,18.17,1
+Suzuki,Wagon R,2019,1755945,64217,Petrol,Automatic,660,Hatchback,Gampaha,Used,Dealer,White,16,5,Medium Tax Era,Standard,Medium,27.34,1
+KIA,Rio,2016,1231655,83732,Petrol,Automatic,1800,Van,Colombo,Used,Individual,White,5,8,Medium Tax Era,Standard,Low,14.71,0
+Toyota,Corolla,2018,3268388,69009,Hybrid,Automatic,1000,Sedan,Kandy,Reconditioned,Dealer,Silver,24,6,Medium Tax Era,Standard,High,47.36,0
+Toyota,Axio,2018,2901256,40155,Hybrid,Automatic,1800,Sedan,Matara,Used,Individual,Silver,8,6,Medium Tax Era,Standard,High,72.25,1
+Toyota,Premio,2009,669170,189869,Diesel,Manual,1000,Sedan,Ratnapura,Reconditioned,Dealer,White,5,15,Low Tax Era,Standard,Medium,3.52,0
+Toyota,Prius,2016,2169055,42597,Petrol,Automatic,1500,SUV,Colombo,Reconditioned,Individual,White,18,8,Medium Tax Era,Standard,Low,50.92,1
+Toyota,Corolla,2014,1928067,95282,Hybrid,Automatic,1800,Sedan,Batticaloa,Used,Dealer,White,23,10,Low Tax Era,Standard,High,20.24,0
+Toyota,Vitz,2011,928547,242727,Petrol,Automatic,1000,Hatchback,Gampaha,Used,Dealer,White,18,13,Low Tax Era,Standard,Medium,3.83,0
+Toyota,Allion,2020,3606783,29849,Hybrid,Automatic,1000,Sedan,Kurunegala,Reconditioned,Individual,Blue,20,4,High Tax Era,Standard,High,120.83,0
+Honda,Accord,2019,3010460,107028,Hybrid,Automatic,1800,Wagon,Colombo,Used,Individual,Brown,8,5,Medium Tax Era,Standard,High,28.13,0
+Toyota,Aqua,2009,675533,112174,Petrol,Manual,1000,Hatchback,Colombo,Used,Individual,Gold,10,15,Low Tax Era,Standard,Medium,6.02,1
+Nissan,Caravan,2018,1617859,83355,Petrol,Automatic,2000,Van,Gampaha,Reconditioned,Individual,Black,13,6,Medium Tax Era,Standard,Low,19.41,0
+Honda,Freed,2020,3131542,43369,Diesel,Automatic,1300,Van,Colombo,Reconditioned,Individual,Black,17,4,High Tax Era,Standard,Medium,72.21,0
+Toyota,Axio,2016,1897007,103315,Petrol,Automatic,1000,Sedan,Colombo,Used,Individual,White,11,8,Medium Tax Era,Standard,Medium,18.36,1
+Honda,Freed,2015,1747943,105333,Electric,Automatic,0,Van,Kurunegala,Used,Individual,White,11,9,Low Tax Era,Standard,Very High,16.59,0
+Toyota,Axio,2016,1805777,99518,Petrol,Automatic,1800,Sedan,Anuradhapura,Reconditioned,Dealer,White,20,8,Medium Tax Era,Standard,Low,18.15,1
+Nissan,Caravan,2019,2206690,77383,Hybrid,Automatic,2000,Van,Colombo,Reconditioned,Dealer,White,8,5,Medium Tax Era,Standard,High,28.52,0
+Suzuki,Alto,2011,516927,114542,Petrol,Manual,660,Hatchback,Gampaha,Used,Dealer,Black,13,13,Low Tax Era,Standard,Medium,4.51,1
+KIA,Cerato,2008,609535,150194,Diesel,Automatic,1800,SUV,Colombo,Reconditioned,Dealer,White,20,16,Low Tax Era,Standard,Low,4.06,0
+Mitsubishi,Outlander,2015,1635070,42282,Hybrid,Automatic,1300,SUV,Matara,Reconditioned,Individual,Black,10,9,Low Tax Era,Standard,High,38.67,0
+Honda,Grace,2015,1626748,76268,Petrol,Automatic,1300,Sedan,Colombo,Used,Individual,Black,16,9,Low Tax Era,Standard,Medium,21.33,0
+Suzuki,Ertiga,2020,1982962,25233,Diesel,Automatic,1800,Sedan,Galle,Used,Individual,Silver,9,4,High Tax Era,Standard,Low,78.58,0
+Toyota,Allion,2014,1513706,197961,Hybrid,Automatic,1500,Sedan,Matara,Used,Dealer,White,9,10,Low Tax Era,Standard,High,7.65,0
+Mazda,CX-5,2017,1960953,57438,Hybrid,Automatic,2000,SUV,Batticaloa,Used,Individual,White,18,7,Medium Tax Era,Standard,High,34.14,0
+Suzuki,Alto,2015,1168950,58693,Hybrid,Automatic,800,Hatchback,Matara,Used,Individual,Black,7,9,Low Tax Era,Standard,High,19.92,1
+Honda,Civic,2017,1682317,65372,Petrol,Manual,1800,Sedan,Batticaloa,Used,Dealer,Green,13,7,Medium Tax Era,Standard,Low,25.73,0
+Suzuki,Spacia,2013,698896,130098,Diesel,Manual,2000,SUV,Galle,Used,Dealer,White,15,11,Low Tax Era,Standard,Low,5.37,0
+Toyota,Vezel,2023,5582165,5504,Hybrid,Automatic,1500,SUV,Negombo,Used,Individual,White,23,1,High Tax Era,Standard,High,1014.02,1
+Suzuki,Hustler,2020,2240344,50428,Hybrid,Automatic,1500,Wagon,Gampaha,Used,Individual,White,15,4,High Tax Era,Standard,High,44.43,0
+Toyota,Vezel,2014,1104820,146093,Petrol,Manual,1500,SUV,Batticaloa,Used,Individual,Grey,8,10,Low Tax Era,Standard,Low,7.56,1
+Toyota,Vezel,2016,2412760,91098,Hybrid,Automatic,1300,SUV,Anuradhapura,Reconditioned,Individual,Black,19,8,Medium Tax Era,Standard,High,26.49,1
+Honda,Insight,2016,1596583,88456,Petrol,Automatic,1000,Sedan,Colombo,Used,Individual,White,9,8,Medium Tax Era,Standard,Medium,18.05,0
+Honda,City,2018,2548964,67103,Electric,Automatic,0,SUV,Colombo,Reconditioned,Individual,Black,6,6,Medium Tax Era,Standard,Very High,37.99,0
+Nissan,X-Trail,2021,3127838,42810,Electric,Automatic,0,SUV,Gampaha,Reconditioned,Individual,Red,9,3,High Tax Era,Standard,Very High,73.06,0
+Toyota,Vezel,2021,3794884,22295,Hybrid,Manual,1500,SUV,Colombo,Used,Individual,White,8,3,High Tax Era,Standard,High,170.2,1
+Toyota,Axio,2017,2520033,81869,Hybrid,Manual,1300,Sedan,Colombo,Used,Dealer,Silver,21,7,Medium Tax Era,Standard,High,30.78,1
+Mitsubishi,ASX,2010,634178,191041,Diesel,Automatic,1800,Hatchback,Matara,Used,Dealer,Black,11,14,Low Tax Era,Standard,Low,3.32,0
+Toyota,Corolla,2013,1467558,246668,Hybrid,Automatic,1000,Sedan,Colombo,Reconditioned,Dealer,Grey,14,11,Low Tax Era,Standard,High,5.95,0
+Honda,Civic,2017,1722880,52145,Petrol,Automatic,1800,Sedan,Gampaha,Used,Dealer,White,12,7,Medium Tax Era,Standard,Low,33.04,0
+Suzuki,Spacia,2020,2438368,22927,Hybrid,Automatic,1800,Sedan,Colombo,Used,Individual,White,10,4,High Tax Era,Standard,High,106.35,0
+Honda,Accord,2008,593856,160811,Diesel,Automatic,1500,Sedan,Gampaha,Used,Dealer,White,8,16,Low Tax Era,Standard,Low,3.69,0
+Hyundai,Santa Fe,2020,2221521,59452,Petrol,Automatic,2000,Sedan,Jaffna,Reconditioned,Dealer,White,15,4,High Tax Era,Standard,Low,37.37,0
+BMW,X3,2011,1575188,173635,Diesel,Automatic,3500,Van,Kurunegala,Reconditioned,Individual,Black,20,13,Low Tax Era,Luxury,Low,9.07,0
+Mazda,Atenza,2016,1337079,45355,Petrol,Manual,2000,Hatchback,Kandy,Used,Dealer,Black,10,8,Medium Tax Era,Standard,Low,29.48,0
+KIA,Sportage,2019,1924985,97505,Diesel,Manual,1800,Hatchback,Batticaloa,Reconditioned,Individual,Silver,5,5,Medium Tax Era,Standard,Low,19.74,0
+Toyota,Axio,2018,1935502,66672,Petrol,Automatic,1800,Sedan,Negombo,Used,Individual,Brown,6,6,Medium Tax Era,Standard,Low,29.03,1
+Toyota,Camry,2009,688385,247093,Petrol,Manual,1000,Sedan,Galle,Reconditioned,Dealer,White,20,15,Low Tax Era,Standard,Medium,2.79,0
+Suzuki,Alto,2020,1826297,47245,Petrol,Automatic,800,Hatchback,Colombo,Used,Individual,White,5,4,High Tax Era,Standard,Medium,38.66,1
+Toyota,Corolla,2015,1821351,86607,Hybrid,Automatic,2000,Sedan,Jaffna,Reconditioned,Individual,Grey,5,9,Low Tax Era,Standard,High,21.03,0
+Toyota,Vitz,2012,1217181,170306,Hybrid,Manual,1300,Hatchback,Ratnapura,Used,Individual,White,12,12,Low Tax Era,Standard,High,7.15,0
+Mitsubishi,Pajero,2017,1639147,101215,Petrol,Automatic,1500,Hatchback,Colombo,Used,Dealer,Red,17,7,Medium Tax Era,Standard,Low,16.19,0
+Benz,A-Class,2015,3020102,114218,Hybrid,Manual,3000,Sedan,Negombo,Reconditioned,Individual,White,9,9,Low Tax Era,Luxury,High,26.44,0
+Toyota,Vezel,2011,945029,238117,Petrol,Automatic,2000,SUV,Batticaloa,Reconditioned,Dealer,Brown,22,13,Low Tax Era,Standard,Low,3.97,1
+Toyota,Axio,2012,1153579,123527,Petrol,Automatic,1000,Sedan,Batticaloa,Used,Individual,Black,16,12,Low Tax Era,Standard,Medium,9.34,1
+Toyota,Axio,2016,2608809,113402,Electric,Automatic,0,Sedan,Kandy,Used,Dealer,White,22,8,Medium Tax Era,Standard,Very High,23,1
+Toyota,Axio,2018,2580714,68001,Hybrid,Automatic,1300,Sedan,Gampaha,Reconditioned,Dealer,Red,8,6,Medium Tax Era,Standard,High,37.95,1
+Honda,City,2019,2734811,95388,Hybrid,Automatic,1300,Van,Kalutara,Used,Individual,Silver,14,5,Medium Tax Era,Standard,High,28.67,0
+Mazda,Atenza,2013,1046606,161050,Petrol,Automatic,2000,Wagon,Gampaha,Used,Individual,Brown,23,11,Low Tax Era,Standard,Low,6.5,0
+Suzuki,Celerio,2015,1048782,49171,Petrol,Automatic,1500,Sedan,Gampaha,Used,Dealer,Green,24,9,Low Tax Era,Standard,Low,21.33,0
+Suzuki,Wagon R,2013,836890,95417,Hybrid,Manual,1000,Hatchback,Colombo,Used,Individual,White,21,11,Low Tax Era,Standard,High,8.77,1
+Honda,Fit,2021,4277635,27996,Hybrid,Automatic,2000,Hatchback,Ratnapura,Used,Individual,Black,19,3,High Tax Era,Standard,High,152.79,1
+Mazda,CX-3,2015,1462783,42179,Hybrid,Manual,1300,Van,Gampaha,Used,Individual,Silver,18,9,Low Tax Era,Standard,High,34.68,0
+Toyota,Allion,2014,1725376,180772,Hybrid,Automatic,1500,Sedan,Gampaha,Reconditioned,Dealer,Red,14,10,Low Tax Era,Standard,High,9.54,0
+Suzuki,Wagon R,2016,873914,47415,Petrol,Manual,1000,Hatchback,Ratnapura,Used,Individual,Black,10,8,Medium Tax Era,Standard,Medium,18.43,1
+BMW,530i,2013,2039365,165076,Diesel,Automatic,2500,Coupe,Batticaloa,Reconditioned,Individual,Silver,19,11,Low Tax Era,Luxury,Low,12.35,0
+Nissan,March,2014,985101,246589,Hybrid,Automatic,1000,Hatchback,Gampaha,Used,Dealer,Blue,11,10,Low Tax Era,Standard,High,3.99,0
+Nissan,X-Trail,2017,1669330,55088,Diesel,Automatic,1300,SUV,Colombo,Reconditioned,Dealer,Silver,15,7,Medium Tax Era,Standard,Medium,30.3,0
+Suzuki,Wagon R,2017,1425500,118958,Hybrid,Automatic,800,Hatchback,Negombo,Reconditioned,Individual,Green,6,7,Medium Tax Era,Standard,High,11.98,1
+Nissan,Note,2019,2066234,105942,Petrol,Manual,1000,Sedan,Colombo,Used,Individual,White,24,5,Medium Tax Era,Standard,Medium,19.5,0
+Mazda,Axela,2018,1988423,40174,Diesel,Automatic,1000,SUV,Galle,Used,Individual,Brown,21,6,Medium Tax Era,Standard,Medium,49.49,0
+Mazda,Mazda 3,2018,2110082,90445,Hybrid,Automatic,1500,Wagon,Galle,Reconditioned,Dealer,White,5,6,Medium Tax Era,Standard,High,23.33,0
+Suzuki,Ertiga,2012,799233,147391,Hybrid,Manual,1500,SUV,Colombo,Reconditioned,Individual,White,23,12,Low Tax Era,Standard,High,5.42,0
+Toyota,Vezel,2021,3854270,26889,Hybrid,Manual,1300,SUV,Colombo,Used,Individual,White,15,3,High Tax Era,Standard,High,143.33,1
+Suzuki,Spacia,2014,815087,221880,Hybrid,Automatic,1500,Sedan,Kandy,Used,Dealer,White,6,10,Low Tax Era,Standard,High,3.67,0
+Suzuki,Wagon R,2018,1990175,43765,Hybrid,Automatic,1000,Hatchback,Ratnapura,Used,Individual,White,22,6,Medium Tax Era,Standard,High,45.47,1
+KIA,Sorento,2016,1457707,95312,Petrol,Automatic,1800,Coupe,Colombo,Used,Dealer,White,21,8,Medium Tax Era,Standard,Low,15.29,0
+Toyota,Camry,2016,2114262,119650,Petrol,Automatic,1300,Sedan,Colombo,Reconditioned,Dealer,White,19,8,Medium Tax Era,Standard,Medium,17.67,0
+Toyota,Vitz,2018,2632956,101842,Hybrid,Automatic,2000,Hatchback,Batticaloa,Used,Individual,Silver,5,6,Medium Tax Era,Standard,High,25.85,0
+Honda,Vezel,2014,1196614,131707,Petrol,Automatic,1500,SUV,Colombo,Used,Dealer,Red,20,10,Low Tax Era,Standard,Low,9.09,1
+Nissan,Caravan,2018,1810187,95276,Diesel,Automatic,1800,Van,Galle,Reconditioned,Dealer,White,13,6,Medium Tax Era,Standard,Low,19,0
+Toyota,Vitz,2022,5231942,58664,Hybrid,Automatic,1300,Hatchback,Ratnapura,Used,Dealer,Black,19,2,High Tax Era,Standard,High,89.18,0
+Suzuki,Swift,2008,500000,241015,Petrol,Automatic,1000,Hatchback,Negombo,Used,Individual,White,19,16,Low Tax Era,Standard,Medium,2.07,1
+Toyota,Aqua,2013,1643340,85039,Electric,Automatic,0,Hatchback,Colombo,Used,Dealer,Silver,20,11,Low Tax Era,Standard,Very High,19.32,1
+KIA,Picanto,2016,1650886,83326,Hybrid,Automatic,1300,Coupe,Negombo,Reconditioned,Individual,White,14,8,Medium Tax Era,Standard,High,19.81,0
+Toyota,Corolla,2014,1209896,165947,Diesel,Manual,1000,Sedan,Ratnapura,Used,Individual,Grey,10,10,Low Tax Era,Standard,Medium,7.29,0
+Suzuki,Hustler,2012,668598,153233,Hybrid,Automatic,1500,Hatchback,Gampaha,Used,Individual,White,8,12,Low Tax Era,Standard,High,4.36,0
+Toyota,Axio,2015,1969399,96704,Electric,Automatic,0,Sedan,Ratnapura,Used,Dealer,Red,7,9,Low Tax Era,Standard,Very High,20.37,1
+Honda,Vezel,2019,2673147,42187,Petrol,Automatic,1000,SUV,Gampaha,Used,Dealer,Red,18,5,Medium Tax Era,Standard,Medium,63.36,1
+Hyundai,Elantra,2017,1659532,106736,Hybrid,Manual,1000,Sedan,Gampaha,Used,Dealer,Black,13,7,Medium Tax Era,Standard,High,15.55,0
+Honda,Fit,2014,1345704,96322,Diesel,Automatic,1000,Hatchback,Negombo,Used,Individual,Silver,19,10,Low Tax Era,Standard,Medium,13.97,1
+Suzuki,Celerio,2008,500000,203364,Diesel,Automatic,1000,Coupe,Colombo,Used,Dealer,White,14,16,Low Tax Era,Standard,Medium,2.46,0
+Honda,Grace,2016,1538681,109166,Diesel,Automatic,1800,Sedan,Batticaloa,Used,Individual,Red,5,8,Medium Tax Era,Standard,Low,14.09,0
+Honda,City,2019,2167603,70049,Diesel,Manual,1300,Wagon,Colombo,Used,Dealer,White,11,5,Medium Tax Era,Standard,Medium,30.94,0
+Honda,City,2011,801774,210841,Diesel,Automatic,1000,Wagon,Kurunegala,Reconditioned,Dealer,Silver,7,13,Low Tax Era,Standard,Medium,3.8,0
+Honda,Accord,2018,2127703,49359,Petrol,Automatic,1000,Wagon,Jaffna,Reconditioned,Individual,White,13,6,Medium Tax Era,Standard,Medium,43.11,0
+Suzuki,Swift,2020,2123440,44100,Hybrid,Automatic,1000,Hatchback,Anuradhapura,Reconditioned,Individual,White,10,4,High Tax Era,Standard,High,48.15,1
+Suzuki,Hustler,2020,1992241,45835,Hybrid,Automatic,1300,Wagon,Kandy,Reconditioned,Dealer,Silver,7,4,High Tax Era,Standard,High,43.46,0
+Suzuki,Ertiga,2017,1327438,67197,Diesel,Automatic,1500,Hatchback,Kalutara,Used,Individual,Blue,21,7,Medium Tax Era,Standard,Low,19.75,0
+Honda,Grace,2019,2313838,118542,Petrol,Automatic,1000,Sedan,Ratnapura,Used,Dealer,Blue,24,5,Medium Tax Era,Standard,Medium,19.52,0
+Honda,Accord,2018,1963120,75931,Petrol,Manual,2000,Hatchback,Ratnapura,Reconditioned,Dealer,Silver,8,6,Medium Tax Era,Standard,Low,25.85,0
+Suzuki,Spacia,2012,819424,198028,Hybrid,Automatic,1500,Sedan,Colombo,Used,Individual,Brown,16,12,Low Tax Era,Standard,High,4.14,0
+Honda,Grace,2018,1979083,112075,Diesel,Automatic,1000,Sedan,Negombo,Used,Individual,Brown,5,6,Medium Tax Era,Standard,Medium,17.66,0
+Mitsubishi,Mirage,2018,2335752,106458,Hybrid,Automatic,2000,Van,Batticaloa,Used,Dealer,Red,24,6,Medium Tax Era,Standard,High,21.94,0
+Suzuki,Wagon R,2016,1191895,106629,Diesel,Manual,1000,Hatchback,Colombo,Used,Dealer,White,18,8,Medium Tax Era,Standard,Medium,11.18,1
+Toyota,CH-R,2023,5162520,13017,Petrol,Automatic,1000,SUV,Colombo,Used,Individual,Green,15,1,High Tax Era,Standard,Medium,396.57,0
+Mitsubishi,Mirage,2020,2801181,52228,Hybrid,Automatic,2000,Wagon,Colombo,Used,Individual,Red,15,4,High Tax Era,Standard,High,53.63,0
+Toyota,Premio,2013,1110397,244005,Petrol,Manual,1000,Sedan,Colombo,Reconditioned,Dealer,Silver,7,11,Low Tax Era,Standard,Medium,4.55,0
+Suzuki,Every,2017,1372468,116312,Petrol,Automatic,1500,Van,Negombo,Used,Individual,White,23,7,Medium Tax Era,Standard,Low,11.8,0
+Suzuki,Alto,2014,905330,202564,Hybrid,Automatic,660,Hatchback,Kurunegala,Reconditioned,Dealer,Red,18,10,Low Tax Era,Standard,High,4.47,1
+Suzuki,Alto,2015,962503,103185,Petrol,Manual,660,Hatchback,Kurunegala,Used,Dealer,White,23,9,Low Tax Era,Standard,Medium,9.33,1
+Mitsubishi,Outlander,2012,970304,221013,Hybrid,Automatic,1300,SUV,Ratnapura,Used,Dealer,Silver,16,12,Low Tax Era,Standard,High,4.39,0
+Honda,Freed,2016,1962237,43255,Electric,Manual,0,Van,Matara,Used,Dealer,White,15,8,Medium Tax Era,Standard,Very High,45.36,0
+Suzuki,Spacia,2018,1962645,45021,Electric,Automatic,0,Coupe,Colombo,Reconditioned,Dealer,Grey,20,6,Medium Tax Era,Standard,Very High,43.59,0
+Mitsubishi,Outlander,2023,3466254,2759,Petrol,Automatic,1000,SUV,Jaffna,Used,Individual,White,11,1,High Tax Era,Standard,Medium,1255.89,0
+Suzuki,Wagon R,2020,2098109,47093,Diesel,Automatic,800,Hatchback,Colombo,Used,Individual,Black,10,4,High Tax Era,Standard,Medium,44.55,1
+Toyota,Premio,2016,1877635,97124,Hybrid,Manual,1800,Sedan,Matara,Used,Individual,White,14,8,Medium Tax Era,Standard,High,19.33,0
+Suzuki,Every,2014,697500,215203,Petrol,Manual,1300,Van,Jaffna,Used,Individual,White,6,10,Low Tax Era,Standard,Medium,3.24,0
+Nissan,X-Trail,2019,2523217,50692,Hybrid,Automatic,1500,SUV,Colombo,Used,Dealer,Black,14,5,Medium Tax Era,Standard,High,49.77,0
+Toyota,Vezel,2015,2136951,110744,Hybrid,Automatic,1000,SUV,Gampaha,Reconditioned,Individual,Blue,21,9,Low Tax Era,Standard,High,19.3,1
+Hyundai,Tucson,2012,873751,134353,Hybrid,Automatic,1800,SUV,Matara,Used,Individual,Grey,22,12,Low Tax Era,Standard,High,6.5,0
+Honda,Vezel,2019,2235879,75303,Petrol,Manual,2000,SUV,Negombo,Used,Individual,Grey,8,5,Medium Tax Era,Standard,Low,29.69,1
+Hyundai,Accent,2018,2105055,43262,Hybrid,Automatic,1500,Van,Kandy,Used,Dealer,Silver,10,6,Medium Tax Era,Standard,High,48.66,0
+Honda,Fit,2019,3139590,51874,Electric,Manual,0,Hatchback,Negombo,Used,Dealer,White,24,5,Medium Tax Era,Standard,Very High,60.52,1
+Toyota,Premio,2020,3540197,34942,Hybrid,Automatic,2000,Sedan,Matara,Reconditioned,Dealer,Red,8,4,High Tax Era,Standard,High,101.31,0
+Suzuki,Wagon R,2014,916572,183751,Electric,Automatic,0,Hatchback,Colombo,Used,Individual,Brown,11,10,Low Tax Era,Standard,Very High,4.99,1
+Nissan,Tiida,2012,881070,173185,Hybrid,Automatic,2000,Hatchback,Matara,Used,Individual,White,20,12,Low Tax Era,Standard,High,5.09,0
+Suzuki,Hustler,2018,1661063,71923,Hybrid,Automatic,1800,Coupe,Kandy,Used,Dealer,White,7,6,Medium Tax Era,Standard,High,23.09,0
+Toyota,Aqua,2019,3234704,118840,Hybrid,Automatic,1800,Hatchback,Matara,Used,Individual,Red,15,5,Medium Tax Era,Standard,High,27.22,1
+Toyota,Camry,2018,2544984,109460,Hybrid,Manual,1300,Sedan,Ratnapura,Used,Individual,White,21,6,Medium Tax Era,Standard,High,23.25,0
+Toyota,Aqua,2014,1571553,138817,Hybrid,Manual,1800,Hatchback,Kurunegala,Used,Individual,White,10,10,Low Tax Era,Standard,High,11.32,1
+KIA,Rio,2015,1319104,117475,Electric,Automatic,0,Sedan,Kurunegala,Reconditioned,Dealer,White,7,9,Low Tax Era,Standard,Very High,11.23,0
+Toyota,Aqua,2010,720128,243623,Petrol,Manual,1300,Hatchback,Colombo,Reconditioned,Individual,White,16,14,Low Tax Era,Standard,Medium,2.96,1
+Toyota,Corolla,2021,3114238,20698,Petrol,Automatic,1300,Sedan,Kurunegala,Reconditioned,Individual,White,9,3,High Tax Era,Standard,Medium,150.45,0
+Hyundai,i10,2008,500000,223464,Petrol,Automatic,1300,Hatchback,Anuradhapura,Reconditioned,Individual,Silver,5,16,Low Tax Era,Standard,Medium,2.24,0
+Nissan,Note,2014,1126375,191576,Hybrid,Manual,2000,Coupe,Colombo,Used,Dealer,Gold,18,10,Low Tax Era,Standard,High,5.88,0
+Suzuki,Every,2017,1388633,100281,Hybrid,Manual,1800,Van,Kurunegala,Reconditioned,Dealer,Blue,12,7,Medium Tax Era,Standard,High,13.85,0
+KIA,Sorento,2017,1486159,47347,Petrol,Automatic,2000,Wagon,Colombo,Used,Individual,White,10,7,Medium Tax Era,Standard,Low,31.39,0
+Toyota,Prius,2018,2388549,54011,Hybrid,Manual,1800,Van,Ratnapura,Reconditioned,Dealer,Silver,13,6,Medium Tax Era,Standard,High,44.22,1
+Mitsubishi,Montero,2010,595086,212659,Petrol,Automatic,2000,Sedan,Galle,Used,Individual,Blue,21,14,Low Tax Era,Standard,Low,2.8,0
+KIA,Sportage,2014,992968,139993,Petrol,Manual,2000,Coupe,Colombo,Used,Individual,Silver,17,10,Low Tax Era,Standard,Low,7.09,0
+Toyota,Axio,2008,689816,224341,Petrol,Automatic,1300,Sedan,Kandy,Used,Individual,White,22,16,Low Tax Era,Standard,Medium,3.07,1
+Honda,Freed,2020,2510602,29719,Petrol,Automatic,1500,Van,Negombo,Used,Dealer,White,7,4,High Tax Era,Standard,Low,84.48,0
+Mazda,CX-3,2015,1272556,90225,Petrol,Automatic,2000,Coupe,Kurunegala,Reconditioned,Individual,Black,8,9,Low Tax Era,Standard,Low,14.1,0
+Toyota,Allion,2015,2137737,45313,Hybrid,Automatic,1500,Sedan,Gampaha,Used,Dealer,White,16,9,Low Tax Era,Standard,High,47.18,0
+Honda,Fit,2014,1313342,99229,Hybrid,Automatic,2000,Hatchback,Gampaha,Reconditioned,Individual,Grey,9,10,Low Tax Era,Standard,High,13.24,1
+Hyundai,Accent,2015,1233787,92227,Hybrid,Automatic,1300,Hatchback,Galle,Used,Individual,Brown,10,9,Low Tax Era,Standard,High,13.38,0
+Toyota,Axio,2019,2866812,110442,Electric,Manual,0,Sedan,Negombo,Used,Individual,Silver,10,5,Medium Tax Era,Standard,Very High,25.96,1
+Toyota,Vitz,2019,3074096,67386,Hybrid,Manual,1800,Hatchback,Negombo,Reconditioned,Individual,Brown,14,5,Medium Tax Era,Standard,High,45.62,0
+Toyota,Allion,2017,2219796,117853,Hybrid,Automatic,1000,Sedan,Negombo,Reconditioned,Dealer,White,13,7,Medium Tax Era,Standard,High,18.84,0
+Toyota,Prius,2010,736140,118346,Petrol,Manual,2000,Sedan,Jaffna,Used,Dealer,Black,15,14,Low Tax Era,Standard,Low,6.22,1
+Toyota,Axio,2009,647031,81881,Diesel,Manual,1500,Sedan,Colombo,Used,Dealer,Black,11,15,Low Tax Era,Standard,Low,7.9,1
+Toyota,Vezel,2020,3302745,27205,Petrol,Automatic,2000,SUV,Matara,Reconditioned,Individual,White,12,4,High Tax Era,Standard,Low,121.4,1
+Toyota,Vitz,2014,1359360,174283,Petrol,Automatic,1300,Hatchback,Jaffna,Reconditioned,Dealer,Red,19,10,Low Tax Era,Standard,Medium,7.8,0
+Suzuki,Swift,2013,744854,214164,Hybrid,Manual,1800,Hatchback,Negombo,Used,Individual,Black,20,11,Low Tax Era,Standard,High,3.48,1
+Mitsubishi,ASX,2015,1036240,104140,Petrol,Manual,1800,Coupe,Gampaha,Used,Individual,White,10,9,Low Tax Era,Standard,Low,9.95,0
+Honda,Fit,2012,924960,121347,Petrol,Automatic,1500,Hatchback,Negombo,Used,Individual,White,14,12,Low Tax Era,Standard,Low,7.62,1
+Suzuki,Hustler,2022,2407028,58485,Diesel,Automatic,2000,Wagon,Batticaloa,Used,Dealer,Black,14,2,High Tax Era,Standard,Low,41.16,0
+Toyota,Aqua,2016,2379490,54758,Electric,Automatic,0,Hatchback,Galle,Reconditioned,Dealer,White,22,8,Medium Tax Era,Standard,Very High,43.45,1
+Suzuki,Swift,2023,3664554,820,Hybrid,Automatic,1300,Hatchback,Galle,Used,Individual,White,22,1,High Tax Era,Standard,High,4463.52,1
+Mazda,CX-5,2012,1134569,95216,Electric,Manual,0,SUV,Colombo,Used,Individual,White,14,12,Low Tax Era,Standard,Very High,11.92,0
+Toyota,Vezel,2019,2527062,91502,Petrol,Automatic,1000,SUV,Colombo,Reconditioned,Dealer,White,6,5,Medium Tax Era,Standard,Medium,27.62,1
+Toyota,Camry,2008,606174,233263,Petrol,Automatic,1000,Sedan,Negombo,Reconditioned,Individual,Silver,18,16,Low Tax Era,Standard,Medium,2.6,0
+Mitsubishi,Mirage,2017,1596955,107708,Petrol,Automatic,2000,Hatchback,Matara,Used,Dealer,White,10,7,Medium Tax Era,Standard,Low,14.83,0
+Toyota,Allion,2017,2071212,67564,Hybrid,Manual,1500,Sedan,Ratnapura,Used,Individual,Brown,12,7,Medium Tax Era,Standard,High,30.66,0
+Suzuki,Spacia,2018,1903199,98255,Electric,Automatic,0,Wagon,Colombo,Used,Individual,Blue,19,6,Medium Tax Era,Standard,Very High,19.37,0
+Toyota,Allion,2018,2938142,96063,Hybrid,Automatic,1000,Sedan,Gampaha,Used,Dealer,White,12,6,Medium Tax Era,Standard,High,30.59,0
+Mitsubishi,Mirage,2016,1756063,56709,Hybrid,Automatic,1300,Wagon,Colombo,Reconditioned,Individual,Black,16,8,Medium Tax Era,Standard,High,30.97,0
+Toyota,Vitz,2016,1866915,89052,Petrol,Automatic,1800,Hatchback,Matara,Used,Individual,White,21,8,Medium Tax Era,Standard,Low,20.96,0
+Mazda,CX-3,2018,2661907,109280,Hybrid,Automatic,1500,Van,Negombo,Reconditioned,Dealer,Grey,23,6,Medium Tax Era,Standard,High,24.36,0
+Honda,Insight,2018,2204866,92664,Petrol,Automatic,2000,Wagon,Colombo,Reconditioned,Individual,Gold,20,6,Medium Tax Era,Standard,Low,23.79,0
+Toyota,Corolla,2010,699652,166226,Diesel,Manual,1500,Sedan,Matara,Used,Individual,Black,10,14,Low Tax Era,Standard,Low,4.21,0
+Toyota,Camry,2012,1114380,223687,Hybrid,Manual,1500,Sedan,Batticaloa,Reconditioned,Dealer,Red,16,12,Low Tax Era,Standard,High,4.98,0
+KIA,Cerato,2014,1118762,171404,Hybrid,Manual,1000,Van,Gampaha,Reconditioned,Dealer,Black,15,10,Low Tax Era,Standard,High,6.53,0
+Honda,Insight,2011,845489,120475,Petrol,Automatic,1000,Coupe,Colombo,Used,Individual,White,21,13,Low Tax Era,Standard,Medium,7.02,0
+Toyota,Allion,2015,1857772,54414,Hybrid,Manual,1300,Sedan,Kurunegala,Used,Individual,Black,14,9,Low Tax Era,Standard,High,34.14,0
+Toyota,Aqua,2012,1417147,163384,Hybrid,Automatic,1500,Hatchback,Colombo,Used,Individual,White,21,12,Low Tax Era,Standard,High,8.67,1
+Honda,Civic,2017,1816949,103965,Diesel,Automatic,2000,Sedan,Gampaha,Used,Individual,Silver,18,7,Medium Tax Era,Standard,Low,17.48,0
+Toyota,Axio,2012,992477,218426,Diesel,Automatic,1300,Sedan,Galle,Used,Individual,White,6,12,Low Tax Era,Standard,Medium,4.54,1
+Mitsubishi,Montero,2014,1524686,108926,Electric,Automatic,0,Hatchback,Gampaha,Reconditioned,Individual,Silver,23,10,Low Tax Era,Standard,Very High,14,0
+Honda,Insight,2008,581414,147616,Petrol,Manual,1500,Sedan,Colombo,Reconditioned,Individual,Silver,19,16,Low Tax Era,Standard,Low,3.94,0
+Toyota,Vitz,2011,994960,138502,Diesel,Automatic,2000,Hatchback,Matara,Reconditioned,Individual,Black,22,13,Low Tax Era,Standard,Low,7.18,0
+Suzuki,Ertiga,2017,1811033,59627,Electric,Automatic,0,Sedan,Colombo,Used,Dealer,White,23,7,Medium Tax Era,Standard,Very High,30.37,0
+Honda,Insight,2019,2570054,75892,Hybrid,Automatic,1300,Wagon,Colombo,Used,Dealer,White,7,5,Medium Tax Era,Standard,High,33.86,0
+Suzuki,Every,2021,2436679,34522,Diesel,Automatic,1800,Van,Colombo,Used,Individual,Silver,20,3,High Tax Era,Standard,Low,70.58,0
+Mazda,CX-5,2013,1005474,145524,Petrol,Automatic,1300,SUV,Galle,Used,Dealer,White,15,11,Low Tax Era,Standard,Medium,6.91,0
+Suzuki,Wagon R,2010,517093,192651,Diesel,Manual,800,Hatchback,Colombo,Used,Individual,Green,19,14,Low Tax Era,Standard,Medium,2.68,1
+Toyota,Prius,2018,2465286,90494,Hybrid,Automatic,1500,Sedan,Colombo,Used,Individual,White,6,6,Medium Tax Era,Standard,High,27.24,1
+BMW,X1,2018,4010978,72230,Diesel,Automatic,2000,Van,Matara,Used,Dealer,Black,22,6,Medium Tax Era,Luxury,Low,55.53,0
+Mitsubishi,Mirage,2014,1348738,180088,Hybrid,Manual,2000,Hatchback,Matara,Reconditioned,Individual,Black,23,10,Low Tax Era,Standard,High,7.49,0
+Honda,Accord,2019,2519588,95371,Hybrid,Automatic,1500,Sedan,Matara,Reconditioned,Dealer,White,7,5,Medium Tax Era,Standard,High,26.42,0
+Suzuki,Ertiga,2018,1672356,81979,Electric,Automatic,0,SUV,Colombo,Used,Individual,Gold,12,6,Medium Tax Era,Standard,Very High,20.4,0
+Suzuki,Spacia,2015,1151274,100758,Hybrid,Automatic,2000,SUV,Colombo,Used,Dealer,White,17,9,Low Tax Era,Standard,High,11.43,0
+Toyota,Vezel,2013,1450310,101638,Hybrid,Automatic,1500,SUV,Galle,Reconditioned,Dealer,Red,20,11,Low Tax Era,Standard,High,14.27,1
+Suzuki,Hustler,2013,586852,217844,Petrol,Automatic,1300,Sedan,Kandy,Used,Dealer,White,10,11,Low Tax Era,Standard,Medium,2.69,0
+Honda,Accord,2011,802911,212450,Petrol,Automatic,1000,Van,Galle,Used,Dealer,White,17,13,Low Tax Era,Standard,Medium,3.78,0
+Toyota,Prius,2020,4044116,41337,Hybrid,Automatic,1000,Coupe,Galle,Reconditioned,Individual,White,16,4,High Tax Era,Standard,High,97.83,1
+Suzuki,Wagon R,2017,1711786,80581,Hybrid,Automatic,660,Hatchback,Colombo,Used,Individual,Black,24,7,Medium Tax Era,Standard,High,21.24,1
+Toyota,Corolla,2017,2380464,40515,Hybrid,Automatic,1000,Sedan,Gampaha,Used,Individual,Silver,9,7,Medium Tax Era,Standard,High,58.75,0
+Honda,Grace,2020,3051505,51444,Electric,Manual,0,Sedan,Gampaha,Reconditioned,Dealer,White,18,4,High Tax Era,Standard,Very High,59.32,0
+Toyota,Axio,2020,3932197,38849,Hybrid,Automatic,1800,Sedan,Anuradhapura,Used,Individual,Black,11,4,High Tax Era,Standard,High,101.21,1
+Honda,City,2015,1775191,105497,Hybrid,Automatic,1000,Hatchback,Colombo,Used,Individual,Gold,11,9,Low Tax Era,Standard,High,16.83,0
+Nissan,Note,2014,892039,240337,Petrol,Automatic,2000,SUV,Colombo,Used,Individual,Brown,13,10,Low Tax Era,Standard,Low,3.71,0
+Nissan,Juke,2019,1895393,54605,Petrol,Manual,1500,Sedan,Kandy,Used,Individual,White,20,5,Medium Tax Era,Standard,Low,34.71,0
+Mazda,CX-3,2020,3262803,46898,Hybrid,Automatic,1300,Coupe,Gampaha,Reconditioned,Individual,Silver,23,4,High Tax Era,Standard,High,69.57,0
+Toyota,Vitz,2008,685885,234546,Diesel,Automatic,1500,Hatchback,Kalutara,Reconditioned,Individual,Grey,13,16,Low Tax Era,Standard,Low,2.92,0
+Honda,Accord,2018,2621971,84066,Hybrid,Automatic,1500,Sedan,Jaffna,Used,Individual,White,15,6,Medium Tax Era,Standard,High,31.19,0
+Honda,City,2018,2394818,62504,Diesel,Automatic,2000,SUV,Colombo,Reconditioned,Dealer,Silver,21,6,Medium Tax Era,Standard,Low,38.31,0
+Toyota,Prius,2015,1504391,110990,Petrol,Automatic,1300,Van,Negombo,Used,Dealer,Grey,6,9,Low Tax Era,Standard,Medium,13.55,1
+Suzuki,Ertiga,2023,2678841,2407,Hybrid,Manual,1800,Coupe,Galle,Used,Individual,Grey,10,1,High Tax Era,Standard,High,1112.48,0
+Suzuki,Alto,2010,500000,227032,Petrol,Automatic,660,Hatchback,Matara,Used,Dealer,Grey,21,14,Low Tax Era,Standard,Medium,2.2,1
+Toyota,CH-R,2019,2731202,46054,Diesel,Automatic,1000,SUV,Kalutara,Used,Individual,White,12,5,Medium Tax Era,Standard,Medium,59.3,0
+Mazda,Demio,2008,500000,180963,Petrol,Automatic,1300,Hatchback,Colombo,Used,Individual,Red,5,16,Low Tax Era,Standard,Medium,2.76,0
+Nissan,Caravan,2016,1303193,108689,Petrol,Automatic,1000,Van,Colombo,Reconditioned,Individual,Green,20,8,Medium Tax Era,Standard,Medium,11.99,0
+Nissan,Leaf,2015,1247237,53329,Hybrid,Automatic,1500,Wagon,Jaffna,Used,Dealer,White,6,9,Low Tax Era,Standard,High,23.39,0
+Benz,E200,2022,6245445,44991,Petrol,Automatic,3000,Coupe,Jaffna,Used,Individual,Black,13,2,High Tax Era,Luxury,Low,138.81,0
+Suzuki,Swift,2011,500000,189765,Petrol,Manual,1000,Hatchback,Colombo,Reconditioned,Individual,White,7,13,Low Tax Era,Standard,Medium,2.63,1
+Suzuki,Swift,2020,2532337,43060,Hybrid,Automatic,1000,Hatchback,Colombo,Reconditioned,Individual,White,18,4,High Tax Era,Standard,High,58.81,1
+Mazda,Mazda 3,2018,2068819,74678,Petrol,Automatic,1500,Hatchback,Matara,Used,Individual,White,23,6,Medium Tax Era,Standard,Low,27.7,0
+Nissan,Caravan,2016,1175758,49269,Petrol,Automatic,1000,Van,Galle,Reconditioned,Individual,Blue,11,8,Medium Tax Era,Standard,Medium,23.86,0
+Toyota,Prius,2015,1939696,83459,Hybrid,Automatic,1500,Hatchback,Gampaha,Used,Individual,Red,13,9,Low Tax Era,Standard,High,23.24,1
+Toyota,Premio,2015,1465450,70930,Diesel,Automatic,1300,Sedan,Gampaha,Used,Dealer,Red,8,9,Low Tax Era,Standard,Medium,20.66,0
+Suzuki,Wagon R,2018,1138156,119737,Petrol,Manual,1000,Hatchback,Kandy,Used,Dealer,Silver,6,6,Medium Tax Era,Standard,Medium,9.51,1
+Suzuki,Celerio,2020,1961080,41655,Hybrid,Manual,1000,Sedan,Negombo,Used,Dealer,Silver,6,4,High Tax Era,Standard,High,47.08,0
+Honda,Civic,2011,819489,221385,Diesel,Automatic,1500,Sedan,Kurunegala,Used,Dealer,Black,21,13,Low Tax Era,Standard,Low,3.7,0
+Suzuki,Alto,2012,725231,168177,Hybrid,Automatic,1000,Hatchback,Colombo,Used,Dealer,Grey,9,12,Low Tax Era,Standard,High,4.31,1
+Toyota,Corolla,2010,848090,112167,Petrol,Automatic,2000,Sedan,Gampaha,Reconditioned,Individual,Blue,8,14,Low Tax Era,Standard,Low,7.56,0
+Toyota,Vezel,2018,2679068,106900,Hybrid,Manual,1300,SUV,Colombo,Used,Individual,Brown,22,6,Medium Tax Era,Standard,High,25.06,1
+KIA,Cerato,2014,1159315,234961,Hybrid,Automatic,1500,Van,Gampaha,Used,Individual,White,23,10,Low Tax Era,Standard,High,4.93,0
+Suzuki,Alto,2014,939180,92379,Hybrid,Manual,1000,Hatchback,Anuradhapura,Used,Dealer,Red,21,10,Low Tax Era,Standard,High,10.17,1
+Nissan,Leaf,2020,2266847,34810,Electric,Automatic,0,Coupe,Ratnapura,Used,Dealer,Blue,5,4,High Tax Era,Standard,Very High,65.12,0
+Suzuki,Ertiga,2015,1181653,112903,Hybrid,Automatic,1800,Sedan,Colombo,Used,Dealer,Black,17,9,Low Tax Era,Standard,High,10.47,0
+Toyota,Allion,2018,2722932,91658,Hybrid,Automatic,1000,Sedan,Galle,Reconditioned,Dealer,White,6,6,Medium Tax Era,Standard,High,29.71,0
+Suzuki,Ertiga,2008,500000,163521,Petrol,Automatic,2000,Sedan,Galle,Reconditioned,Individual,Red,7,16,Low Tax Era,Standard,Low,3.06,0
+Nissan,Caravan,2015,1323768,117355,Hybrid,Automatic,1800,Van,Gampaha,Used,Dealer,Silver,23,9,Low Tax Era,Standard,High,11.28,0
+Honda,Vezel,2014,1296126,169242,Hybrid,Automatic,1500,SUV,Gampaha,Reconditioned,Dealer,Red,9,10,Low Tax Era,Standard,High,7.66,1
+Toyota,Vitz,2013,1157140,209863,Diesel,Automatic,1300,Hatchback,Kandy,Reconditioned,Dealer,Red,16,11,Low Tax Era,Standard,Medium,5.51,0
+Toyota,Prius,2010,711404,125689,Petrol,Manual,1500,Sedan,Kurunegala,Used,Individual,Black,8,14,Low Tax Era,Standard,Low,5.66,1
+Toyota,Aqua,2018,2042509,73541,Petrol,Automatic,1000,Hatchback,Kandy,Used,Individual,White,8,6,Medium Tax Era,Standard,Medium,27.77,1
+Mitsubishi,Pajero,2010,566967,199243,Petrol,Manual,1300,Wagon,Colombo,Reconditioned,Individual,Grey,11,14,Low Tax Era,Standard,Medium,2.85,0
+Nissan,X-Trail,2009,500000,241323,Petrol,Manual,1300,SUV,Kurunegala,Used,Individual,White,12,15,Low Tax Era,Standard,Medium,2.07,0
+Toyota,Corolla,2013,1367639,245847,Hybrid,Manual,1800,Sedan,Matara,Used,Individual,White,18,11,Low Tax Era,Standard,High,5.56,0
+Suzuki,Alto,2017,1308714,77706,Hybrid,Automatic,800,Hatchback,Negombo,Used,Individual,Gold,6,7,Medium Tax Era,Standard,High,16.84,1
+Suzuki,Alto,2017,1608136,69553,Diesel,Automatic,800,Hatchback,Colombo,Used,Individual,White,24,7,Medium Tax Era,Standard,Medium,23.12,1
+Mazda,Demio,2020,2557383,48710,Petrol,Automatic,1300,Hatchback,Kandy,Used,Individual,Red,20,4,High Tax Era,Standard,Medium,52.5,0
+Hyundai,Accent,2011,696003,241297,Diesel,Automatic,2000,SUV,Jaffna,Used,Dealer,Black,16,13,Low Tax Era,Standard,Low,2.88,0
+Nissan,March,2015,1342797,51221,Hybrid,Automatic,1000,Hatchback,Galle,Reconditioned,Individual,Silver,13,9,Low Tax Era,Standard,High,26.22,0
+Mazda,CX-3,2012,734337,213964,Petrol,Automatic,1300,Van,Gampaha,Reconditioned,Individual,Red,5,12,Low Tax Era,Standard,Medium,3.43,0
+Honda,Insight,2009,729447,167892,Petrol,Automatic,1500,Wagon,Colombo,Used,Dealer,Black,20,15,Low Tax Era,Standard,Low,4.34,0
+Toyota,Camry,2019,2536600,106543,Petrol,Automatic,2000,Sedan,Gampaha,Reconditioned,Dealer,White,18,5,Medium Tax Era,Standard,Low,23.81,0
+Suzuki,Every,2018,1268145,42637,Petrol,Automatic,2000,Van,Negombo,Used,Dealer,Brown,14,6,Medium Tax Era,Standard,Low,29.74,0
+Toyota,Premio,2015,1648343,77045,Petrol,Automatic,1800,Sedan,Colombo,Reconditioned,Individual,Black,6,9,Low Tax Era,Standard,Low,21.39,0
+Suzuki,Every,2020,2233058,54850,Electric,Automatic,0,Van,Ratnapura,Used,Individual,Silver,17,4,High Tax Era,Standard,Very High,40.71,0
+Toyota,Allion,2014,1323706,99177,Diesel,Automatic,1000,Sedan,Colombo,Used,Dealer,Grey,11,10,Low Tax Era,Standard,Medium,13.35,0
+Toyota,CH-R,2015,1875433,114160,Petrol,Automatic,1300,SUV,Colombo,Reconditioned,Dealer,Black,19,9,Low Tax Era,Standard,Medium,16.43,0
+Suzuki,Alto,2020,2250634,36168,Hybrid,Automatic,1000,Hatchback,Kandy,Reconditioned,Dealer,White,8,4,High Tax Era,Standard,High,62.23,1
+Honda,Grace,2020,3207034,53523,Petrol,Automatic,1800,Sedan,Colombo,Reconditioned,Dealer,Silver,19,4,High Tax Era,Standard,Low,59.92,0
+Toyota,Premio,2014,1480298,237732,Hybrid,Automatic,1300,Sedan,Galle,Used,Dealer,Green,16,10,Low Tax Era,Standard,High,6.23,0
+Toyota,Allion,2015,1686626,119553,Diesel,Manual,1300,Sedan,Colombo,Used,Individual,White,23,9,Low Tax Era,Standard,Medium,14.11,0
+Toyota,Aqua,2014,1578193,235732,Hybrid,Automatic,1000,Hatchback,Colombo,Reconditioned,Individual,Silver,10,10,Low Tax Era,Standard,High,6.69,1
+Toyota,Prius,2008,757881,117879,Diesel,Automatic,1000,Van,Gampaha,Used,Dealer,Grey,20,16,Low Tax Era,Standard,Medium,6.43,1
+Suzuki,Hustler,2017,1058972,81115,Petrol,Automatic,1000,Wagon,Negombo,Reconditioned,Dealer,Blue,7,7,Medium Tax Era,Standard,Medium,13.06,0
+Toyota,Vitz,2010,953282,107307,Petrol,Automatic,1500,Hatchback,Gampaha,Used,Dealer,Silver,23,14,Low Tax Era,Standard,Low,8.88,0
+Toyota,Camry,2021,4125035,30123,Hybrid,Automatic,1300,Sedan,Negombo,Used,Dealer,Green,11,3,High Tax Era,Standard,High,136.94,0
+Suzuki,Every,2010,558667,133144,Diesel,Automatic,2000,Van,Galle,Used,Dealer,Black,23,14,Low Tax Era,Standard,Low,4.2,0
+Suzuki,Ertiga,2019,1463997,61120,Diesel,Automatic,1800,Van,Galle,Reconditioned,Individual,Blue,5,5,Medium Tax Era,Standard,Low,23.95,0
+Nissan,March,2013,906902,175377,Hybrid,Automatic,800,Hatchback,Jaffna,Reconditioned,Individual,Black,6,11,Low Tax Era,Standard,High,5.17,0
+Toyota,Vitz,2013,1514118,246280,Hybrid,Automatic,1500,Hatchback,Colombo,Reconditioned,Individual,Grey,24,11,Low Tax Era,Standard,High,6.15,0
+KIA,Sorento,2016,1273430,116958,Petrol,Automatic,1800,Sedan,Gampaha,Used,Individual,White,22,8,Medium Tax Era,Standard,Low,10.89,0
+Nissan,Juke,2015,1407368,85641,Hybrid,Automatic,1000,Van,Colombo,Used,Dealer,Black,11,9,Low Tax Era,Standard,High,16.43,0
+Toyota,Vitz,2022,3819972,51018,Petrol,Automatic,1300,Hatchback,Gampaha,Used,Dealer,Silver,23,2,High Tax Era,Standard,Medium,74.87,0
+Toyota,Aqua,2017,2501478,45495,Hybrid,Automatic,1000,Hatchback,Ratnapura,Used,Dealer,White,17,7,Medium Tax Era,Standard,High,54.98,1
+Suzuki,Hustler,2020,2008500,38544,Diesel,Automatic,1500,Van,Colombo,Used,Dealer,White,10,4,High Tax Era,Standard,Low,52.11,0
+Toyota,Axio,2017,2551079,43832,Hybrid,Automatic,1800,Sedan,Ratnapura,Reconditioned,Individual,Blue,7,7,Medium Tax Era,Standard,High,58.2,1
+Benz,C200,2018,3860203,51814,Petrol,Automatic,3500,Van,Kandy,Used,Individual,Black,17,6,Medium Tax Era,Luxury,Low,74.5,0
+Toyota,Camry,2017,2598999,66505,Hybrid,Automatic,1500,Sedan,Gampaha,Used,Dealer,White,24,7,Medium Tax Era,Standard,High,39.08,0
+Toyota,Corolla,2017,2529229,90726,Electric,Manual,0,Sedan,Colombo,Reconditioned,Dealer,Blue,24,7,Medium Tax Era,Standard,Very High,27.88,0
+Honda,Insight,2016,1965166,64624,Hybrid,Automatic,2000,Hatchback,Colombo,Used,Individual,White,14,8,Medium Tax Era,Standard,High,30.41,0
+Suzuki,Hustler,2019,1629267,66639,Petrol,Automatic,1800,Hatchback,Kandy,Used,Individual,Silver,11,5,Medium Tax Era,Standard,Low,24.45,0
+Honda,Vezel,2014,1162937,137241,Petrol,Automatic,2000,SUV,Gampaha,Used,Dealer,Gold,20,10,Low Tax Era,Standard,Low,8.47,1
+Nissan,Tiida,2020,2329525,48785,Diesel,Manual,1500,Wagon,Colombo,Reconditioned,Dealer,Red,11,4,High Tax Era,Standard,Low,47.75,0
+BMW,X5,2011,1396827,117201,Diesel,Automatic,2500,SUV,Batticaloa,Reconditioned,Dealer,Black,7,13,Low Tax Era,Luxury,Low,11.92,0
+Toyota,Camry,2010,748545,143745,Petrol,Manual,1300,Sedan,Gampaha,Used,Dealer,White,20,14,Low Tax Era,Standard,Medium,5.21,0
+Suzuki,Spacia,2019,1799326,54292,Hybrid,Automatic,1800,Hatchback,Colombo,Used,Dealer,White,9,5,Medium Tax Era,Standard,High,33.14,0
+Nissan,Tiida,2016,1285242,100726,Hybrid,Manual,1500,Coupe,Galle,Used,Individual,Brown,12,8,Medium Tax Era,Standard,High,12.76,0
+Honda,Accord,2014,1389090,109685,Hybrid,Manual,1800,Hatchback,Kurunegala,Used,Individual,Silver,14,10,Low Tax Era,Standard,High,12.66,0
+Toyota,Allion,2012,977953,187044,Petrol,Automatic,2000,Sedan,Colombo,Used,Dealer,Blue,5,12,Low Tax Era,Standard,Low,5.23,0
+Toyota,Vezel,2021,3931163,32948,Hybrid,Automatic,1800,SUV,Negombo,Reconditioned,Dealer,Silver,13,3,High Tax Era,Standard,High,119.31,1
+Toyota,Corolla,2019,2909875,117225,Petrol,Automatic,1500,Sedan,Gampaha,Used,Dealer,White,22,5,Medium Tax Era,Standard,Low,24.82,0
+Toyota,Premio,2016,2104069,49583,Petrol,Automatic,1500,Sedan,Colombo,Reconditioned,Dealer,White,18,8,Medium Tax Era,Standard,Low,42.43,0
+Toyota,Camry,2016,2103358,99902,Electric,Manual,0,Sedan,Colombo,Used,Dealer,White,19,8,Medium Tax Era,Standard,Very High,21.05,0
+Honda,Vezel,2020,3220618,32706,Electric,Automatic,0,SUV,Batticaloa,Used,Dealer,White,11,4,High Tax Era,Standard,Very High,98.47,1
+KIA,Sportage,2020,2643704,37372,Electric,Automatic,0,Van,Negombo,Used,Individual,Black,7,4,High Tax Era,Standard,Very High,70.74,0
+Toyota,Corolla,2017,1828082,98959,Diesel,Automatic,1500,Sedan,Kurunegala,Used,Individual,White,8,7,Medium Tax Era,Standard,Low,18.47,0
+Toyota,Prius,2015,1506700,98901,Petrol,Automatic,1800,Wagon,Kandy,Used,Dealer,Silver,13,9,Low Tax Era,Standard,Low,15.23,1
+Toyota,Prius,2018,2852602,73005,Hybrid,Automatic,1300,Hatchback,Matara,Used,Individual,Red,9,6,Medium Tax Era,Standard,High,39.07,1
+Suzuki,Every,2015,1013843,70562,Hybrid,Automatic,1300,Van,Kalutara,Reconditioned,Individual,Silver,8,9,Low Tax Era,Standard,High,14.37,0
+Toyota,Corolla,2008,698000,185585,Diesel,Automatic,1300,Sedan,Gampaha,Used,Dealer,White,16,16,Low Tax Era,Standard,Medium,3.76,0
+Hyundai,Santa Fe,2015,1154486,60541,Petrol,Automatic,1300,Hatchback,Colombo,Reconditioned,Individual,Blue,17,9,Low Tax Era,Standard,Medium,19.07,0
+Honda,Civic,2013,1160802,248455,Hybrid,Manual,2000,Sedan,Batticaloa,Reconditioned,Individual,White,22,11,Low Tax Era,Standard,High,4.67,0
+Mitsubishi,Outlander,2013,955631,86041,Diesel,Automatic,1800,SUV,Colombo,Used,Dealer,Blue,13,11,Low Tax Era,Standard,Low,11.11,0
+Toyota,Prius,2013,1199706,186553,Petrol,Automatic,1500,Sedan,Galle,Reconditioned,Individual,Silver,7,11,Low Tax Era,Standard,Low,6.43,1
+Suzuki,Spacia,2020,1644024,32194,Diesel,Manual,1800,Sedan,Colombo,Reconditioned,Dealer,White,8,4,High Tax Era,Standard,Low,51.06,0
+Toyota,Vitz,2014,1237715,213085,Petrol,Manual,1800,Hatchback,Anuradhapura,Used,Dealer,White,12,10,Low Tax Era,Standard,Low,5.81,0
+Suzuki,Celerio,2008,500000,221522,Petrol,Automatic,1300,SUV,Galle,Used,Individual,Black,13,16,Low Tax Era,Standard,Medium,2.26,0
+Mazda,Axela,2013,924467,215958,Diesel,Automatic,2000,Hatchback,Matara,Used,Individual,White,17,11,Low Tax Era,Standard,Low,4.28,0
+Suzuki,Wagon R,2016,1154330,49969,Petrol,Manual,660,Hatchback,Kandy,Reconditioned,Individual,Silver,21,8,Medium Tax Era,Standard,Medium,23.1,1
+KIA,Sorento,2018,2127154,45544,Hybrid,Automatic,2000,Hatchback,Gampaha,Reconditioned,Dealer,Black,7,6,Medium Tax Era,Standard,High,46.7,0
+KIA,Sorento,2021,2455961,37760,Petrol,Automatic,1000,Van,Kalutara,Used,Dealer,Black,10,3,High Tax Era,Standard,Medium,65.04,0
+Toyota,Vitz,2015,1974904,98047,Hybrid,Automatic,1000,Hatchback,Kurunegala,Used,Individual,Red,9,9,Low Tax Era,Standard,High,20.14,0
+Toyota,Prius,2011,971614,91560,Petrol,Automatic,1500,Coupe,Negombo,Reconditioned,Individual,White,19,13,Low Tax Era,Standard,Low,10.61,1
+Toyota,Camry,2011,1004986,134943,Petrol,Automatic,1300,Sedan,Matara,Reconditioned,Individual,White,18,13,Low Tax Era,Standard,Medium,7.45,0
+Toyota,Premio,2017,2167597,68561,Diesel,Automatic,1000,Sedan,Jaffna,Used,Individual,Black,16,7,Medium Tax Era,Standard,Medium,31.62,0
+KIA,Picanto,2010,519403,212851,Petrol,Manual,1300,Coupe,Jaffna,Reconditioned,Individual,Gold,7,14,Low Tax Era,Standard,Medium,2.44,0
+Suzuki,Celerio,2017,1225021,76445,Diesel,Manual,1800,SUV,Colombo,Used,Dealer,Brown,11,7,Medium Tax Era,Standard,Low,16.02,0
+Toyota,Allion,2017,2301498,63806,Hybrid,Automatic,1000,Sedan,Ratnapura,Used,Individual,White,5,7,Medium Tax Era,Standard,High,36.07,0
+Mazda,Atenza,2017,1845657,73688,Petrol,Automatic,2000,Hatchback,Gampaha,Used,Dealer,Blue,24,7,Medium Tax Era,Standard,Low,25.05,0
+Suzuki,Spacia,2020,2488932,50031,Hybrid,Automatic,1300,Van,Jaffna,Used,Dealer,White,20,4,High Tax Era,Standard,High,49.75,0
+Toyota,Prius,2008,584127,222001,Petrol,Automatic,1300,Van,Gampaha,Used,Individual,Red,22,16,Low Tax Era,Standard,Medium,2.63,1
+Mazda,Demio,2009,623117,136630,Petrol,Automatic,1300,Hatchback,Jaffna,Used,Dealer,White,21,15,Low Tax Era,Standard,Medium,4.56,0
+Suzuki,Alto,2016,1253768,103645,Hybrid,Automatic,660,Hatchback,Gampaha,Reconditioned,Individual,Silver,13,8,Medium Tax Era,Standard,High,12.1,1
+Suzuki,Wagon R,2021,2534537,43997,Hybrid,Automatic,660,Hatchback,Colombo,Used,Dealer,White,21,3,High Tax Era,Standard,High,57.61,1
+Toyota,Camry,2014,1107257,213922,Diesel,Manual,1800,Sedan,Colombo,Used,Individual,White,6,10,Low Tax Era,Standard,Low,5.18,0
+Honda,Freed,2015,1480399,111621,Petrol,Automatic,2000,Van,Ratnapura,Used,Individual,Grey,18,9,Low Tax Era,Standard,Low,13.26,0
+Toyota,Camry,2015,1708087,82719,Petrol,Automatic,1300,Sedan,Kalutara,Used,Dealer,Black,24,9,Low Tax Era,Standard,Medium,20.65,0
+Toyota,Camry,2016,2145825,49107,Hybrid,Automatic,2000,Sedan,Gampaha,Used,Dealer,Grey,11,8,Medium Tax Era,Standard,High,43.7,0
+Toyota,Premio,2013,1482696,199324,Hybrid,Automatic,1300,Sedan,Kurunegala,Used,Dealer,White,23,11,Low Tax Era,Standard,High,7.44,0
+Suzuki,Swift,2019,1660870,117028,Hybrid,Automatic,1300,Hatchback,Kalutara,Used,Dealer,Black,11,5,Medium Tax Era,Standard,High,14.19,1
+Toyota,CH-R,2013,1209830,178185,Hybrid,Automatic,2000,SUV,Gampaha,Used,Individual,Black,8,11,Low Tax Era,Standard,High,6.79,0
+Suzuki,Wagon R,2022,3010858,27388,Hybrid,Automatic,1000,Hatchback,Gampaha,Used,Individual,Grey,18,2,High Tax Era,Standard,High,109.93,1
+Toyota,Prius,2014,1257123,82972,Petrol,Automatic,1800,Coupe,Matara,Used,Dealer,White,10,10,Low Tax Era,Standard,Low,15.15,1
+Toyota,Vezel,2018,2887831,41313,Electric,Automatic,0,SUV,Colombo,Used,Dealer,White,15,6,Medium Tax Era,Standard,Very High,69.9,1
+Nissan,Juke,2020,2269296,22637,Petrol,Automatic,1300,Van,Gampaha,Used,Dealer,Silver,17,4,High Tax Era,Standard,Medium,100.24,0
+Toyota,Allion,2019,2333266,78192,Petrol,Automatic,1300,Sedan,Matara,Used,Dealer,White,11,5,Medium Tax Era,Standard,Medium,29.84,0
+Honda,Grace,2021,4224826,20609,Hybrid,Automatic,1800,Sedan,Galle,Used,Individual,Green,23,3,High Tax Era,Standard,High,204.99,0
+Honda,Vezel,2015,1457100,42413,Petrol,Automatic,1000,SUV,Kurunegala,Reconditioned,Individual,Red,24,9,Low Tax Era,Standard,Medium,34.35,1
+Honda,City,2012,951507,138703,Diesel,Automatic,1800,SUV,Anuradhapura,Used,Dealer,Green,20,12,Low Tax Era,Standard,Low,6.86,0
+Mazda,Atenza,2012,997149,93777,Hybrid,Automatic,1500,SUV,Kurunegala,Used,Individual,Brown,6,12,Low Tax Era,Standard,High,10.63,0
+Mazda,CX-5,2018,2169673,54779,Hybrid,Automatic,2000,SUV,Ratnapura,Used,Dealer,White,12,6,Medium Tax Era,Standard,High,39.61,0
+Toyota,Vezel,2021,3991308,39161,Diesel,Automatic,1300,SUV,Gampaha,Reconditioned,Dealer,Grey,18,3,High Tax Era,Standard,Medium,101.92,1
+Toyota,Vezel,2009,827989,181026,Diesel,Automatic,2000,SUV,Gampaha,Used,Individual,Blue,21,15,Low Tax Era,Standard,Low,4.57,1
+Suzuki,Spacia,2013,877522,180128,Electric,Manual,0,Wagon,Colombo,Used,Dealer,Red,17,11,Low Tax Era,Standard,Very High,4.87,0
+Suzuki,Spacia,2016,1408188,40968,Electric,Automatic,0,Van,Colombo,Reconditioned,Dealer,Black,8,8,Medium Tax Era,Standard,Very High,34.37,0
+Toyota,CH-R,2011,931833,102912,Petrol,Automatic,1800,SUV,Kurunegala,Used,Dealer,Blue,8,13,Low Tax Era,Standard,Low,9.05,0
+Mazda,CX-3,2022,3230378,41336,Petrol,Manual,1800,SUV,Kalutara,Used,Dealer,Black,13,2,High Tax Era,Standard,Low,78.15,0
+Toyota,CH-R,2010,800356,197399,Diesel,Automatic,2000,SUV,Matara,Used,Dealer,Black,5,14,Low Tax Era,Standard,Low,4.05,0
+Honda,Fit,2012,1130465,87903,Electric,Automatic,0,Hatchback,Ratnapura,Used,Dealer,Gold,15,12,Low Tax Era,Standard,Very High,12.86,1
+Toyota,Corolla,2018,2905706,43650,Electric,Automatic,0,Sedan,Kandy,Reconditioned,Dealer,Red,5,6,Medium Tax Era,Standard,Very High,66.57,0
+Benz,E250,2016,3572712,46895,Diesel,Manual,3500,Sedan,Matara,Used,Dealer,Gold,20,8,Medium Tax Era,Luxury,Low,76.18,0
+Toyota,Vitz,2015,2052987,110248,Hybrid,Automatic,1800,Hatchback,Gampaha,Reconditioned,Individual,Black,16,9,Low Tax Era,Standard,High,18.62,0
+Nissan,Juke,2016,1445357,68074,Petrol,Automatic,1000,Coupe,Gampaha,Reconditioned,Dealer,Black,24,8,Medium Tax Era,Standard,Medium,21.23,0
+Hyundai,i10,2016,1499282,73349,Hybrid,Automatic,1000,Hatchback,Galle,Used,Individual,White,24,8,Medium Tax Era,Standard,High,20.44,0
+Honda,Grace,2023,5237189,2409,Hybrid,Automatic,1800,Sedan,Batticaloa,Used,Individual,White,18,1,High Tax Era,Standard,High,2173.11,0
+Toyota,Axio,2013,1281371,169299,Diesel,Automatic,1800,Sedan,Kalutara,Reconditioned,Individual,Red,17,11,Low Tax Era,Standard,Low,7.57,1
+Toyota,Aqua,2019,3087176,111327,Hybrid,Automatic,1500,Hatchback,Kurunegala,Used,Dealer,Silver,12,5,Medium Tax Era,Standard,High,27.73,1
+Toyota,Axio,2017,2377729,115956,Hybrid,Automatic,1300,Sedan,Matara,Used,Individual,White,17,7,Medium Tax Era,Standard,High,20.51,1
+Suzuki,Wagon R,2015,911833,67412,Petrol,Automatic,660,Hatchback,Galle,Used,Dealer,Silver,11,9,Low Tax Era,Standard,Medium,13.53,1
+Toyota,Axio,2019,2881431,108827,Electric,Manual,0,Sedan,Colombo,Reconditioned,Dealer,Blue,11,5,Medium Tax Era,Standard,Very High,26.48,1
+Mazda,Mazda 3,2020,2815283,37401,Petrol,Automatic,1300,Van,Matara,Used,Individual,White,21,4,High Tax Era,Standard,Medium,75.27,0
+Nissan,Juke,2015,1425005,47244,Hybrid,Automatic,1500,Coupe,Colombo,Used,Individual,Silver,15,9,Low Tax Era,Standard,High,30.16,0
+Honda,Grace,2022,5244673,51664,Electric,Automatic,0,Sedan,Colombo,Used,Dealer,Black,22,2,High Tax Era,Standard,Very High,101.51,0
+Nissan,Leaf,2016,1150001,113664,Petrol,Automatic,1500,Sedan,Ratnapura,Used,Dealer,White,6,8,Medium Tax Era,Standard,Low,10.12,0
+Toyota,Allion,2019,3165867,119332,Diesel,Automatic,1800,Sedan,Colombo,Used,Dealer,Green,18,5,Medium Tax Era,Standard,Low,26.53,0
+Toyota,Vezel,2017,2302598,50514,Electric,Automatic,0,SUV,Negombo,Used,Individual,Black,5,7,Medium Tax Era,Standard,Very High,45.58,1
+Toyota,Corolla,2016,2348864,110382,Hybrid,Automatic,1500,Sedan,Colombo,Used,Individual,Brown,21,8,Medium Tax Era,Standard,High,21.28,0
+Honda,City,2015,1638278,77066,Hybrid,Automatic,1300,SUV,Anuradhapura,Reconditioned,Dealer,White,17,9,Low Tax Era,Standard,High,21.26,0
+Honda,Grace,2018,2417702,55438,Hybrid,Automatic,2000,Sedan,Ratnapura,Reconditioned,Dealer,Green,16,6,Medium Tax Era,Standard,High,43.61,0
+Toyota,Prius,2018,2227013,78179,Petrol,Automatic,1300,Sedan,Gampaha,Used,Dealer,Silver,13,6,Medium Tax Era,Standard,Medium,28.49,1
+Honda,City,2019,2847445,51586,Petrol,Automatic,2000,Van,Colombo,Reconditioned,Dealer,Black,19,5,Medium Tax Era,Standard,Low,55.2,0
+Toyota,Vezel,2015,1825745,47833,Petrol,Automatic,2000,SUV,Galle,Used,Individual,White,24,9,Low Tax Era,Standard,Low,38.17,1
+Toyota,Allion,2014,1373958,165395,Petrol,Automatic,1000,Sedan,Jaffna,Used,Individual,Blue,17,10,Low Tax Era,Standard,Medium,8.31,0
+Suzuki,Spacia,2017,1394883,89573,Hybrid,Automatic,1500,SUV,Negombo,Used,Individual,Black,15,7,Medium Tax Era,Standard,High,15.57,0
+Mitsubishi,Montero,2013,794526,234030,Petrol,Automatic,1300,Hatchback,Gampaha,Reconditioned,Dealer,White,11,11,Low Tax Era,Standard,Medium,3.39,0
+Toyota,Vitz,2016,2563609,43632,Hybrid,Automatic,1500,Hatchback,Anuradhapura,Reconditioned,Individual,White,22,8,Medium Tax Era,Standard,High,58.75,0
+Mazda,Axela,2012,800209,226479,Diesel,Automatic,2000,Sedan,Anuradhapura,Reconditioned,Dealer,White,12,12,Low Tax Era,Standard,Low,3.53,0
+BMW,X1,2016,2213026,112379,Petrol,Manual,3000,Wagon,Kalutara,Used,Individual,White,6,8,Medium Tax Era,Luxury,Low,19.69,0
+Nissan,Leaf,2017,1591821,87078,Hybrid,Manual,2000,Sedan,Batticaloa,Used,Individual,White,13,7,Medium Tax Era,Standard,High,18.28,0
+Toyota,Corolla,2012,1158063,108549,Hybrid,Manual,1800,Sedan,Kurunegala,Used,Dealer,White,6,12,Low Tax Era,Standard,High,10.67,0
+KIA,Rio,2013,968585,126926,Petrol,Automatic,2000,Van,Colombo,Reconditioned,Dealer,Blue,10,11,Low Tax Era,Standard,Low,7.63,0
+Suzuki,Alto,2017,1261167,74470,Diesel,Automatic,660,Hatchback,Gampaha,Used,Individual,Red,6,7,Medium Tax Era,Standard,Medium,16.94,1
+Mazda,Demio,2015,1328826,82249,Diesel,Automatic,1000,Hatchback,Gampaha,Reconditioned,Individual,Green,17,9,Low Tax Era,Standard,Medium,16.16,0
+Suzuki,Every,2017,1386637,95612,Diesel,Automatic,1000,Van,Gampaha,Used,Individual,Red,21,7,Medium Tax Era,Standard,Medium,14.5,0
+Mitsubishi,Montero,2011,596224,214275,Petrol,Manual,1500,Sedan,Matara,Reconditioned,Dealer,Red,10,13,Low Tax Era,Standard,Low,2.78,0
+Toyota,Camry,2011,826950,241792,Petrol,Manual,2000,Sedan,Gampaha,Used,Dealer,Black,23,13,Low Tax Era,Standard,Low,3.42,0
+Honda,Insight,2014,1414194,221203,Electric,Automatic,0,Hatchback,Galle,Reconditioned,Individual,Blue,8,10,Low Tax Era,Standard,Very High,6.39,0
+Suzuki,Hustler,2013,733556,221167,Diesel,Automatic,1500,Sedan,Galle,Used,Dealer,Green,15,11,Low Tax Era,Standard,Low,3.32,0
+Toyota,Vitz,2020,2742407,37686,Petrol,Automatic,2000,Hatchback,Gampaha,Used,Individual,White,13,4,High Tax Era,Standard,Low,72.77,0
+Honda,Freed,2014,1306316,84922,Diesel,Automatic,1300,Van,Ratnapura,Used,Individual,White,7,10,Low Tax Era,Standard,Medium,15.38,0
+Toyota,Vitz,2011,1062189,95248,Petrol,Automatic,2000,Hatchback,Kandy,Used,Dealer,Red,21,13,Low Tax Era,Standard,Low,11.15,0
+Mitsubishi,Montero,2019,2239835,49425,Diesel,Automatic,1500,Van,Ratnapura,Used,Dealer,Black,8,5,Medium Tax Era,Standard,Low,45.32,0
+Mazda,Mazda 3,2020,3383636,31331,Electric,Automatic,0,SUV,Gampaha,Used,Dealer,Silver,16,4,High Tax Era,Standard,Very High,107.99,0
+Suzuki,Hustler,2020,1807322,31218,Petrol,Automatic,1800,SUV,Kandy,Used,Dealer,Silver,10,4,High Tax Era,Standard,Low,57.89,0
+Suzuki,Alto,2011,583000,136176,Petrol,Automatic,660,Hatchback,Ratnapura,Used,Individual,Silver,18,13,Low Tax Era,Standard,Medium,4.28,1
+Toyota,Aqua,2019,2513900,90621,Petrol,Manual,1300,Hatchback,Anuradhapura,Used,Individual,Black,24,5,Medium Tax Era,Standard,Medium,27.74,1
+Suzuki,Every,2014,1075168,244797,Electric,Automatic,0,Van,Kalutara,Used,Dealer,White,18,10,Low Tax Era,Standard,Very High,4.39,0
+Mazda,CX-5,2010,640861,241855,Petrol,Automatic,1800,SUV,Ratnapura,Used,Dealer,Red,23,14,Low Tax Era,Standard,Low,2.65,0
+Suzuki,Ertiga,2015,996762,119944,Hybrid,Automatic,2000,Sedan,Gampaha,Reconditioned,Dealer,Blue,5,9,Low Tax Era,Standard,High,8.31,0
+Toyota,Allion,2017,2684903,100776,Hybrid,Automatic,1000,Sedan,Colombo,Used,Dealer,Red,19,7,Medium Tax Era,Standard,High,26.64,0
+Toyota,Allion,2013,1281369,149672,Petrol,Automatic,1500,Sedan,Colombo,Reconditioned,Individual,Black,24,11,Low Tax Era,Standard,Low,8.56,0
+Nissan,March,2021,2870929,15652,Hybrid,Automatic,1000,Hatchback,Kurunegala,Reconditioned,Individual,White,13,3,High Tax Era,Standard,High,183.41,0
+Honda,Fit,2016,1897706,97745,Electric,Automatic,0,Hatchback,Gampaha,Reconditioned,Dealer,Black,13,8,Medium Tax Era,Standard,Very High,19.41,1
+Hyundai,i10,2018,1908970,53663,Petrol,Automatic,1000,SUV,Galle,Reconditioned,Dealer,Black,22,6,Medium Tax Era,Standard,Medium,35.57,0
+Suzuki,Spacia,2020,2280538,30704,Electric,Automatic,0,Van,Kurunegala,Used,Individual,White,12,4,High Tax Era,Standard,Very High,74.27,0
+Toyota,Axio,2016,2099346,92551,Diesel,Automatic,2000,Sedan,Colombo,Used,Dealer,Silver,21,8,Medium Tax Era,Standard,Low,22.68,1
+Toyota,Allion,2015,2173344,84225,Hybrid,Automatic,1500,Sedan,Gampaha,Used,Individual,White,24,9,Low Tax Era,Standard,High,25.8,0
+Suzuki,Celerio,2015,1071994,103294,Diesel,Automatic,1000,Coupe,Colombo,Used,Dealer,Silver,24,9,Low Tax Era,Standard,Medium,10.38,0
+Suzuki,Wagon R,2013,891164,149103,Electric,Manual,0,Hatchback,Colombo,Used,Dealer,White,9,11,Low Tax Era,Standard,Very High,5.98,1
+Mitsubishi,Outlander,2008,500000,176636,Petrol,Manual,2000,SUV,Ratnapura,Used,Dealer,White,5,16,Low Tax Era,Standard,Low,2.83,0
+Toyota,Prius,2021,4180920,17801,Hybrid,Automatic,1300,SUV,Kurunegala,Reconditioned,Dealer,White,7,3,High Tax Era,Standard,High,234.86,1
+Suzuki,Celerio,2013,733328,206839,Hybrid,Automatic,2000,Sedan,Kurunegala,Used,Individual,White,6,11,Low Tax Era,Standard,High,3.55,0
+Mitsubishi,Lancer,2014,1090640,217605,Diesel,Automatic,1300,Coupe,Kurunegala,Used,Dealer,Red,10,10,Low Tax Era,Standard,Medium,5.01,0
+Toyota,Axio,2015,1991524,41754,Diesel,Automatic,2000,Sedan,Ratnapura,Reconditioned,Individual,Black,21,9,Low Tax Era,Standard,Low,47.7,1
+Toyota,Allion,2013,1320039,247022,Petrol,Automatic,1300,Sedan,Colombo,Reconditioned,Dealer,Red,20,11,Low Tax Era,Standard,Medium,5.34,0
+Suzuki,Wagon R,2013,592124,122503,Petrol,Manual,1000,Hatchback,Galle,Used,Individual,Brown,9,11,Low Tax Era,Standard,Medium,4.83,1
+Suzuki,Celerio,2015,1118335,85798,Hybrid,Automatic,2000,Coupe,Kurunegala,Used,Dealer,Red,24,9,Low Tax Era,Standard,High,13.03,0
+Suzuki,Celerio,2013,774767,228362,Hybrid,Manual,1800,Wagon,Colombo,Reconditioned,Dealer,Black,20,11,Low Tax Era,Standard,High,3.39,0
+Nissan,March,2017,1406617,107643,Petrol,Automatic,800,Hatchback,Kandy,Reconditioned,Dealer,Brown,11,7,Medium Tax Era,Standard,Medium,13.07,0
+Honda,Insight,2009,608840,202970,Petrol,Automatic,1000,Van,Anuradhapura,Reconditioned,Individual,Brown,14,15,Low Tax Era,Standard,Medium,3,0
+Toyota,Vezel,2009,579408,235887,Diesel,Manual,1500,SUV,Negombo,Used,Individual,Blue,9,15,Low Tax Era,Standard,Low,2.46,1
+Suzuki,Spacia,2016,1032562,101305,Diesel,Manual,1300,Hatchback,Jaffna,Used,Individual,White,5,8,Medium Tax Era,Standard,Medium,10.19,0
+Honda,Fit,2010,734021,177243,Petrol,Automatic,1000,Hatchback,Gampaha,Used,Dealer,Blue,9,14,Low Tax Era,Standard,Medium,4.14,1
+Suzuki,Wagon R,2016,1185153,73439,Hybrid,Manual,1000,Hatchback,Gampaha,Used,Dealer,White,18,8,Medium Tax Era,Standard,High,16.14,1
+KIA,Rio,2010,614783,199217,Diesel,Automatic,1800,Sedan,Batticaloa,Used,Individual,White,24,14,Low Tax Era,Standard,Low,3.09,0
+Benz,E250,2017,3558862,118561,Diesel,Manual,3000,Sedan,Kandy,Used,Individual,Blue,14,7,Medium Tax Era,Luxury,Low,30.02,0
+Toyota,Corolla,2012,1345995,223074,Hybrid,Automatic,1300,Sedan,Kalutara,Reconditioned,Individual,Gold,15,12,Low Tax Era,Standard,High,6.03,0
+Suzuki,Spacia,2014,912295,182416,Hybrid,Automatic,1000,Coupe,Negombo,Used,Dealer,White,21,10,Low Tax Era,Standard,High,5,0
+Toyota,Premio,2012,1128572,198499,Hybrid,Automatic,1300,Sedan,Jaffna,Used,Dealer,Black,8,12,Low Tax Era,Standard,High,5.69,0
+Toyota,Vezel,2015,1861228,118287,Electric,Automatic,0,SUV,Colombo,Used,Dealer,White,11,9,Low Tax Era,Standard,Very High,15.73,1
+Suzuki,Every,2017,1477102,75794,Diesel,Automatic,1300,Van,Galle,Reconditioned,Dealer,White,18,7,Medium Tax Era,Standard,Medium,19.49,0
+Toyota,CH-R,2018,2239247,76860,Petrol,Automatic,1800,SUV,Matara,Reconditioned,Individual,White,15,6,Medium Tax Era,Standard,Low,29.13,0
+Toyota,CH-R,2016,2286608,114723,Hybrid,Automatic,1000,SUV,Kandy,Used,Individual,White,23,8,Medium Tax Era,Standard,High,19.93,0
+Suzuki,Hustler,2014,844994,225707,Petrol,Automatic,2000,Van,Kandy,Used,Individual,Black,21,10,Low Tax Era,Standard,Low,3.74,0
+Toyota,Camry,2018,2381308,42176,Hybrid,Automatic,1500,Sedan,Anuradhapura,Used,Individual,White,5,6,Medium Tax Era,Standard,High,56.46,0
+KIA,Sorento,2010,644803,118897,Petrol,Automatic,1500,Wagon,Colombo,Reconditioned,Dealer,White,13,14,Low Tax Era,Standard,Low,5.42,0
+Honda,Vezel,2020,2806610,29318,Petrol,Manual,1800,SUV,Gampaha,Used,Individual,Black,18,4,High Tax Era,Standard,Low,95.73,1
+Honda,Freed,2020,3863357,19150,Hybrid,Automatic,1000,Van,Colombo,Reconditioned,Dealer,Black,18,4,High Tax Era,Standard,High,201.73,0
+Mazda,Demio,2017,1736406,93836,Diesel,Automatic,1300,Hatchback,Colombo,Reconditioned,Dealer,White,6,7,Medium Tax Era,Standard,Medium,18.5,0
+BMW,X5,2020,4707360,59358,Petrol,Automatic,3500,SUV,Gampaha,Used,Individual,Silver,5,4,High Tax Era,Luxury,Low,79.3,0
+Toyota,Vezel,2015,2070221,52419,Hybrid,Automatic,2000,SUV,Colombo,Reconditioned,Dealer,White,5,9,Low Tax Era,Standard,High,39.49,1
+Mazda,CX-3,2016,1880795,57790,Hybrid,Automatic,1800,Hatchback,Ratnapura,Used,Individual,Black,13,8,Medium Tax Era,Standard,High,32.54,0
+Hyundai,Tucson,2015,1282180,97730,Hybrid,Automatic,1000,SUV,Gampaha,Used,Individual,White,19,9,Low Tax Era,Standard,High,13.12,0
+Suzuki,Ertiga,2018,1271547,77030,Petrol,Automatic,2000,Sedan,Jaffna,Used,Dealer,Black,13,6,Medium Tax Era,Standard,Low,16.51,0
+Toyota,Corolla,2013,1147330,158210,Petrol,Automatic,1800,Sedan,Galle,Reconditioned,Individual,Silver,17,11,Low Tax Era,Standard,Low,7.25,0
+Honda,Accord,2018,2305310,56226,Hybrid,Automatic,2000,Van,Matara,Used,Individual,Red,6,6,Medium Tax Era,Standard,High,41,0
+Suzuki,Spacia,2018,1451186,60047,Petrol,Automatic,1500,Van,Anuradhapura,Reconditioned,Dealer,Silver,13,6,Medium Tax Era,Standard,Low,24.17,0
+Nissan,Caravan,2018,1933232,64783,Hybrid,Automatic,1000,Van,Kalutara,Used,Individual,Grey,21,6,Medium Tax Era,Standard,High,29.84,0
+Benz,C200,2015,3138452,112728,Hybrid,Automatic,2500,Hatchback,Gampaha,Reconditioned,Dealer,Blue,11,9,Low Tax Era,Luxury,High,27.84,0
+Honda,Freed,2019,2726903,52109,Diesel,Automatic,1000,Van,Kandy,Reconditioned,Individual,Silver,16,5,Medium Tax Era,Standard,Medium,52.33,0
+BMW,320i,2012,1554989,106372,Petrol,Manual,2000,Sedan,Gampaha,Reconditioned,Individual,Black,11,12,Low Tax Era,Luxury,Low,14.62,0
+Toyota,Vezel,2014,1495289,147650,Hybrid,Manual,1300,SUV,Colombo,Used,Individual,Black,20,10,Low Tax Era,Standard,High,10.13,1
+Suzuki,Every,2012,680789,144373,Petrol,Automatic,1300,Van,Colombo,Reconditioned,Dealer,Silver,12,12,Low Tax Era,Standard,Medium,4.72,0
+Nissan,Caravan,2011,598633,229598,Petrol,Automatic,2000,Van,Gampaha,Used,Dealer,White,6,13,Low Tax Era,Standard,Low,2.61,0
+Suzuki,Every,2019,1461248,106540,Diesel,Manual,1300,Van,Galle,Used,Dealer,Gold,17,5,Medium Tax Era,Standard,Medium,13.72,0
+Hyundai,Santa Fe,2016,1779611,58594,Hybrid,Automatic,1300,SUV,Kurunegala,Used,Dealer,Silver,23,8,Medium Tax Era,Standard,High,30.37,0
+Honda,Fit,2018,2534840,44722,Hybrid,Manual,1000,Hatchback,Batticaloa,Used,Dealer,Silver,18,6,Medium Tax Era,Standard,High,56.68,1
+Mitsubishi,Lancer,2017,1749891,77763,Hybrid,Automatic,1000,Wagon,Kandy,Used,Individual,Silver,9,7,Medium Tax Era,Standard,High,22.5,0
+Honda,Grace,2015,1716069,90481,Diesel,Automatic,2000,Sedan,Colombo,Reconditioned,Individual,Red,23,9,Low Tax Era,Standard,Low,18.97,0
+Suzuki,Hustler,2021,2413674,16160,Hybrid,Automatic,2000,Wagon,Negombo,Used,Dealer,White,16,3,High Tax Era,Standard,High,149.35,0
+Nissan,Note,2016,1298510,58344,Diesel,Automatic,2000,Hatchback,Colombo,Reconditioned,Individual,Blue,10,8,Medium Tax Era,Standard,Low,22.26,0
+Nissan,X-Trail,2021,2892257,52905,Hybrid,Automatic,2000,SUV,Negombo,Used,Dealer,Silver,23,3,High Tax Era,Standard,High,54.67,0
+Nissan,X-Trail,2016,1283891,69717,Petrol,Automatic,1300,SUV,Ratnapura,Used,Dealer,Red,17,8,Medium Tax Era,Standard,Medium,18.42,0
+Suzuki,Ertiga,2014,691195,197419,Petrol,Manual,1500,Coupe,Colombo,Reconditioned,Dealer,Black,5,10,Low Tax Era,Standard,Low,3.5,0
+Honda,Civic,2013,1307956,186565,Hybrid,Automatic,1000,Sedan,Colombo,Used,Dealer,White,16,11,Low Tax Era,Standard,High,7.01,0
+Benz,A-Class,2020,6655935,56003,Hybrid,Automatic,2000,SUV,Kandy,Used,Individual,Black,6,4,High Tax Era,Luxury,High,118.85,0
+KIA,Picanto,2017,1872106,95184,Hybrid,Automatic,2000,SUV,Kalutara,Reconditioned,Individual,Silver,20,7,Medium Tax Era,Standard,High,19.67,0
+Suzuki,Hustler,2009,500000,201844,Petrol,Automatic,2000,Coupe,Gampaha,Reconditioned,Dealer,Silver,17,15,Low Tax Era,Standard,Low,2.48,0
+Suzuki,Celerio,2020,2404780,22423,Hybrid,Automatic,2000,Van,Kurunegala,Used,Individual,Blue,23,4,High Tax Era,Standard,High,107.24,0
+Suzuki,Ertiga,2015,921010,82215,Petrol,Automatic,1300,Hatchback,Kurunegala,Used,Individual,Green,14,9,Low Tax Era,Standard,Medium,11.2,0
+Benz,C180,2008,949213,232839,Diesel,Manual,2500,Sedan,Galle,Used,Dealer,Black,8,16,Low Tax Era,Luxury,Low,4.08,0
+Suzuki,Alto,2016,1513663,43088,Hybrid,Automatic,660,Hatchback,Colombo,Reconditioned,Individual,White,20,8,Medium Tax Era,Standard,High,35.13,1
+Mitsubishi,Lancer,2019,2919789,64435,Hybrid,Automatic,2000,Coupe,Gampaha,Used,Dealer,Silver,23,5,Medium Tax Era,Standard,High,45.31,0
+Nissan,Juke,2009,500000,194930,Petrol,Automatic,1800,SUV,Negombo,Reconditioned,Individual,Silver,21,15,Low Tax Era,Standard,Low,2.57,0
+Honda,City,2016,1457119,86835,Petrol,Automatic,1800,SUV,Kurunegala,Used,Individual,Silver,12,8,Medium Tax Era,Standard,Low,16.78,0
+Mitsubishi,Mirage,2014,1176553,105595,Diesel,Automatic,1500,Wagon,Gampaha,Used,Individual,Black,14,10,Low Tax Era,Standard,Low,11.14,0
+Toyota,Aqua,2015,2000203,63212,Hybrid,Automatic,1500,Hatchback,Kalutara,Used,Individual,Silver,10,9,Low Tax Era,Standard,High,31.64,1
+Suzuki,Alto,2020,1686833,17886,Petrol,Automatic,1000,Hatchback,Gampaha,Used,Dealer,Grey,16,4,High Tax Era,Standard,Medium,94.3,1
+Toyota,Camry,2021,3657464,22130,Petrol,Automatic,1500,Sedan,Galle,Reconditioned,Individual,Brown,13,3,High Tax Era,Standard,Low,165.26,0
+Nissan,Juke,2017,1478180,79322,Petrol,Automatic,1300,Wagon,Kandy,Reconditioned,Dealer,Blue,13,7,Medium Tax Era,Standard,Medium,18.63,0
+KIA,Picanto,2014,1367942,197217,Hybrid,Automatic,1000,Hatchback,Negombo,Used,Dealer,White,24,10,Low Tax Era,Standard,High,6.94,0
+Toyota,Vezel,2018,2554736,54925,Diesel,Automatic,1500,SUV,Kandy,Used,Individual,Blue,14,6,Medium Tax Era,Standard,Low,46.51,1
+Toyota,CH-R,2020,3239402,41771,Hybrid,Automatic,1500,SUV,Matara,Used,Individual,Black,10,4,High Tax Era,Standard,High,77.55,0
+Honda,Vezel,2013,1209057,193884,Hybrid,Manual,1500,SUV,Jaffna,Used,Individual,Green,21,11,Low Tax Era,Standard,High,6.24,1
+Hyundai,Tucson,2018,1651456,111200,Petrol,Automatic,1500,SUV,Negombo,Used,Individual,White,16,6,Medium Tax Era,Standard,Low,14.85,0
+Nissan,Note,2014,1056760,133380,Hybrid,Automatic,1800,Van,Gampaha,Used,Dealer,White,6,10,Low Tax Era,Standard,High,7.92,0
+Toyota,Aqua,2013,1238817,223190,Diesel,Automatic,1300,Hatchback,Gampaha,Used,Individual,Silver,19,11,Low Tax Era,Standard,Medium,5.55,1
+Hyundai,i10,2014,923753,215099,Petrol,Automatic,1800,SUV,Negombo,Reconditioned,Individual,Grey,17,10,Low Tax Era,Standard,Low,4.29,0
+Honda,Freed,2011,770428,212915,Petrol,Manual,1000,Van,Matara,Used,Dealer,Black,15,13,Low Tax Era,Standard,Medium,3.62,0
+Honda,Vezel,2015,1976186,42881,Hybrid,Automatic,1300,SUV,Batticaloa,Used,Dealer,Black,23,9,Low Tax Era,Standard,High,46.08,1
+Toyota,Axio,2012,999525,119023,Petrol,Automatic,1500,Sedan,Colombo,Reconditioned,Individual,White,8,12,Low Tax Era,Standard,Low,8.4,1
+Nissan,March,2017,1423846,110077,Diesel,Automatic,660,Hatchback,Kurunegala,Used,Dealer,Black,20,7,Medium Tax Era,Standard,Medium,12.93,0
+Nissan,Note,2009,549745,138480,Diesel,Automatic,1500,SUV,Gampaha,Used,Individual,Blue,12,15,Low Tax Era,Standard,Low,3.97,0
+Toyota,Axio,2012,1234715,221129,Hybrid,Automatic,1500,Sedan,Colombo,Reconditioned,Individual,Black,19,12,Low Tax Era,Standard,High,5.58,1
+Toyota,Axio,2011,783367,90588,Petrol,Manual,1300,Sedan,Colombo,Used,Dealer,Brown,5,13,Low Tax Era,Standard,Medium,8.65,1
+Nissan,Tiida,2010,517937,126766,Petrol,Automatic,1500,Wagon,Gampaha,Reconditioned,Individual,White,14,14,Low Tax Era,Standard,Low,4.09,0
+Toyota,Prius,2014,1378782,110653,Petrol,Automatic,2000,Wagon,Galle,Reconditioned,Dealer,White,5,10,Low Tax Era,Standard,Low,12.46,1
+Suzuki,Every,2019,1597622,57920,Petrol,Automatic,1300,Van,Batticaloa,Reconditioned,Dealer,Grey,16,5,Medium Tax Era,Standard,Medium,27.58,0
+Suzuki,Ertiga,2018,1352731,110382,Petrol,Automatic,1300,Wagon,Colombo,Used,Dealer,White,7,6,Medium Tax Era,Standard,Medium,12.25,0
+BMW,530i,2017,2914962,119027,Petrol,Automatic,2000,Wagon,Colombo,Used,Individual,Red,9,7,Medium Tax Era,Luxury,Low,24.49,0
+Toyota,Axio,2018,2846752,58033,Hybrid,Automatic,2000,Sedan,Negombo,Used,Individual,Black,22,6,Medium Tax Era,Standard,High,49.05,1
+Toyota,Camry,2011,938058,129063,Petrol,Automatic,2000,Sedan,Colombo,Used,Dealer,White,16,13,Low Tax Era,Standard,Low,7.27,0
+Honda,Civic,2015,1748337,100719,Hybrid,Automatic,1300,Sedan,Colombo,Used,Dealer,Black,20,9,Low Tax Era,Standard,High,17.36,0
+Toyota,Aqua,2015,1396696,63457,Diesel,Manual,1500,Hatchback,Kurunegala,Used,Dealer,Black,14,9,Low Tax Era,Standard,Low,22.01,1
+Suzuki,Alto,2015,914283,64151,Petrol,Automatic,800,Hatchback,Kurunegala,Used,Individual,Blue,11,9,Low Tax Era,Standard,Medium,14.25,1
+Suzuki,Spacia,2013,794018,193920,Petrol,Automatic,1500,SUV,Kandy,Used,Individual,White,22,11,Low Tax Era,Standard,Low,4.09,0
+Hyundai,Santa Fe,2020,2506985,52338,Petrol,Automatic,1800,Sedan,Colombo,Reconditioned,Individual,White,23,4,High Tax Era,Standard,Low,47.9,0
+Nissan,Tiida,2020,2737827,25222,Hybrid,Automatic,2000,Wagon,Gampaha,Used,Individual,White,21,4,High Tax Era,Standard,High,108.54,0
+Mitsubishi,Lancer,2012,943351,98895,Hybrid,Manual,1800,Hatchback,Matara,Used,Individual,Grey,21,12,Low Tax Era,Standard,High,9.54,0
+Toyota,Corolla,2016,1977523,65146,Petrol,Automatic,1000,Sedan,Colombo,Used,Dealer,Red,10,8,Medium Tax Era,Standard,Medium,30.35,0
+Mazda,Mazda 3,2010,629823,174515,Petrol,Automatic,1300,SUV,Gampaha,Used,Individual,Black,11,14,Low Tax Era,Standard,Medium,3.61,0
+Suzuki,Every,2017,1619523,45974,Hybrid,Automatic,1800,Van,Negombo,Reconditioned,Individual,Black,18,7,Medium Tax Era,Standard,High,35.23,0
+Toyota,Axio,2019,3542982,48562,Hybrid,Automatic,1500,Sedan,Matara,Used,Individual,White,17,5,Medium Tax Era,Standard,High,72.96,1
+Suzuki,Every,2013,1023848,105105,Hybrid,Automatic,1000,Van,Batticaloa,Used,Dealer,Red,24,11,Low Tax Era,Standard,High,9.74,0
+Toyota,Corolla,2012,989646,200787,Petrol,Automatic,1500,Sedan,Gampaha,Reconditioned,Dealer,White,20,12,Low Tax Era,Standard,Low,4.93,0
+Toyota,Premio,2010,898613,111655,Petrol,Automatic,2000,Sedan,Colombo,Used,Dealer,Black,17,14,Low Tax Era,Standard,Low,8.05,0
+Suzuki,Every,2017,1558167,67360,Hybrid,Manual,1000,Van,Negombo,Reconditioned,Individual,Silver,17,7,Medium Tax Era,Standard,High,23.13,0
+Toyota,Corolla,2012,875835,198368,Petrol,Manual,2000,Sedan,Gampaha,Reconditioned,Dealer,Green,11,12,Low Tax Era,Standard,Low,4.42,0
+Honda,Vezel,2008,512274,236640,Petrol,Automatic,1800,SUV,Jaffna,Used,Dealer,White,5,16,Low Tax Era,Standard,Low,2.16,1
+Toyota,Vitz,2016,2175964,61518,Diesel,Automatic,2000,Hatchback,Galle,Used,Individual,White,24,8,Medium Tax Era,Standard,Low,35.37,0
+KIA,Cerato,2021,3458041,27961,Electric,Automatic,0,Sedan,Kandy,Used,Individual,White,14,3,High Tax Era,Standard,Very High,123.67,0
+Honda,Freed,2008,574999,111127,Petrol,Automatic,1300,Van,Jaffna,Used,Individual,White,22,16,Low Tax Era,Standard,Medium,5.17,0
+Suzuki,Every,2016,1388572,89725,Hybrid,Automatic,1300,Van,Negombo,Used,Individual,Black,12,8,Medium Tax Era,Standard,High,15.48,0
+Toyota,Axio,2017,2814347,48484,Hybrid,Automatic,2000,Sedan,Kalutara,Used,Dealer,Silver,24,7,Medium Tax Era,Standard,High,58.05,1
+Mitsubishi,Lancer,2017,2049077,47971,Hybrid,Automatic,1800,Wagon,Anuradhapura,Used,Individual,Silver,19,7,Medium Tax Era,Standard,High,42.71,0
+Honda,City,2015,1813640,53782,Hybrid,Automatic,1000,Wagon,Matara,Reconditioned,Individual,White,8,9,Low Tax Era,Standard,High,33.72,0
+Suzuki,Wagon R,2021,2151379,28864,Diesel,Automatic,800,Hatchback,Batticaloa,Used,Individual,White,16,3,High Tax Era,Standard,Medium,74.53,1
+Toyota,Camry,2012,1053255,103880,Petrol,Automatic,1000,Sedan,Jaffna,Used,Dealer,Black,19,12,Low Tax Era,Standard,Medium,10.14,0
+Toyota,Vitz,2015,2016054,111326,Hybrid,Automatic,1500,Hatchback,Gampaha,Used,Individual,Silver,14,9,Low Tax Era,Standard,High,18.11,0
+Suzuki,Spacia,2018,1801125,44791,Hybrid,Manual,2000,Wagon,Colombo,Reconditioned,Individual,Gold,16,6,Medium Tax Era,Standard,High,40.21,0
+Suzuki,Spacia,2012,558347,247995,Petrol,Automatic,1500,Hatchback,Kurunegala,Used,Individual,Grey,11,12,Low Tax Era,Standard,Low,2.25,0
+Suzuki,Alto,2013,825166,119328,Hybrid,Manual,1000,Hatchback,Matara,Reconditioned,Individual,Silver,19,11,Low Tax Era,Standard,High,6.92,1
+Suzuki,Ertiga,2014,1046331,167052,Hybrid,Automatic,2000,Sedan,Colombo,Reconditioned,Individual,Black,16,10,Low Tax Era,Standard,High,6.26,0
+Toyota,Corolla,2016,1827085,99254,Diesel,Manual,1300,Sedan,Kandy,Used,Individual,Black,12,8,Medium Tax Era,Standard,Medium,18.41,0
+Toyota,CH-R,2013,1423233,82093,Petrol,Automatic,1800,SUV,Colombo,Used,Individual,Black,23,11,Low Tax Era,Standard,Low,17.34,0
+Suzuki,Every,2020,2076531,39908,Electric,Manual,0,Van,Negombo,Used,Individual,Silver,9,4,High Tax Era,Standard,Very High,52.03,0
+Suzuki,Alto,2018,1269507,92107,Petrol,Automatic,800,Hatchback,Batticaloa,Used,Dealer,Black,7,6,Medium Tax Era,Standard,Medium,13.78,1
+Toyota,Vitz,2014,1429384,126008,Hybrid,Manual,2000,Hatchback,Galle,Reconditioned,Individual,Red,6,10,Low Tax Era,Standard,High,11.34,0
+Nissan,Tiida,2019,2285464,55250,Hybrid,Automatic,2000,Van,Kandy,Reconditioned,Individual,Red,16,5,Medium Tax Era,Standard,High,41.37,0
+Mazda,CX-5,2017,1905045,61424,Petrol,Automatic,1800,SUV,Colombo,Used,Dealer,Black,24,7,Medium Tax Era,Standard,Low,31.01,0
+Benz,A-Class,2016,4014715,93767,Diesel,Automatic,2500,Coupe,Colombo,Used,Individual,Black,24,8,Medium Tax Era,Luxury,Low,42.82,0
+Suzuki,Wagon R,2011,611715,200321,Diesel,Automatic,660,Hatchback,Kalutara,Used,Dealer,White,20,13,Low Tax Era,Standard,Medium,3.05,1
+Toyota,Corolla,2013,1205391,217877,Petrol,Automatic,2000,Sedan,Colombo,Used,Individual,White,16,11,Low Tax Era,Standard,Low,5.53,0
+Nissan,March,2011,725460,95021,Diesel,Automatic,800,Hatchback,Gampaha,Reconditioned,Individual,Black,19,13,Low Tax Era,Standard,Medium,7.63,0
+Suzuki,Swift,2012,665023,83810,Hybrid,Manual,1000,Hatchback,Kurunegala,Used,Individual,White,6,12,Low Tax Era,Standard,High,7.93,1
+Suzuki,Alto,2016,1286068,59154,Hybrid,Automatic,1000,Hatchback,Negombo,Reconditioned,Dealer,Black,9,8,Medium Tax Era,Standard,High,21.74,1
+Toyota,CH-R,2015,1407507,88282,Petrol,Automatic,1000,SUV,Kurunegala,Reconditioned,Individual,Silver,7,9,Low Tax Era,Standard,Medium,15.94,0
+Honda,Freed,2011,895219,173287,Diesel,Automatic,1500,Van,Galle,Used,Dealer,Silver,23,13,Low Tax Era,Standard,Low,5.17,0
+Nissan,X-Trail,2019,1664334,83372,Petrol,Automatic,2000,SUV,Ratnapura,Reconditioned,Individual,White,8,5,Medium Tax Era,Standard,Low,19.96,0
+Mazda,CX-5,2018,2179679,73298,Hybrid,Manual,2000,SUV,Galle,Used,Individual,White,16,6,Medium Tax Era,Standard,High,29.74,0
+Benz,C200,2010,1456837,139099,Petrol,Automatic,2500,Hatchback,Ratnapura,Reconditioned,Dealer,Red,12,14,Low Tax Era,Luxury,Low,10.47,0
+Honda,City,2017,2047758,106046,Petrol,Automatic,2000,SUV,Colombo,Used,Dealer,Brown,17,7,Medium Tax Era,Standard,Low,19.31,0
+Hyundai,i10,2009,500000,127037,Petrol,Automatic,1800,Sedan,Colombo,Used,Individual,Blue,16,15,Low Tax Era,Standard,Low,3.94,0
+Toyota,Corolla,2010,754602,226080,Petrol,Manual,1000,Sedan,Gampaha,Used,Individual,Black,20,14,Low Tax Era,Standard,Medium,3.34,0
+Honda,Accord,2011,790373,186777,Petrol,Automatic,1300,Coupe,Galle,Used,Dealer,Black,23,13,Low Tax Era,Standard,Medium,4.23,0
+Mazda,Atenza,2017,2146277,82255,Hybrid,Automatic,1300,Coupe,Colombo,Used,Dealer,Black,8,7,Medium Tax Era,Standard,High,26.09,0
+Toyota,Vitz,2017,1724718,90355,Petrol,Manual,1000,Hatchback,Kandy,Used,Individual,Grey,12,7,Medium Tax Era,Standard,Medium,19.09,0
+Toyota,Premio,2021,3991474,47283,Hybrid,Automatic,2000,Sedan,Ratnapura,Used,Dealer,Grey,6,3,High Tax Era,Standard,High,84.41,0
+Mazda,Demio,2014,1203322,121723,Petrol,Automatic,1500,Hatchback,Galle,Used,Dealer,Silver,20,10,Low Tax Era,Standard,Low,9.89,0
+Toyota,Aqua,2018,2155971,94030,Petrol,Automatic,1800,Hatchback,Negombo,Used,Dealer,Silver,12,6,Medium Tax Era,Standard,Low,22.93,1
+Nissan,Leaf,2019,1858115,68415,Diesel,Automatic,1500,Van,Galle,Reconditioned,Individual,Silver,8,5,Medium Tax Era,Standard,Low,27.16,0
+Toyota,Premio,2012,858698,193831,Petrol,Manual,2000,Sedan,Gampaha,Used,Dealer,Grey,10,12,Low Tax Era,Standard,Low,4.43,0
+Toyota,Allion,2012,1375899,109764,Hybrid,Automatic,1000,Sedan,Colombo,Used,Individual,White,10,12,Low Tax Era,Standard,High,12.53,0
+Toyota,CH-R,2018,2990685,57883,Hybrid,Automatic,1300,SUV,Galle,Reconditioned,Dealer,Black,20,6,Medium Tax Era,Standard,High,51.67,0
+Toyota,Camry,2013,1110674,176008,Petrol,Automatic,1300,Sedan,Jaffna,Used,Dealer,White,12,11,Low Tax Era,Standard,Medium,6.31,0
+Suzuki,Ertiga,2016,1317027,86105,Hybrid,Automatic,1300,Hatchback,Gampaha,Reconditioned,Individual,Blue,12,8,Medium Tax Era,Standard,High,15.3,0
+Hyundai,Tucson,2021,2228722,53294,Petrol,Automatic,2000,SUV,Ratnapura,Reconditioned,Dealer,White,10,3,High Tax Era,Standard,Low,41.82,0
+Suzuki,Celerio,2015,1138173,45594,Hybrid,Automatic,1500,Hatchback,Ratnapura,Reconditioned,Dealer,White,10,9,Low Tax Era,Standard,High,24.96,0
+Toyota,Aqua,2016,1971555,81964,Petrol,Automatic,2000,Hatchback,Colombo,Reconditioned,Individual,White,14,8,Medium Tax Era,Standard,Low,24.05,1
+Suzuki,Wagon R,2016,1223551,67898,Hybrid,Automatic,800,Hatchback,Matara,Used,Individual,Red,10,8,Medium Tax Era,Standard,High,18.02,1
+Hyundai,Accent,2019,2310017,58040,Hybrid,Manual,2000,Van,Kandy,Used,Individual,Black,16,5,Medium Tax Era,Standard,High,39.8,0
+Hyundai,Elantra,2013,1030204,182652,Hybrid,Automatic,2000,Sedan,Negombo,Reconditioned,Dealer,Silver,24,11,Low Tax Era,Standard,High,5.64,0
+Suzuki,Hustler,2016,1013888,50547,Petrol,Automatic,1500,Hatchback,Matara,Used,Individual,Brown,14,8,Medium Tax Era,Standard,Low,20.06,0
+BMW,318i,2012,1826504,236546,Diesel,Automatic,3500,Wagon,Ratnapura,Reconditioned,Individual,Silver,24,12,Low Tax Era,Luxury,Low,7.72,0
+Toyota,Camry,2013,1415037,155992,Hybrid,Automatic,1000,Sedan,Kalutara,Used,Individual,White,7,11,Low Tax Era,Standard,High,9.07,0
+Mazda,Atenza,2014,1170463,192099,Petrol,Manual,1800,Coupe,Gampaha,Used,Individual,White,23,10,Low Tax Era,Standard,Low,6.09,0
+Toyota,Axio,2015,1497812,115166,Petrol,Automatic,1300,Sedan,Batticaloa,Used,Individual,White,5,9,Low Tax Era,Standard,Medium,13.01,1
+KIA,Rio,2017,2032791,73289,Hybrid,Automatic,1500,Van,Colombo,Used,Individual,Black,19,7,Medium Tax Era,Standard,High,27.74,0
+Honda,Accord,2016,1545032,68016,Petrol,Automatic,1500,SUV,Anuradhapura,Used,Dealer,White,7,8,Medium Tax Era,Standard,Low,22.72,0
+Honda,Freed,2016,2076018,104325,Hybrid,Automatic,1300,Van,Galle,Used,Individual,Grey,23,8,Medium Tax Era,Standard,High,19.9,0
+Suzuki,Ertiga,2015,1002251,41832,Petrol,Automatic,1800,Van,Colombo,Used,Dealer,White,24,9,Low Tax Era,Standard,Low,23.96,0
+Suzuki,Every,2015,1141323,73649,Hybrid,Automatic,1800,Van,Anuradhapura,Used,Individual,Black,18,9,Low Tax Era,Standard,High,15.5,0
+Toyota,CH-R,2013,1155287,153339,Petrol,Manual,1300,SUV,Colombo,Used,Dealer,White,19,11,Low Tax Era,Standard,Medium,7.53,0
+Toyota,Vezel,2019,3239716,94399,Hybrid,Automatic,2000,SUV,Gampaha,Used,Individual,Black,20,5,Medium Tax Era,Standard,High,34.32,1
+Nissan,Leaf,2022,3326499,30919,Hybrid,Automatic,2000,Van,Negombo,Reconditioned,Individual,Blue,8,2,High Tax Era,Standard,High,107.58,0
+Honda,Accord,2015,1551128,59171,Hybrid,Manual,1300,Sedan,Kalutara,Used,Dealer,Grey,10,9,Low Tax Era,Standard,High,26.21,0
+Toyota,Aqua,2013,1081358,242842,Diesel,Automatic,1300,Hatchback,Anuradhapura,Used,Individual,White,9,11,Low Tax Era,Standard,Medium,4.45,1
+Nissan,Leaf,2020,2958295,23884,Hybrid,Automatic,1500,Wagon,Colombo,Reconditioned,Dealer,Silver,22,4,High Tax Era,Standard,High,123.86,0
+Toyota,Vitz,2020,3490251,28965,Electric,Automatic,0,Hatchback,Anuradhapura,Used,Individual,White,9,4,High Tax Era,Standard,Very High,120.49,0
+Honda,Insight,2017,1728723,46765,Diesel,Automatic,1500,Sedan,Gampaha,Used,Individual,Silver,5,7,Medium Tax Era,Standard,Low,36.97,0
+Suzuki,Swift,2011,506316,168281,Petrol,Manual,1300,Hatchback,Ratnapura,Used,Dealer,White,12,13,Low Tax Era,Standard,Medium,3.01,1
+Toyota,CH-R,2020,3310090,47596,Petrol,Automatic,1500,SUV,Matara,Reconditioned,Individual,Silver,20,4,High Tax Era,Standard,Low,69.54,0
+Mazda,CX-3,2019,2136090,115726,Petrol,Automatic,1500,Hatchback,Colombo,Used,Individual,Green,11,5,Medium Tax Era,Standard,Low,18.46,0
+Suzuki,Hustler,2020,2330404,36996,Hybrid,Automatic,2000,Coupe,Colombo,Reconditioned,Dealer,Black,21,4,High Tax Era,Standard,High,62.99,0
+Suzuki,Swift,2018,1251737,115675,Petrol,Automatic,1000,Hatchback,Colombo,Used,Individual,White,10,6,Medium Tax Era,Standard,Medium,10.82,1
+Nissan,Caravan,2019,1582175,92201,Diesel,Manual,2000,Van,Gampaha,Used,Individual,Black,9,5,Medium Tax Era,Standard,Low,17.16,0
+Honda,Accord,2015,1408765,97757,Petrol,Manual,2000,Van,Colombo,Used,Individual,Brown,15,9,Low Tax Era,Standard,Low,14.41,0
+Toyota,Aqua,2013,1636684,213461,Hybrid,Automatic,1300,Hatchback,Colombo,Reconditioned,Dealer,White,16,11,Low Tax Era,Standard,High,7.67,1
+Nissan,Tiida,2012,678170,139768,Diesel,Automatic,1500,Van,Negombo,Used,Dealer,White,5,12,Low Tax Era,Standard,Low,4.85,0
+Honda,Insight,2016,1979503,72899,Hybrid,Automatic,1000,Coupe,Anuradhapura,Reconditioned,Individual,Black,9,8,Medium Tax Era,Standard,High,27.15,0
+KIA,Rio,2021,3316256,57703,Hybrid,Automatic,1000,Sedan,Negombo,Used,Dealer,White,13,3,High Tax Era,Standard,High,57.47,0
+KIA,Sportage,2008,500000,204724,Petrol,Automatic,2000,Wagon,Kurunegala,Used,Individual,Black,6,16,Low Tax Era,Standard,Low,2.44,0
+Suzuki,Ertiga,2016,1108770,54901,Hybrid,Manual,2000,Coupe,Colombo,Used,Dealer,White,9,8,Medium Tax Era,Standard,High,20.2,0
+Hyundai,Tucson,2018,2123034,117395,Hybrid,Automatic,1000,SUV,Gampaha,Used,Individual,Gold,17,6,Medium Tax Era,Standard,High,18.08,0
+Toyota,Premio,2015,1800488,106617,Electric,Automatic,0,Sedan,Kandy,Reconditioned,Individual,Silver,13,9,Low Tax Era,Standard,Very High,16.89,0
+Honda,Vezel,2013,1240580,128582,Diesel,Automatic,1300,SUV,Gampaha,Used,Individual,Black,16,11,Low Tax Era,Standard,Medium,9.65,1
+Toyota,Axio,2014,1326502,140481,Petrol,Automatic,1800,Sedan,Negombo,Used,Dealer,Blue,12,10,Low Tax Era,Standard,Low,9.44,1
+Toyota,Camry,2017,2781060,57881,Hybrid,Automatic,1300,Sedan,Colombo,Reconditioned,Individual,Silver,14,7,Medium Tax Era,Standard,High,48.05,0
+Nissan,March,2012,670897,206525,Petrol,Automatic,660,Hatchback,Colombo,Used,Individual,White,8,12,Low Tax Era,Standard,Medium,3.25,0
+Mitsubishi,Montero,2016,1874168,78255,Hybrid,Automatic,1300,Wagon,Colombo,Used,Individual,White,11,8,Medium Tax Era,Standard,High,23.95,0
+Toyota,CH-R,2018,3078909,84420,Hybrid,Automatic,1800,SUV,Negombo,Used,Dealer,White,15,6,Medium Tax Era,Standard,High,36.47,0
+Mazda,CX-3,2018,2324093,90969,Hybrid,Automatic,2000,Coupe,Gampaha,Used,Dealer,Black,7,6,Medium Tax Era,Standard,High,25.55,0
+Suzuki,Wagon R,2009,500000,223532,Diesel,Manual,800,Hatchback,Negombo,Used,Individual,White,7,15,Low Tax Era,Standard,Medium,2.24,1
+Honda,Accord,2009,625236,129431,Petrol,Automatic,1300,Van,Colombo,Used,Individual,Blue,11,15,Low Tax Era,Standard,Medium,4.83,0
+Suzuki,Wagon R,2012,713373,199277,Hybrid,Automatic,800,Hatchback,Anuradhapura,Used,Dealer,Brown,10,12,Low Tax Era,Standard,High,3.58,1
+Toyota,Axio,2009,728560,184405,Petrol,Automatic,1800,Sedan,Negombo,Used,Dealer,Black,17,15,Low Tax Era,Standard,Low,3.95,1
+Honda,Freed,2015,1536349,90551,Petrol,Automatic,1500,Van,Gampaha,Used,Individual,White,18,9,Low Tax Era,Standard,Low,16.97,0
+Honda,Grace,2016,1699691,88351,Petrol,Automatic,1300,Sedan,Colombo,Used,Dealer,White,18,8,Medium Tax Era,Standard,Medium,19.24,0
+Honda,Accord,2016,1867725,58226,Hybrid,Automatic,1000,Wagon,Negombo,Used,Dealer,Black,20,8,Medium Tax Era,Standard,High,32.08,0
+Suzuki,Alto,2016,1068936,58413,Petrol,Manual,800,Hatchback,Colombo,Used,Individual,White,23,8,Medium Tax Era,Standard,Medium,18.3,1
+Toyota,Camry,2018,2405225,57156,Petrol,Automatic,1800,Sedan,Colombo,Reconditioned,Individual,White,16,6,Medium Tax Era,Standard,Low,42.08,0
+Mazda,Mazda 3,2020,3157685,41898,Hybrid,Automatic,2000,Sedan,Kurunegala,Used,Individual,White,16,4,High Tax Era,Standard,High,75.36,0
+Mazda,Demio,2014,1233465,215501,Diesel,Automatic,1800,Hatchback,Colombo,Used,Individual,Red,8,10,Low Tax Era,Standard,Low,5.72,0
+Toyota,Aqua,2010,755258,147592,Petrol,Manual,1000,Hatchback,Kalutara,Reconditioned,Dealer,White,10,14,Low Tax Era,Standard,Medium,5.12,1
+Toyota,Vezel,2019,3766671,75447,Hybrid,Automatic,1800,SUV,Kurunegala,Used,Individual,Black,24,5,Medium Tax Era,Standard,High,49.92,1
+Suzuki,Hustler,2018,1489994,111028,Petrol,Automatic,1000,Sedan,Galle,Used,Individual,White,24,6,Medium Tax Era,Standard,Medium,13.42,0
+Hyundai,i10,2014,1058185,205410,Electric,Manual,0,Coupe,Kandy,Reconditioned,Individual,Black,7,10,Low Tax Era,Standard,Very High,5.15,0
+Honda,Civic,2008,500000,212152,Petrol,Manual,1500,Sedan,Jaffna,Used,Dealer,White,8,16,Low Tax Era,Standard,Low,2.36,0
+Honda,Insight,2019,2610624,97589,Petrol,Automatic,1800,SUV,Galle,Used,Dealer,Silver,19,5,Medium Tax Era,Standard,Low,26.75,0
+Toyota,Camry,2021,3738360,31995,Petrol,Manual,1000,Sedan,Matara,Reconditioned,Dealer,Green,24,3,High Tax Era,Standard,Medium,116.84,0
+Honda,Civic,2015,1455162,84112,Petrol,Automatic,1000,Sedan,Kurunegala,Used,Dealer,White,11,9,Low Tax Era,Standard,Medium,17.3,0
+Hyundai,Accent,2010,544026,220926,Petrol,Automatic,2000,Sedan,Kalutara,Used,Dealer,Silver,13,14,Low Tax Era,Standard,Low,2.46,0
+Toyota,CH-R,2021,4607162,50111,Hybrid,Automatic,1000,SUV,Colombo,Used,Dealer,White,15,3,High Tax Era,Standard,High,91.94,0
+Honda,Fit,2019,2501268,112805,Diesel,Manual,1500,Hatchback,Anuradhapura,Reconditioned,Dealer,White,20,5,Medium Tax Era,Standard,Low,22.17,1
+Toyota,Prius,2019,3311546,110097,Hybrid,Automatic,1300,Wagon,Matara,Reconditioned,Individual,White,19,5,Medium Tax Era,Standard,High,30.08,1
+Suzuki,Alto,2021,2367273,15997,Electric,Manual,0,Hatchback,Galle,Used,Individual,White,20,3,High Tax Era,Standard,Very High,147.97,1
+Honda,Fit,2012,1117048,172693,Electric,Automatic,0,Hatchback,Gampaha,Reconditioned,Individual,White,5,12,Low Tax Era,Standard,Very High,6.47,1
+Suzuki,Swift,2017,1726745,91553,Electric,Automatic,0,Hatchback,Matara,Reconditioned,Individual,White,19,7,Medium Tax Era,Standard,Very High,18.86,1
+Honda,Accord,2020,3378304,48357,Electric,Automatic,0,Van,Colombo,Used,Individual,White,6,4,High Tax Era,Standard,Very High,69.86,0
+Suzuki,Celerio,2021,2386399,36682,Diesel,Automatic,1800,Van,Negombo,Used,Dealer,Red,23,3,High Tax Era,Standard,Low,65.05,0
+Honda,Freed,2020,3844948,23983,Hybrid,Automatic,2000,Van,Colombo,Used,Individual,White,14,4,High Tax Era,Standard,High,160.31,0
+Hyundai,i10,2016,1526380,53665,Hybrid,Automatic,1500,Van,Negombo,Used,Individual,Gold,20,8,Medium Tax Era,Standard,High,28.44,0
+Suzuki,Celerio,2009,500000,187181,Petrol,Automatic,1000,Hatchback,Anuradhapura,Used,Dealer,White,22,15,Low Tax Era,Standard,Medium,2.67,0
+Toyota,CH-R,2015,2037310,67684,Electric,Automatic,0,SUV,Gampaha,Reconditioned,Dealer,Black,8,9,Low Tax Era,Standard,Very High,30.1,0
+KIA,Rio,2017,1365636,104442,Petrol,Automatic,2000,Wagon,Kurunegala,Reconditioned,Dealer,Brown,12,7,Medium Tax Era,Standard,Low,13.08,0
+Toyota,Corolla,2014,1802605,226123,Hybrid,Automatic,1000,Sedan,Batticaloa,Used,Dealer,Brown,23,10,Low Tax Era,Standard,High,7.97,0
+Toyota,Vezel,2016,1847043,44176,Petrol,Automatic,1300,SUV,Kandy,Used,Individual,Black,11,8,Medium Tax Era,Standard,Medium,41.81,1
+Benz,C200,2016,3256603,86902,Diesel,Automatic,2400,Hatchback,Ratnapura,Used,Individual,White,22,8,Medium Tax Era,Luxury,Low,37.47,0
+Honda,Accord,2018,2332107,80108,Hybrid,Automatic,2000,Van,Anuradhapura,Used,Dealer,Blue,10,6,Medium Tax Era,Standard,High,29.11,0
+Benz,A-Class,2017,3342167,87366,Petrol,Manual,2400,Sedan,Negombo,Used,Dealer,Black,10,7,Medium Tax Era,Luxury,Low,38.25,0
+Suzuki,Swift,2011,551674,183719,Petrol,Automatic,1800,Hatchback,Matara,Reconditioned,Individual,Silver,21,13,Low Tax Era,Standard,Low,3,1
+Toyota,Prius,2022,4714603,30457,Hybrid,Automatic,1800,Coupe,Galle,Used,Dealer,Silver,18,2,High Tax Era,Standard,High,154.79,1
+Toyota,CH-R,2009,623689,163576,Petrol,Automatic,1300,SUV,Anuradhapura,Reconditioned,Dealer,White,6,15,Low Tax Era,Standard,Medium,3.81,0
+KIA,Picanto,2010,518936,166540,Petrol,Manual,1000,Van,Colombo,Used,Individual,Black,13,14,Low Tax Era,Standard,Medium,3.12,0
+Toyota,Vezel,2018,2941825,101086,Hybrid,Automatic,2000,SUV,Kurunegala,Used,Dealer,Red,24,6,Medium Tax Era,Standard,High,29.1,1
+KIA,Cerato,2014,1262637,166067,Hybrid,Automatic,1800,Coupe,Anuradhapura,Used,Dealer,Silver,11,10,Low Tax Era,Standard,High,7.6,0
+Suzuki,Spacia,2021,2974650,25110,Hybrid,Automatic,1300,Coupe,Colombo,Used,Individual,Black,19,3,High Tax Era,Standard,High,118.46,0
+Suzuki,Celerio,2015,1145775,50223,Hybrid,Automatic,1800,SUV,Jaffna,Reconditioned,Individual,White,22,9,Low Tax Era,Standard,High,22.81,0
+Suzuki,Alto,2020,2109306,26055,Hybrid,Automatic,660,Hatchback,Colombo,Reconditioned,Individual,Black,7,4,High Tax Era,Standard,High,80.95,1
+Mazda,CX-3,2021,3999103,17631,Hybrid,Automatic,2000,Wagon,Jaffna,Used,Dealer,Grey,17,3,High Tax Era,Standard,High,226.81,0
+Nissan,Tiida,2014,1110679,123168,Hybrid,Automatic,1300,SUV,Jaffna,Used,Dealer,Silver,6,10,Low Tax Era,Standard,High,9.02,0
+Mitsubishi,Mirage,2015,1096101,115955,Diesel,Automatic,1500,SUV,Kurunegala,Reconditioned,Dealer,White,5,9,Low Tax Era,Standard,Low,9.45,0
+Suzuki,Alto,2013,725579,86955,Diesel,Manual,660,Hatchback,Colombo,Reconditioned,Dealer,Green,6,11,Low Tax Era,Standard,Medium,8.34,1
+Toyota,Premio,2019,3009600,88481,Electric,Automatic,0,Sedan,Galle,Used,Dealer,White,8,5,Medium Tax Era,Standard,Very High,34.01,0
+Suzuki,Every,2021,2387112,51075,Hybrid,Automatic,1300,Van,Matara,Used,Dealer,Red,9,3,High Tax Era,Standard,High,46.74,0
+Toyota,Allion,2009,587472,200212,Petrol,Automatic,1300,Sedan,Kandy,Reconditioned,Dealer,Silver,5,15,Low Tax Era,Standard,Medium,2.93,0
+Suzuki,Celerio,2021,2115596,44389,Petrol,Automatic,1500,Wagon,Gampaha,Used,Dealer,Red,21,3,High Tax Era,Standard,Low,47.66,0
+Toyota,CH-R,2018,2255784,81751,Petrol,Automatic,1300,SUV,Negombo,Used,Dealer,White,17,6,Medium Tax Era,Standard,Medium,27.59,0
+BMW,320i,2021,5780627,49351,Petrol,Automatic,2500,Hatchback,Colombo,Used,Dealer,Black,21,3,High Tax Era,Luxury,Low,117.13,0
+Suzuki,Spacia,2012,503501,84454,Petrol,Manual,1000,Van,Negombo,Reconditioned,Dealer,White,6,12,Low Tax Era,Standard,Medium,5.96,0
+Toyota,Corolla,2013,1221575,92875,Diesel,Manual,1300,Sedan,Colombo,Used,Dealer,Brown,6,11,Low Tax Era,Standard,Medium,13.15,0
+Toyota,Vezel,2016,2005438,114944,Hybrid,Automatic,1000,SUV,Colombo,Used,Dealer,Black,10,8,Medium Tax Era,Standard,High,17.45,1
+Nissan,X-Trail,2020,2445684,43390,Hybrid,Automatic,1300,SUV,Gampaha,Reconditioned,Dealer,Silver,5,4,High Tax Era,Standard,High,56.36,0
+Toyota,Axio,2017,2096379,56482,Petrol,Automatic,1300,Sedan,Colombo,Reconditioned,Dealer,Silver,13,7,Medium Tax Era,Standard,Medium,37.12,1
+Toyota,Premio,2022,5225136,46419,Hybrid,Automatic,1000,Sedan,Kandy,Reconditioned,Dealer,Blue,23,2,High Tax Era,Standard,High,112.56,0
+Honda,Accord,2017,2405823,64288,Electric,Automatic,0,SUV,Batticaloa,Used,Individual,White,15,7,Medium Tax Era,Standard,Very High,37.42,0
+Toyota,CH-R,2019,2378142,95916,Petrol,Automatic,1800,SUV,Negombo,Reconditioned,Individual,Black,10,5,Medium Tax Era,Standard,Low,24.79,0
+Suzuki,Hustler,2019,2298357,84852,Hybrid,Automatic,1800,SUV,Colombo,Reconditioned,Dealer,White,17,5,Medium Tax Era,Standard,High,27.09,0
+Honda,Insight,2020,2374243,18447,Petrol,Automatic,1500,Van,Negombo,Used,Dealer,Grey,6,4,High Tax Era,Standard,Low,128.7,0
+Toyota,CH-R,2015,1538771,105365,Hybrid,Manual,2000,SUV,Gampaha,Reconditioned,Individual,White,10,9,Low Tax Era,Standard,High,14.6,0
+Suzuki,Every,2016,1093939,103332,Electric,Manual,0,Van,Gampaha,Used,Individual,Black,11,8,Medium Tax Era,Standard,Very High,10.59,0
+Suzuki,Spacia,2020,2635363,35151,Hybrid,Automatic,1500,Hatchback,Colombo,Used,Individual,Black,23,4,High Tax Era,Standard,High,74.97,0
+Toyota,CH-R,2013,1482267,118493,Hybrid,Automatic,1300,SUV,Galle,Reconditioned,Individual,White,21,11,Low Tax Era,Standard,High,12.51,0
+Toyota,Camry,2016,1822001,75989,Petrol,Automatic,1000,Sedan,Colombo,Used,Individual,White,13,8,Medium Tax Era,Standard,Medium,23.98,0
+Suzuki,Celerio,2017,1332235,58615,Petrol,Automatic,1000,Wagon,Kurunegala,Used,Individual,Silver,16,7,Medium Tax Era,Standard,Medium,22.73,0
+Toyota,Vezel,2017,2594246,40026,Hybrid,Automatic,1300,SUV,Kandy,Reconditioned,Dealer,Grey,10,7,Medium Tax Era,Standard,High,64.81,1
+Nissan,Juke,2015,1211661,106332,Hybrid,Automatic,1000,Sedan,Galle,Used,Individual,White,15,9,Low Tax Era,Standard,High,11.39,0
+Toyota,Corolla,2020,3481018,19866,Hybrid,Automatic,1000,Sedan,Colombo,Used,Individual,Black,11,4,High Tax Era,Standard,High,175.22,0
+Suzuki,Spacia,2020,2689201,40822,Electric,Automatic,0,SUV,Kalutara,Used,Individual,Green,24,4,High Tax Era,Standard,Very High,65.87,0
+Suzuki,Ertiga,2014,909362,164511,Hybrid,Manual,1300,Van,Anuradhapura,Reconditioned,Dealer,Brown,20,10,Low Tax Era,Standard,High,5.53,0
+Toyota,CH-R,2020,3618403,30233,Hybrid,Automatic,1300,SUV,Gampaha,Used,Individual,Grey,10,4,High Tax Era,Standard,High,119.68,0
+Honda,Grace,2013,1305997,105301,Hybrid,Automatic,1300,Sedan,Galle,Used,Individual,Gold,5,11,Low Tax Era,Standard,High,12.4,0
+Suzuki,Alto,2015,1241782,49566,Hybrid,Automatic,1000,Hatchback,Ratnapura,Used,Individual,White,15,9,Low Tax Era,Standard,High,25.05,1
+Suzuki,Hustler,2020,2629688,32215,Electric,Automatic,0,Coupe,Kurunegala,Used,Dealer,Gold,21,4,High Tax Era,Standard,Very High,81.63,0
+Suzuki,Ertiga,2016,1372179,94583,Hybrid,Automatic,2000,Wagon,Jaffna,Reconditioned,Dealer,Brown,13,8,Medium Tax Era,Standard,High,14.51,0
+Toyota,Prius,2020,2764264,51551,Petrol,Automatic,1300,Coupe,Jaffna,Reconditioned,Dealer,Silver,6,4,High Tax Era,Standard,Medium,53.62,1
+Toyota,Corolla,2017,2807022,82340,Hybrid,Automatic,1300,Sedan,Negombo,Used,Dealer,Red,21,7,Medium Tax Era,Standard,High,34.09,0
+Suzuki,Every,2015,962877,41711,Petrol,Automatic,1000,Van,Colombo,Used,Individual,White,11,9,Low Tax Era,Standard,Medium,23.08,0
+Nissan,Caravan,2012,826730,155205,Hybrid,Manual,1000,Van,Gampaha,Used,Individual,White,22,12,Low Tax Era,Standard,High,5.33,0
+Benz,A-Class,2010,1211379,167745,Petrol,Manual,3500,Wagon,Colombo,Used,Dealer,White,8,14,Low Tax Era,Luxury,Low,7.22,0
+Suzuki,Wagon R,2013,670506,93117,Petrol,Automatic,1000,Hatchback,Negombo,Used,Individual,Silver,11,11,Low Tax Era,Standard,Medium,7.2,1
+Hyundai,Tucson,2020,2103036,50383,Petrol,Automatic,1800,SUV,Gampaha,Used,Dealer,White,14,4,High Tax Era,Standard,Low,41.74,0
+KIA,Picanto,2020,3087737,23155,Hybrid,Automatic,1000,Van,Colombo,Used,Dealer,White,22,4,High Tax Era,Standard,High,133.35,0
+Toyota,Vezel,2016,2213601,119858,Hybrid,Automatic,1500,SUV,Colombo,Reconditioned,Individual,Black,23,8,Medium Tax Era,Standard,High,18.47,1
+Mazda,Axela,2016,1705454,118591,Diesel,Automatic,1300,Van,Colombo,Reconditioned,Dealer,White,18,8,Medium Tax Era,Standard,Medium,14.38,0
+Toyota,Vezel,2021,4619247,24319,Hybrid,Automatic,1800,SUV,Kurunegala,Used,Individual,Black,20,3,High Tax Era,Standard,High,189.94,1
+Suzuki,Hustler,2020,2284143,38301,Hybrid,Automatic,1800,Wagon,Kandy,Used,Individual,Black,13,4,High Tax Era,Standard,High,59.64,0
+Nissan,March,2017,1666657,49236,Hybrid,Automatic,660,Hatchback,Matara,Used,Individual,White,5,7,Medium Tax Era,Standard,High,33.85,0
+Toyota,Premio,2011,888279,169049,Petrol,Automatic,1500,Sedan,Batticaloa,Reconditioned,Individual,White,16,13,Low Tax Era,Standard,Low,5.25,0
+Suzuki,Hustler,2018,1685874,50745,Diesel,Automatic,2000,Coupe,Kurunegala,Reconditioned,Individual,Red,24,6,Medium Tax Era,Standard,Low,33.22,0
+Toyota,Axio,2021,4066051,43793,Hybrid,Automatic,1000,Sedan,Kalutara,Used,Dealer,Black,18,3,High Tax Era,Standard,High,92.84,1
+Toyota,Premio,2013,1469118,244781,Hybrid,Automatic,2000,Sedan,Colombo,Reconditioned,Individual,Red,21,11,Low Tax Era,Standard,High,6,0
+Toyota,Allion,2011,801695,174593,Diesel,Manual,2000,Sedan,Kurunegala,Used,Dealer,White,15,13,Low Tax Era,Standard,Low,4.59,0
+Nissan,Caravan,2019,2407779,41301,Electric,Automatic,0,Van,Galle,Used,Individual,Gold,23,5,Medium Tax Era,Standard,Very High,58.3,0
+Honda,Accord,2015,1671416,107641,Hybrid,Manual,1800,Hatchback,Gampaha,Reconditioned,Individual,Black,10,9,Low Tax Era,Standard,High,15.53,0
+Toyota,Prius,2010,749890,179251,Petrol,Automatic,1500,Van,Kurunegala,Reconditioned,Individual,Red,17,14,Low Tax Era,Standard,Low,4.18,1
+Mazda,Mazda 3,2016,1456143,96680,Petrol,Automatic,1500,Sedan,Negombo,Reconditioned,Individual,Red,8,8,Medium Tax Era,Standard,Low,15.06,0
+Suzuki,Hustler,2018,1826042,95412,Hybrid,Automatic,1500,Wagon,Colombo,Reconditioned,Dealer,Grey,16,6,Medium Tax Era,Standard,High,19.14,0
+Toyota,Prius,2018,2638465,62286,Hybrid,Automatic,1300,Van,Kandy,Used,Individual,Brown,5,6,Medium Tax Era,Standard,High,42.36,1
+Mazda,CX-3,2009,535777,189762,Petrol,Manual,2000,Hatchback,Colombo,Reconditioned,Individual,White,14,15,Low Tax Era,Standard,Low,2.82,0
+Toyota,CH-R,2014,1547912,150320,Electric,Manual,0,SUV,Anuradhapura,Used,Dealer,Black,24,10,Low Tax Era,Standard,Very High,10.3,0
+Mazda,CX-5,2021,3863259,59740,Hybrid,Automatic,1800,SUV,Gampaha,Reconditioned,Dealer,Grey,15,3,High Tax Era,Standard,High,64.67,0
+Toyota,Camry,2021,4971580,50510,Hybrid,Automatic,1000,Sedan,Colombo,Reconditioned,Dealer,Red,18,3,High Tax Era,Standard,High,98.43,0
+Toyota,Camry,2013,1475115,196360,Hybrid,Automatic,1300,Sedan,Colombo,Used,Individual,White,9,11,Low Tax Era,Standard,High,7.51,0
+Toyota,Vezel,2020,4080879,30976,Hybrid,Automatic,1500,SUV,Gampaha,Reconditioned,Dealer,Black,21,4,High Tax Era,Standard,High,131.74,1
+Toyota,Camry,2018,3045444,40386,Electric,Automatic,0,Sedan,Jaffna,Used,Individual,Black,24,6,Medium Tax Era,Standard,Very High,75.41,0
+KIA,Cerato,2021,2720520,52937,Petrol,Automatic,1000,Van,Colombo,Reconditioned,Dealer,Black,5,3,High Tax Era,Standard,Medium,51.39,0
+Toyota,Aqua,2008,635010,83692,Petrol,Automatic,2000,Hatchback,Kurunegala,Reconditioned,Individual,Brown,10,16,Low Tax Era,Standard,Low,7.59,1
+Honda,City,2011,730660,166120,Petrol,Manual,1800,Wagon,Kandy,Used,Individual,White,5,13,Low Tax Era,Standard,Low,4.4,0
+Toyota,Camry,2014,1353907,140067,Diesel,Automatic,1300,Sedan,Ratnapura,Reconditioned,Individual,Grey,19,10,Low Tax Era,Standard,Medium,9.67,0
+Toyota,Corolla,2010,777823,186998,Petrol,Automatic,2000,Sedan,Gampaha,Reconditioned,Individual,White,24,14,Low Tax Era,Standard,Low,4.16,0
+Suzuki,Celerio,2011,567961,130138,Petrol,Automatic,1000,Wagon,Gampaha,Reconditioned,Dealer,Silver,12,13,Low Tax Era,Standard,Medium,4.36,0
+Nissan,Caravan,2009,555516,228269,Petrol,Automatic,1800,Van,Colombo,Used,Individual,Green,20,15,Low Tax Era,Standard,Low,2.43,0
+Nissan,Leaf,2021,2835111,25908,Hybrid,Automatic,1300,Hatchback,Kurunegala,Reconditioned,Individual,White,9,3,High Tax Era,Standard,High,109.43,0
+Toyota,Vezel,2021,4723146,32375,Electric,Automatic,0,SUV,Gampaha,Reconditioned,Dealer,White,15,3,High Tax Era,Standard,Very High,145.88,1
+Mazda,Axela,2020,3375952,17637,Hybrid,Automatic,1500,SUV,Kalutara,Reconditioned,Individual,Black,14,4,High Tax Era,Standard,High,191.4,0
+Toyota,Aqua,2013,1355188,91341,Petrol,Automatic,1300,Hatchback,Colombo,Used,Dealer,Blue,20,11,Low Tax Era,Standard,Medium,14.84,1
+Suzuki,Alto,2013,588650,188750,Petrol,Manual,800,Hatchback,Negombo,Reconditioned,Individual,White,16,11,Low Tax Era,Standard,Medium,3.12,1
+Suzuki,Spacia,2016,1161849,58366,Petrol,Automatic,1300,Sedan,Kalutara,Reconditioned,Dealer,Gold,24,8,Medium Tax Era,Standard,Medium,19.91,0
+Toyota,Corolla,2009,681248,245278,Diesel,Manual,1300,Sedan,Batticaloa,Reconditioned,Individual,Silver,13,15,Low Tax Era,Standard,Medium,2.78,0
+Mazda,CX-5,2017,1671422,94235,Petrol,Automatic,1500,SUV,Gampaha,Reconditioned,Individual,Silver,9,7,Medium Tax Era,Standard,Low,17.74,0
+Nissan,X-Trail,2008,500000,203482,Petrol,Automatic,1800,SUV,Colombo,Used,Dealer,Silver,17,16,Low Tax Era,Standard,Low,2.46,0
+Suzuki,Every,2015,1100091,48573,Diesel,Automatic,1300,Van,Kandy,Used,Dealer,White,17,9,Low Tax Era,Standard,Medium,22.65,0
+Toyota,CH-R,2016,1873560,99145,Petrol,Automatic,2000,SUV,Colombo,Used,Individual,Black,15,8,Medium Tax Era,Standard,Low,18.9,0
+Honda,Freed,2013,1041652,211583,Diesel,Automatic,2000,Van,Batticaloa,Used,Individual,White,10,11,Low Tax Era,Standard,Low,4.92,0
+Nissan,Tiida,2017,1891491,116614,Electric,Automatic,0,Sedan,Anuradhapura,Used,Individual,White,21,7,Medium Tax Era,Standard,Very High,16.22,0
+Toyota,Allion,2020,3230022,36658,Diesel,Automatic,2000,Sedan,Galle,Used,Individual,White,17,4,High Tax Era,Standard,Low,88.11,0
+Toyota,Axio,2019,2781869,87345,Petrol,Automatic,1800,Sedan,Kurunegala,Reconditioned,Individual,White,24,5,Medium Tax Era,Standard,Low,31.85,1
+Suzuki,Spacia,2013,777665,110932,Hybrid,Automatic,1300,Wagon,Kandy,Used,Individual,Silver,5,11,Low Tax Era,Standard,High,7.01,0
+Toyota,Allion,2017,1929069,61695,Petrol,Automatic,1000,Sedan,Negombo,Used,Individual,White,9,7,Medium Tax Era,Standard,Medium,31.27,0
+Hyundai,i10,2019,1844973,58318,Petrol,Automatic,1300,Sedan,Colombo,Used,Individual,Gold,6,5,Medium Tax Era,Standard,Medium,31.64,0
+Toyota,Aqua,2020,3699211,42426,Petrol,Automatic,1800,Hatchback,Colombo,Reconditioned,Dealer,White,22,4,High Tax Era,Standard,Low,87.19,1
+Suzuki,Alto,2020,1662552,56291,Diesel,Manual,1000,Hatchback,Kalutara,Reconditioned,Individual,White,9,4,High Tax Era,Standard,Medium,29.53,1
+Toyota,Axio,2018,2629767,93243,Petrol,Automatic,1300,Sedan,Kandy,Reconditioned,Dealer,Black,19,6,Medium Tax Era,Standard,Medium,28.2,1
+Toyota,Aqua,2014,1435087,232601,Petrol,Automatic,1300,Hatchback,Kandy,Reconditioned,Dealer,Black,18,10,Low Tax Era,Standard,Medium,6.17,1
+Nissan,March,2012,721643,149377,Diesel,Automatic,800,Hatchback,Gampaha,Reconditioned,Individual,White,8,12,Low Tax Era,Standard,Medium,4.83,0
+Benz,E200,2008,1221071,104009,Petrol,Automatic,3000,Hatchback,Gampaha,Reconditioned,Individual,White,12,16,Low Tax Era,Luxury,Low,11.74,0
+Suzuki,Hustler,2020,1626760,53585,Petrol,Automatic,1000,Van,Matara,Used,Individual,Blue,5,4,High Tax Era,Standard,Medium,30.36,0
+Toyota,CH-R,2017,2236808,68514,Hybrid,Automatic,2000,SUV,Kalutara,Used,Individual,Blue,12,7,Medium Tax Era,Standard,High,32.65,0
+Honda,Civic,2015,1272227,62205,Petrol,Automatic,2000,Sedan,Matara,Used,Individual,Black,6,9,Low Tax Era,Standard,Low,20.45,0
+KIA,Picanto,2011,678238,210436,Petrol,Automatic,1500,Wagon,Ratnapura,Used,Individual,Blue,14,13,Low Tax Era,Standard,Low,3.22,0
+Toyota,Premio,2015,1490341,100301,Petrol,Automatic,1800,Sedan,Jaffna,Reconditioned,Individual,White,13,9,Low Tax Era,Standard,Low,14.86,0
+Hyundai,Accent,2011,560671,217014,Petrol,Manual,1500,Hatchback,Colombo,Reconditioned,Dealer,Black,14,13,Low Tax Era,Standard,Low,2.58,0
+Honda,City,2019,2876269,96332,Hybrid,Automatic,1800,Coupe,Galle,Used,Dealer,Silver,14,5,Medium Tax Era,Standard,High,29.86,0
+Hyundai,Tucson,2021,3129505,39726,Electric,Automatic,0,SUV,Gampaha,Used,Dealer,Black,22,3,High Tax Era,Standard,Very High,78.78,0
+Benz,C180,2023,9959860,14183,Hybrid,Automatic,2400,Coupe,Kandy,Used,Individual,Silver,6,1,High Tax Era,Luxury,High,702.19,0
+Suzuki,Every,2019,1851457,103867,Diesel,Automatic,2000,Van,Jaffna,Reconditioned,Dealer,White,20,5,Medium Tax Era,Standard,Low,17.83,0
+Nissan,March,2019,2182788,100135,Petrol,Automatic,660,Hatchback,Colombo,Used,Individual,Red,23,5,Medium Tax Era,Standard,Medium,21.8,0
+KIA,Sorento,2017,1580949,114967,Diesel,Automatic,1300,Hatchback,Kandy,Used,Individual,Black,23,7,Medium Tax Era,Standard,Medium,13.75,0
+Mazda,Axela,2019,2710779,95919,Hybrid,Automatic,1300,Wagon,Gampaha,Used,Individual,White,10,5,Medium Tax Era,Standard,High,28.26,0
+Toyota,Axio,2017,1761152,66038,Petrol,Automatic,1300,Sedan,Negombo,Used,Individual,White,7,7,Medium Tax Era,Standard,Medium,26.67,1
+Hyundai,Creta,2018,1830978,113229,Hybrid,Automatic,1300,Wagon,Negombo,Used,Individual,White,8,6,Medium Tax Era,Standard,High,16.17,0
+Suzuki,Every,2020,2248982,51679,Hybrid,Automatic,1800,Van,Colombo,Used,Dealer,White,20,4,High Tax Era,Standard,High,43.52,0
+Toyota,Prius,2018,2133309,84104,Diesel,Automatic,1500,Coupe,Anuradhapura,Used,Individual,White,7,6,Medium Tax Era,Standard,Low,25.36,1
+Hyundai,Creta,2009,546241,152561,Petrol,Automatic,1000,Sedan,Colombo,Used,Individual,White,22,15,Low Tax Era,Standard,Medium,3.58,0
+Toyota,Prius,2014,1446064,165455,Hybrid,Manual,1000,Coupe,Kurunegala,Used,Dealer,Black,21,10,Low Tax Era,Standard,High,8.74,1
+Mitsubishi,Lancer,2020,2731035,49889,Petrol,Automatic,1800,Sedan,Matara,Used,Individual,Silver,19,4,High Tax Era,Standard,Low,54.74,0
+Nissan,Tiida,2017,1738519,50832,Electric,Automatic,0,Van,Batticaloa,Reconditioned,Dealer,Red,17,7,Medium Tax Era,Standard,Very High,34.2,0
+Toyota,Allion,2020,3077362,30154,Petrol,Automatic,2000,Sedan,Colombo,Used,Dealer,White,18,4,High Tax Era,Standard,Low,102.05,0
+Toyota,Axio,2016,1774840,73368,Petrol,Manual,1000,Sedan,Gampaha,Reconditioned,Dealer,White,16,8,Medium Tax Era,Standard,Medium,24.19,1
+Toyota,Camry,2014,1380154,97167,Petrol,Manual,1800,Sedan,Gampaha,Used,Individual,Brown,15,10,Low Tax Era,Standard,Low,14.2,0
+Honda,Vezel,2016,1672165,84361,Diesel,Automatic,1300,SUV,Kurunegala,Used,Individual,White,6,8,Medium Tax Era,Standard,Medium,19.82,1
+Toyota,Prius,2015,2231936,96416,Hybrid,Automatic,2000,Wagon,Colombo,Reconditioned,Dealer,Red,24,9,Low Tax Era,Standard,High,23.15,1
+Honda,City,2012,1267456,146846,Hybrid,Automatic,1500,Hatchback,Kandy,Used,Dealer,Brown,23,12,Low Tax Era,Standard,High,8.63,0
+Honda,Insight,2020,3115165,58773,Hybrid,Automatic,1000,Sedan,Batticaloa,Used,Individual,White,19,4,High Tax Era,Standard,High,53,0
+Toyota,Aqua,2016,1751724,108340,Petrol,Automatic,1000,Hatchback,Gampaha,Reconditioned,Individual,Gold,8,8,Medium Tax Era,Standard,Medium,16.17,1
+Toyota,Axio,2017,2442586,114319,Hybrid,Automatic,1500,Sedan,Colombo,Used,Individual,White,18,7,Medium Tax Era,Standard,High,21.37,1
+Toyota,Camry,2012,1082042,210223,Petrol,Automatic,2000,Sedan,Negombo,Used,Dealer,Silver,16,12,Low Tax Era,Standard,Low,5.15,0
+Honda,Accord,2013,1323801,86472,Hybrid,Automatic,1500,SUV,Jaffna,Used,Individual,Black,8,11,Low Tax Era,Standard,High,15.31,0
+Toyota,Vezel,2015,2100482,68887,Hybrid,Automatic,2000,SUV,Colombo,Reconditioned,Individual,White,11,9,Low Tax Era,Standard,High,30.49,1
+Suzuki,Hustler,2013,850521,123724,Hybrid,Automatic,1800,Van,Kandy,Used,Dealer,Brown,17,11,Low Tax Era,Standard,High,6.87,0
+Toyota,CH-R,2013,1094937,242325,Petrol,Automatic,1300,SUV,Batticaloa,Used,Dealer,Red,11,11,Low Tax Era,Standard,Medium,4.52,0
+Nissan,March,2013,1026861,177031,Hybrid,Automatic,1000,Hatchback,Batticaloa,Reconditioned,Individual,Brown,7,11,Low Tax Era,Standard,High,5.8,0
+Hyundai,Accent,2019,2011776,72780,Diesel,Automatic,1500,Coupe,Kurunegala,Used,Dealer,Red,17,5,Medium Tax Era,Standard,Low,27.64,0
+Benz,GLC,2010,1263658,218518,Diesel,Manual,2400,Van,Kandy,Used,Individual,White,16,14,Low Tax Era,Luxury,Low,5.78,0
+KIA,Sportage,2011,641417,148531,Petrol,Automatic,2000,Van,Negombo,Used,Individual,White,8,13,Low Tax Era,Standard,Low,4.32,0
+Honda,Vezel,2018,1973833,61966,Diesel,Automatic,1000,SUV,Gampaha,Used,Individual,Grey,11,6,Medium Tax Era,Standard,Medium,31.85,1
+Toyota,Camry,2016,2146145,76476,Diesel,Automatic,1500,Sedan,Negombo,Reconditioned,Individual,White,18,8,Medium Tax Era,Standard,Low,28.06,0
+Honda,Civic,2020,2957053,48853,Electric,Manual,0,Sedan,Batticaloa,Reconditioned,Individual,Blue,10,4,High Tax Era,Standard,Very High,60.53,0
+Toyota,Allion,2011,1090420,125452,Diesel,Automatic,1300,Sedan,Galle,Reconditioned,Individual,White,20,13,Low Tax Era,Standard,Medium,8.69,0
+Suzuki,Every,2011,500246,204269,Diesel,Automatic,1500,Van,Jaffna,Used,Dealer,Blue,12,13,Low Tax Era,Standard,Low,2.45,0
+Toyota,Vezel,2018,1944352,106863,Petrol,Automatic,1500,SUV,Jaffna,Reconditioned,Individual,White,6,6,Medium Tax Era,Standard,Low,18.19,1
+Toyota,CH-R,2017,2422466,107770,Hybrid,Automatic,1800,SUV,Gampaha,Used,Dealer,White,6,7,Medium Tax Era,Standard,High,22.48,0
+Suzuki,Swift,2012,727765,117739,Diesel,Automatic,1800,Hatchback,Gampaha,Used,Individual,White,24,12,Low Tax Era,Standard,Low,6.18,1
+Suzuki,Every,2017,1136777,105282,Petrol,Automatic,1800,Van,Negombo,Used,Dealer,Red,20,7,Medium Tax Era,Standard,Low,10.8,0
+BMW,530i,2017,3679913,116955,Hybrid,Automatic,3500,Sedan,Galle,Reconditioned,Dealer,Black,6,7,Medium Tax Era,Luxury,High,31.46,0
+Mitsubishi,Mirage,2021,3525511,34861,Hybrid,Automatic,1000,Sedan,Colombo,Used,Dealer,White,18,3,High Tax Era,Standard,High,101.13,0
+Nissan,Juke,2019,1967951,43051,Diesel,Automatic,1800,Hatchback,Kandy,Used,Individual,Black,5,5,Medium Tax Era,Standard,Low,45.71,0
+Toyota,Vitz,2017,2647449,90155,Hybrid,Automatic,1300,Hatchback,Kurunegala,Used,Individual,Red,18,7,Medium Tax Era,Standard,High,29.37,0
+Toyota,Allion,2023,6037532,9462,Hybrid,Automatic,1300,Sedan,Anuradhapura,Used,Dealer,Black,18,1,High Tax Era,Standard,High,638.01,0
+Suzuki,Alto,2008,500000,167829,Diesel,Manual,800,Hatchback,Colombo,Used,Individual,Silver,7,16,Low Tax Era,Standard,Medium,2.98,1
+Mazda,Axela,2022,3781869,51734,Diesel,Automatic,1000,SUV,Negombo,Reconditioned,Dealer,Black,17,2,High Tax Era,Standard,Medium,73.1,0
+Honda,City,2017,1658636,79857,Petrol,Automatic,1800,SUV,Kandy,Used,Individual,Red,10,7,Medium Tax Era,Standard,Low,20.77,0
+Toyota,CH-R,2019,2331058,117714,Diesel,Automatic,1000,SUV,Kurunegala,Reconditioned,Individual,White,5,5,Medium Tax Era,Standard,Medium,19.8,0
+Suzuki,Celerio,2020,2210353,38843,Hybrid,Automatic,1300,Sedan,Ratnapura,Reconditioned,Dealer,Red,22,4,High Tax Era,Standard,High,56.9,0
+Suzuki,Swift,2015,1245027,111469,Hybrid,Automatic,2000,Hatchback,Batticaloa,Used,Individual,Brown,15,9,Low Tax Era,Standard,High,11.17,1
+Honda,Accord,2019,2632670,79491,Diesel,Automatic,1000,SUV,Colombo,Reconditioned,Individual,Blue,6,5,Medium Tax Era,Standard,Medium,33.12,0
+Honda,Grace,2016,1499839,100985,Petrol,Automatic,2000,Sedan,Kalutara,Used,Dealer,Red,10,8,Medium Tax Era,Standard,Low,14.85,0
+Suzuki,Celerio,2010,500000,236405,Petrol,Automatic,1300,Hatchback,Kurunegala,Reconditioned,Individual,Gold,18,14,Low Tax Era,Standard,Medium,2.12,0
+Toyota,Vitz,2019,2332675,113509,Diesel,Automatic,1000,Hatchback,Negombo,Reconditioned,Individual,Silver,5,5,Medium Tax Era,Standard,Medium,20.55,0
+Toyota,Vitz,2017,2132324,62820,Petrol,Automatic,2000,Hatchback,Matara,Used,Individual,Brown,10,7,Medium Tax Era,Standard,Low,33.94,0
+Honda,Civic,2020,3560654,45535,Hybrid,Automatic,2000,Sedan,Gampaha,Reconditioned,Dealer,White,12,4,High Tax Era,Standard,High,78.19,0
+Mazda,Axela,2017,1840968,65906,Petrol,Automatic,1300,SUV,Jaffna,Used,Individual,White,19,7,Medium Tax Era,Standard,Medium,27.93,0
+Suzuki,Spacia,2010,500000,245201,Petrol,Automatic,1000,Van,Galle,Used,Individual,Silver,23,14,Low Tax Era,Standard,Medium,2.04,0
+Toyota,Allion,2019,3430311,62821,Hybrid,Automatic,1800,Sedan,Colombo,Used,Dealer,Brown,8,5,Medium Tax Era,Standard,High,54.6,0
+Suzuki,Wagon R,2011,524518,115200,Petrol,Manual,1000,Hatchback,Ratnapura,Reconditioned,Individual,Red,20,13,Low Tax Era,Standard,Medium,4.55,1
+Honda,Civic,2016,1900390,55064,Electric,Automatic,0,Sedan,Colombo,Reconditioned,Dealer,Black,5,8,Medium Tax Era,Standard,Very High,34.51,0
+Mitsubishi,Outlander,2011,702021,179925,Petrol,Manual,1800,SUV,Colombo,Used,Dealer,Blue,13,13,Low Tax Era,Standard,Low,3.9,0
+Suzuki,Swift,2013,739365,99874,Petrol,Automatic,1800,Hatchback,Ratnapura,Reconditioned,Individual,White,7,11,Low Tax Era,Standard,Low,7.4,1
+Suzuki,Every,2022,2188769,27777,Petrol,Manual,1000,Van,Kandy,Used,Dealer,White,20,2,High Tax Era,Standard,Medium,78.8,0
+Toyota,Vitz,2021,4489246,31225,Hybrid,Automatic,1800,Hatchback,Colombo,Reconditioned,Dealer,Grey,18,3,High Tax Era,Standard,High,143.77,0
+Honda,City,2008,555092,94012,Petrol,Manual,1300,Sedan,Anuradhapura,Reconditioned,Individual,Silver,12,16,Low Tax Era,Standard,Medium,5.9,0
+Mitsubishi,Montero,2018,2087384,111388,Hybrid,Manual,1300,Coupe,Gampaha,Reconditioned,Individual,White,11,6,Medium Tax Era,Standard,High,18.74,0
+Toyota,Corolla,2014,1486680,146770,Electric,Manual,0,Sedan,Kurunegala,Used,Individual,White,16,10,Low Tax Era,Standard,Very High,10.13,0
+Honda,Fit,2013,1111260,93368,Diesel,Automatic,1800,Hatchback,Kandy,Used,Dealer,Black,15,11,Low Tax Era,Standard,Low,11.9,1
+Honda,City,2010,609612,104315,Petrol,Manual,1000,Sedan,Jaffna,Used,Individual,Black,8,14,Low Tax Era,Standard,Medium,5.84,0
+KIA,Sorento,2010,576316,195106,Petrol,Automatic,1300,Hatchback,Gampaha,Used,Dealer,Black,5,14,Low Tax Era,Standard,Medium,2.95,0
+Mazda,Axela,2018,2104620,94698,Petrol,Automatic,1000,Wagon,Negombo,Used,Individual,White,20,6,Medium Tax Era,Standard,Medium,22.22,0
+Suzuki,Wagon R,2014,1133303,88177,Electric,Automatic,0,Hatchback,Colombo,Used,Dealer,Green,16,10,Low Tax Era,Standard,Very High,12.85,1
+Toyota,Prius,2012,1012534,221295,Petrol,Automatic,1000,Hatchback,Batticaloa,Used,Individual,White,10,12,Low Tax Era,Standard,Medium,4.58,1
+Suzuki,Wagon R,2016,1239491,85693,Hybrid,Manual,800,Hatchback,Kandy,Used,Individual,White,19,8,Medium Tax Era,Standard,High,14.46,1
+Toyota,Prius,2014,1632280,207716,Hybrid,Automatic,2000,Sedan,Colombo,Used,Dealer,Blue,9,10,Low Tax Era,Standard,High,7.86,1
+Toyota,Prius,2019,3825379,56277,Hybrid,Automatic,1500,Van,Colombo,Used,Dealer,Grey,19,5,Medium Tax Era,Standard,High,67.97,1
+Mitsubishi,ASX,2019,2315955,108038,Petrol,Automatic,1500,Van,Kandy,Reconditioned,Individual,White,22,5,Medium Tax Era,Standard,Low,21.44,0
+Suzuki,Wagon R,2013,691856,112398,Petrol,Automatic,1000,Hatchback,Jaffna,Reconditioned,Individual,White,20,11,Low Tax Era,Standard,Medium,6.16,1
+Honda,Grace,2010,859958,132664,Petrol,Automatic,1800,Sedan,Colombo,Reconditioned,Dealer,Brown,24,14,Low Tax Era,Standard,Low,6.48,0
+Mitsubishi,Pajero,2018,2090097,64509,Petrol,Automatic,1300,Coupe,Colombo,Reconditioned,Individual,White,23,6,Medium Tax Era,Standard,Medium,32.4,0
+Suzuki,Every,2012,719704,110346,Diesel,Automatic,1300,Van,Kurunegala,Reconditioned,Dealer,White,18,12,Low Tax Era,Standard,Medium,6.52,0
+Suzuki,Celerio,2021,2006364,51523,Petrol,Automatic,1000,Van,Gampaha,Reconditioned,Dealer,Black,8,3,High Tax Era,Standard,Medium,38.94,0
+Honda,City,2020,2910465,18283,Petrol,Automatic,2000,Coupe,Colombo,Reconditioned,Individual,White,9,4,High Tax Era,Standard,Low,159.18,0
+Honda,Civic,2018,2036198,74747,Petrol,Automatic,2000,Sedan,Gampaha,Reconditioned,Dealer,Silver,15,6,Medium Tax Era,Standard,Low,27.24,0
+Nissan,X-Trail,2013,1045338,170036,Hybrid,Manual,1800,SUV,Gampaha,Reconditioned,Dealer,White,18,11,Low Tax Era,Standard,High,6.15,0
+Mitsubishi,Lancer,2016,1756410,83048,Diesel,Automatic,1500,Hatchback,Matara,Used,Dealer,Red,24,8,Medium Tax Era,Standard,Low,21.15,0
+Toyota,Premio,2013,1348735,155138,Electric,Manual,0,Sedan,Kurunegala,Reconditioned,Individual,Black,22,11,Low Tax Era,Standard,Very High,8.69,0
+Honda,Accord,2019,3405634,98171,Hybrid,Automatic,1500,Coupe,Colombo,Used,Individual,Black,21,5,Medium Tax Era,Standard,High,34.69,0
+Mazda,CX-5,2012,857871,120151,Petrol,Manual,1800,SUV,Kurunegala,Reconditioned,Individual,White,11,12,Low Tax Era,Standard,Low,7.14,0
+Nissan,X-Trail,2020,2368860,51499,Hybrid,Automatic,1800,SUV,Gampaha,Used,Dealer,Silver,10,4,High Tax Era,Standard,High,46,0
+Toyota,Allion,2016,1606304,76587,Petrol,Automatic,1000,Sedan,Kandy,Reconditioned,Dealer,Black,6,8,Medium Tax Era,Standard,Medium,20.97,0
+Toyota,Aqua,2013,1192983,216087,Petrol,Automatic,1300,Hatchback,Colombo,Used,Individual,Black,22,11,Low Tax Era,Standard,Medium,5.52,1
+Nissan,Tiida,2016,1318191,59763,Diesel,Automatic,2000,SUV,Gampaha,Used,Dealer,Red,14,8,Medium Tax Era,Standard,Low,22.06,0
+Toyota,Prius,2011,915640,90680,Petrol,Automatic,1800,SUV,Ratnapura,Used,Dealer,White,7,13,Low Tax Era,Standard,Low,10.1,1
+Suzuki,Every,2013,855124,230992,Electric,Automatic,0,Van,Negombo,Used,Individual,Silver,14,11,Low Tax Era,Standard,Very High,3.7,0
+Mitsubishi,Montero,2011,834059,234557,Petrol,Automatic,1800,SUV,Colombo,Reconditioned,Dealer,White,22,13,Low Tax Era,Standard,Low,3.56,0
+Nissan,Note,2019,2229908,83578,Hybrid,Automatic,1300,Wagon,Colombo,Used,Individual,Red,19,5,Medium Tax Era,Standard,High,26.68,0
+Mazda,CX-3,2010,669104,135535,Petrol,Automatic,2000,SUV,Colombo,Used,Individual,White,7,14,Low Tax Era,Standard,Low,4.94,0
+Honda,Fit,2013,1369756,156737,Hybrid,Manual,2000,Hatchback,Negombo,Reconditioned,Dealer,Black,21,11,Low Tax Era,Standard,High,8.74,1
+Toyota,Vezel,2011,1035389,154693,Petrol,Automatic,1000,SUV,Colombo,Used,Individual,Silver,21,13,Low Tax Era,Standard,Medium,6.69,1
+Honda,Insight,2013,1213819,131559,Diesel,Manual,2000,Wagon,Kandy,Used,Individual,Green,24,11,Low Tax Era,Standard,Low,9.23,0
+Toyota,Prius,2019,3556909,87376,Hybrid,Automatic,1500,Wagon,Colombo,Used,Dealer,Red,19,5,Medium Tax Era,Standard,High,40.71,1
+Toyota,Premio,2017,1821458,59984,Petrol,Manual,1500,Sedan,Galle,Reconditioned,Dealer,White,9,7,Medium Tax Era,Standard,Low,30.37,0
+Toyota,Vitz,2019,2600786,50922,Diesel,Automatic,1300,Hatchback,Colombo,Used,Dealer,White,10,5,Medium Tax Era,Standard,Medium,51.07,0
+Suzuki,Every,2014,827174,157937,Petrol,Automatic,2000,Van,Colombo,Used,Dealer,Gold,21,10,Low Tax Era,Standard,Low,5.24,0
+Suzuki,Ertiga,2017,1151251,46800,Petrol,Manual,1800,Coupe,Colombo,Reconditioned,Individual,White,16,7,Medium Tax Era,Standard,Low,24.6,0
+Suzuki,Celerio,2015,1129054,99315,Hybrid,Manual,1300,SUV,Gampaha,Used,Dealer,Silver,13,9,Low Tax Era,Standard,High,11.37,0
+Mitsubishi,Outlander,2021,3100515,42444,Hybrid,Automatic,1000,SUV,Negombo,Reconditioned,Individual,White,10,3,High Tax Era,Standard,High,73.05,0
+Mitsubishi,Lancer,2011,761012,149110,Diesel,Manual,2000,Wagon,Colombo,Reconditioned,Dealer,Black,15,13,Low Tax Era,Standard,Low,5.1,0
+Mitsubishi,Lancer,2018,2227064,70041,Electric,Automatic,0,Wagon,Negombo,Used,Individual,White,8,6,Medium Tax Era,Standard,Very High,31.8,0
+Mazda,CX-5,2021,2848905,23464,Petrol,Automatic,1300,SUV,Ratnapura,Reconditioned,Dealer,Black,10,3,High Tax Era,Standard,Medium,121.41,0
+Suzuki,Hustler,2016,1123720,61883,Diesel,Automatic,2000,Wagon,Jaffna,Used,Individual,Brown,11,8,Medium Tax Era,Standard,Low,18.16,0
+Honda,Fit,2017,2422483,65287,Hybrid,Automatic,1800,Hatchback,Kandy,Used,Dealer,White,23,7,Medium Tax Era,Standard,High,37.1,1
+Hyundai,Accent,2020,2616546,42125,Hybrid,Manual,1800,Van,Colombo,Used,Individual,White,21,4,High Tax Era,Standard,High,62.11,0
+Mitsubishi,Pajero,2014,1170080,155675,Hybrid,Automatic,1800,Hatchback,Anuradhapura,Used,Dealer,Red,10,10,Low Tax Era,Standard,High,7.52,0
+Toyota,Axio,2016,2173154,99003,Hybrid,Automatic,2000,Sedan,Jaffna,Used,Dealer,White,11,8,Medium Tax Era,Standard,High,21.95,1
+BMW,318i,2017,3570151,88974,Petrol,Automatic,3500,Hatchback,Colombo,Used,Dealer,Silver,18,7,Medium Tax Era,Luxury,Low,40.13,0
+Toyota,Aqua,2011,1048655,102925,Petrol,Automatic,1000,Hatchback,Colombo,Used,Individual,Brown,23,13,Low Tax Era,Standard,Medium,10.19,1
+Toyota,Vezel,2020,2937879,37437,Diesel,Manual,1000,SUV,Colombo,Used,Dealer,Black,18,4,High Tax Era,Standard,Medium,78.47,1
+Suzuki,Alto,2012,932240,84073,Hybrid,Automatic,660,Hatchback,Colombo,Reconditioned,Dealer,Black,20,12,Low Tax Era,Standard,High,11.09,1
+Honda,Accord,2012,1258272,150687,Hybrid,Manual,2000,Van,Kurunegala,Reconditioned,Dealer,Black,24,12,Low Tax Era,Standard,High,8.35,0
+Honda,Grace,2019,2913464,42669,Hybrid,Automatic,1500,Sedan,Colombo,Used,Individual,White,14,5,Medium Tax Era,Standard,High,68.28,0
+Suzuki,Celerio,2011,564463,95198,Petrol,Manual,2000,Van,Kandy,Reconditioned,Individual,Black,13,13,Low Tax Era,Standard,Low,5.93,0
+Mazda,CX-3,2021,3170972,32536,Petrol,Automatic,1300,Coupe,Kalutara,Used,Dealer,White,23,3,High Tax Era,Standard,Medium,97.46,0
+Toyota,CH-R,2013,1023375,152468,Petrol,Manual,2000,SUV,Batticaloa,Used,Individual,Silver,19,11,Low Tax Era,Standard,Low,6.71,0
+Suzuki,Ertiga,2018,1523576,108560,Hybrid,Manual,1300,Van,Gampaha,Used,Dealer,White,7,6,Medium Tax Era,Standard,High,14.03,0
+Hyundai,Elantra,2012,807477,243161,Hybrid,Manual,2000,SUV,Colombo,Used,Dealer,Silver,18,12,Low Tax Era,Standard,High,3.32,0
+Toyota,Axio,2020,3986428,15823,Hybrid,Automatic,2000,Sedan,Colombo,Used,Individual,White,19,4,High Tax Era,Standard,High,251.92,1
+Honda,Fit,2015,1718690,99426,Hybrid,Manual,1000,Hatchback,Galle,Used,Individual,Black,20,9,Low Tax Era,Standard,High,17.29,1
+Honda,Freed,2017,1876813,80854,Petrol,Automatic,1300,Van,Anuradhapura,Reconditioned,Individual,Black,24,7,Medium Tax Era,Standard,Medium,23.21,0
+Honda,City,2021,3824219,18325,Diesel,Automatic,1300,Hatchback,Negombo,Used,Dealer,Black,23,3,High Tax Era,Standard,Medium,208.68,0
+Toyota,CH-R,2016,2470756,107782,Electric,Automatic,0,SUV,Galle,Used,Individual,Black,20,8,Medium Tax Era,Standard,Very High,22.92,0
+Toyota,Allion,2014,1447490,89950,Petrol,Automatic,1500,Sedan,Colombo,Used,Dealer,White,20,10,Low Tax Era,Standard,Low,16.09,0
+Nissan,Note,2011,758355,130420,Diesel,Automatic,1300,Hatchback,Negombo,Used,Individual,Black,23,13,Low Tax Era,Standard,Medium,5.81,0
+Mitsubishi,Mirage,2018,2316559,63684,Hybrid,Automatic,2000,Van,Gampaha,Used,Dealer,Grey,17,6,Medium Tax Era,Standard,High,36.38,0
+Mazda,Mazda 3,2015,2016168,95333,Electric,Automatic,0,SUV,Colombo,Used,Dealer,Silver,20,9,Low Tax Era,Standard,Very High,21.15,0
+Suzuki,Swift,2019,1535829,79632,Petrol,Automatic,1000,Hatchback,Colombo,Used,Individual,White,15,5,Medium Tax Era,Standard,Medium,19.29,1
+Mazda,Demio,2013,1025101,87048,Petrol,Manual,1300,Hatchback,Gampaha,Used,Dealer,Blue,21,11,Low Tax Era,Standard,Medium,11.78,0
+Toyota,Camry,2019,2510637,116681,Petrol,Automatic,1000,Sedan,Negombo,Used,Individual,White,10,5,Medium Tax Era,Standard,Medium,21.52,0
+Toyota,Corolla,2013,1457222,172449,Electric,Automatic,0,Sedan,Batticaloa,Reconditioned,Dealer,White,23,11,Low Tax Era,Standard,Very High,8.45,0
+Toyota,Prius,2018,2691908,90298,Diesel,Automatic,1000,Coupe,Negombo,Used,Individual,White,19,6,Medium Tax Era,Standard,Medium,29.81,1
+KIA,Rio,2009,555088,121911,Petrol,Automatic,1500,SUV,Negombo,Reconditioned,Dealer,Gold,23,15,Low Tax Era,Standard,Low,4.55,0
+Suzuki,Spacia,2020,2094599,16019,Hybrid,Manual,1300,SUV,Galle,Used,Dealer,Black,10,4,High Tax Era,Standard,High,130.75,0
+Toyota,Camry,2016,2104885,60115,Hybrid,Manual,2000,Sedan,Gampaha,Used,Individual,Black,12,8,Medium Tax Era,Standard,High,35.01,0
+Honda,Freed,2014,1477492,185852,Electric,Automatic,0,Van,Gampaha,Reconditioned,Dealer,Silver,10,10,Low Tax Era,Standard,Very High,7.95,0
+Mazda,Mazda 3,2017,1693277,102979,Petrol,Automatic,1800,Wagon,Kandy,Used,Individual,Silver,23,7,Medium Tax Era,Standard,Low,16.44,0
+Suzuki,Every,2018,1750310,76527,Hybrid,Automatic,1000,Van,Gampaha,Reconditioned,Individual,Silver,13,6,Medium Tax Era,Standard,High,22.87,0
+Mazda,CX-3,2014,1152701,100967,Petrol,Automatic,2000,Hatchback,Ratnapura,Reconditioned,Dealer,White,6,10,Low Tax Era,Standard,Low,11.42,0
+Toyota,Corolla,2019,2921283,100587,Hybrid,Automatic,1500,Sedan,Colombo,Used,Individual,Silver,6,5,Medium Tax Era,Standard,High,29.04,0
+Mazda,CX-5,2011,794121,174328,Petrol,Automatic,1300,SUV,Gampaha,Reconditioned,Individual,Black,22,13,Low Tax Era,Standard,Medium,4.56,0
+Toyota,Vezel,2012,1087012,226149,Petrol,Automatic,2000,SUV,Ratnapura,Used,Dealer,Grey,19,12,Low Tax Era,Standard,Low,4.81,1
+Toyota,Vitz,2017,2283461,115172,Diesel,Automatic,1300,Hatchback,Kandy,Used,Individual,Grey,20,7,Medium Tax Era,Standard,Medium,19.83,0
+Honda,Grace,2010,728971,232150,Petrol,Automatic,1800,Sedan,Colombo,Used,Individual,Black,11,14,Low Tax Era,Standard,Low,3.14,0
+Suzuki,Celerio,2018,1798521,119139,Hybrid,Automatic,1000,Hatchback,Anuradhapura,Used,Individual,Blue,18,6,Medium Tax Era,Standard,High,15.1,0
+Honda,Insight,2021,4114119,37778,Electric,Manual,0,SUV,Gampaha,Used,Dealer,White,22,3,High Tax Era,Standard,Very High,108.9,0
+Toyota,Prius,2013,1497594,169831,Electric,Automatic,0,Wagon,Colombo,Used,Individual,Black,13,11,Low Tax Era,Standard,Very High,8.82,1
+Nissan,Tiida,2021,2345932,28509,Petrol,Automatic,2000,Hatchback,Matara,Used,Individual,Red,11,3,High Tax Era,Standard,Low,82.28,0
+Honda,Grace,2020,3311864,39182,Hybrid,Automatic,1000,Sedan,Batticaloa,Used,Individual,Black,18,4,High Tax Era,Standard,High,84.52,0
+Toyota,Prius,2016,1797115,79585,Diesel,Automatic,2000,Van,Gampaha,Used,Individual,White,8,8,Medium Tax Era,Standard,Low,22.58,1
+Toyota,Vezel,2009,828103,166994,Petrol,Automatic,1000,SUV,Galle,Reconditioned,Dealer,White,23,15,Low Tax Era,Standard,Medium,4.96,1
+Suzuki,Alto,2013,625203,207368,Petrol,Automatic,800,Hatchback,Gampaha,Used,Dealer,White,13,11,Low Tax Era,Standard,Medium,3.01,1
+Toyota,Prius,2017,2237777,95413,Diesel,Automatic,1800,SUV,Colombo,Used,Individual,Black,6,7,Medium Tax Era,Standard,Low,23.45,1
+BMW,X3,2013,2134756,210270,Electric,Manual,0,Hatchback,Negombo,Reconditioned,Individual,Grey,23,11,Low Tax Era,Luxury,Very High,10.15,0
+KIA,Rio,2011,741092,170153,Diesel,Automatic,1000,Hatchback,Gampaha,Used,Individual,White,10,13,Low Tax Era,Standard,Medium,4.36,0
+Toyota,Aqua,2018,3334524,89002,Hybrid,Automatic,1000,Hatchback,Colombo,Reconditioned,Individual,Black,22,6,Medium Tax Era,Standard,High,37.47,1
+KIA,Picanto,2015,1549631,83167,Hybrid,Automatic,1800,Hatchback,Gampaha,Used,Dealer,Silver,15,9,Low Tax Era,Standard,High,18.63,0
+Hyundai,Elantra,2021,2469600,43395,Petrol,Automatic,1500,SUV,Galle,Used,Dealer,White,7,3,High Tax Era,Standard,Low,56.91,0
+Suzuki,Hustler,2012,524144,121581,Petrol,Manual,1300,Hatchback,Kalutara,Used,Individual,White,10,12,Low Tax Era,Standard,Medium,4.31,0
+Suzuki,Spacia,2010,500000,195603,Petrol,Automatic,1800,Wagon,Kalutara,Used,Individual,White,10,14,Low Tax Era,Standard,Low,2.56,0
+Toyota,Premio,2018,2069631,99682,Diesel,Automatic,2000,Sedan,Batticaloa,Reconditioned,Dealer,Black,5,6,Medium Tax Era,Standard,Low,20.76,0
+Suzuki,Hustler,2013,878384,237094,Hybrid,Automatic,1800,Coupe,Ratnapura,Reconditioned,Dealer,Silver,12,11,Low Tax Era,Standard,High,3.7,0
+Benz,E250,2017,3647017,88821,Petrol,Automatic,3000,Van,Negombo,Used,Individual,White,15,7,Medium Tax Era,Luxury,Low,41.06,0
+Suzuki,Ertiga,2016,1252444,43323,Diesel,Automatic,1500,Hatchback,Batticaloa,Reconditioned,Individual,Grey,21,8,Medium Tax Era,Standard,Low,28.91,0
+Honda,Civic,2017,2076303,41979,Diesel,Automatic,1500,Sedan,Colombo,Reconditioned,Individual,White,14,7,Medium Tax Era,Standard,Low,49.46,0
+Mazda,Demio,2013,1045751,116680,Hybrid,Manual,1000,Hatchback,Gampaha,Used,Dealer,Silver,17,11,Low Tax Era,Standard,High,8.96,0
+KIA,Sorento,2021,2637425,57642,Hybrid,Automatic,1300,Hatchback,Batticaloa,Used,Individual,Red,5,3,High Tax Era,Standard,High,45.75,0
+Nissan,X-Trail,2017,1154294,117281,Petrol,Manual,1000,SUV,Gampaha,Used,Dealer,White,5,7,Medium Tax Era,Standard,Medium,9.84,0
+Honda,Accord,2011,725727,194430,Diesel,Manual,1500,Coupe,Gampaha,Reconditioned,Individual,White,12,13,Low Tax Era,Standard,Low,3.73,0
+KIA,Picanto,2010,591586,235312,Diesel,Automatic,1800,Van,Kandy,Used,Individual,Red,18,14,Low Tax Era,Standard,Low,2.51,0
+Toyota,Axio,2013,1252495,121965,Petrol,Automatic,1500,Sedan,Colombo,Reconditioned,Dealer,White,9,11,Low Tax Era,Standard,Low,10.27,1
+Hyundai,Tucson,2015,1302376,114155,Hybrid,Automatic,1500,SUV,Gampaha,Used,Individual,White,22,9,Low Tax Era,Standard,High,11.41,0
+Hyundai,Elantra,2019,2079995,117199,Hybrid,Automatic,1000,Wagon,Batticaloa,Used,Dealer,Black,9,5,Medium Tax Era,Standard,High,17.75,0
+Toyota,CH-R,2015,2006455,48195,Hybrid,Automatic,1000,SUV,Kalutara,Reconditioned,Individual,Silver,23,9,Low Tax Era,Standard,High,41.63,0
+Hyundai,Creta,2008,500000,211765,Petrol,Manual,1000,Sedan,Colombo,Reconditioned,Dealer,Silver,14,16,Low Tax Era,Standard,Medium,2.36,0
+Hyundai,i10,2019,1964163,77489,Petrol,Automatic,1300,Hatchback,Jaffna,Used,Individual,White,16,5,Medium Tax Era,Standard,Medium,25.35,0
+Toyota,Premio,2015,1450648,109285,Petrol,Automatic,1500,Sedan,Kandy,Used,Dealer,White,8,9,Low Tax Era,Standard,Low,13.27,0
+Honda,City,2020,2436059,37435,Petrol,Manual,1800,Wagon,Colombo,Used,Individual,White,8,4,High Tax Era,Standard,Low,65.07,0
+Toyota,Corolla,2023,4883406,7716,Diesel,Automatic,1500,Sedan,Kandy,Used,Dealer,White,7,1,High Tax Era,Standard,Low,632.81,0
+Suzuki,Celerio,2015,1259647,51135,Hybrid,Automatic,1500,Sedan,Matara,Reconditioned,Individual,Black,13,9,Low Tax Era,Standard,High,24.63,0
+Toyota,Axio,2016,1641498,47139,Diesel,Automatic,2000,Sedan,Anuradhapura,Used,Dealer,Silver,9,8,Medium Tax Era,Standard,Low,34.82,1
+KIA,Picanto,2014,979180,174311,Diesel,Automatic,1500,Wagon,Galle,Used,Individual,Silver,7,10,Low Tax Era,Standard,Low,5.62,0
+Suzuki,Hustler,2018,1578985,55029,Petrol,Automatic,1000,Hatchback,Kandy,Used,Individual,Silver,20,6,Medium Tax Era,Standard,Medium,28.69,0
+Nissan,Note,2017,1761463,96249,Electric,Automatic,0,Van,Galle,Used,Dealer,Red,12,7,Medium Tax Era,Standard,Very High,18.3,0
+Suzuki,Swift,2020,1810637,22770,Petrol,Automatic,1800,Hatchback,Galle,Used,Dealer,White,20,4,High Tax Era,Standard,Low,79.52,1
+Toyota,Prius,2013,1462659,118769,Hybrid,Automatic,2000,Wagon,Ratnapura,Used,Individual,Silver,11,11,Low Tax Era,Standard,High,12.32,1
+Toyota,Prius,2012,1284295,105407,Hybrid,Automatic,1300,Wagon,Gampaha,Used,Individual,White,9,12,Low Tax Era,Standard,High,12.18,1
+Toyota,CH-R,2015,2009570,89008,Hybrid,Automatic,1500,SUV,Ratnapura,Reconditioned,Dealer,Red,13,9,Low Tax Era,Standard,High,22.58,0
+Toyota,Corolla,2015,1848595,72022,Diesel,Automatic,1300,Sedan,Ratnapura,Used,Dealer,Gold,23,9,Low Tax Era,Standard,Medium,25.67,0
+Honda,Grace,2013,1176135,117242,Diesel,Manual,1300,Sedan,Colombo,Reconditioned,Dealer,White,15,11,Low Tax Era,Standard,Medium,10.03,0
+Toyota,Axio,2020,3521598,45511,Hybrid,Automatic,1000,Sedan,Jaffna,Reconditioned,Individual,Silver,17,4,High Tax Era,Standard,High,77.38,1
+Honda,Vezel,2013,1063760,158206,Diesel,Automatic,1300,SUV,Gampaha,Used,Dealer,White,7,11,Low Tax Era,Standard,Medium,6.72,1
+Suzuki,Alto,2010,500000,218878,Petrol,Automatic,660,Hatchback,Batticaloa,Reconditioned,Dealer,Red,10,14,Low Tax Era,Standard,Medium,2.28,1
+Toyota,CH-R,2021,4418554,23774,Electric,Automatic,0,SUV,Galle,Reconditioned,Individual,Silver,10,3,High Tax Era,Standard,Very High,185.85,0
+Toyota,CH-R,2012,990821,242333,Petrol,Automatic,1500,SUV,Colombo,Used,Individual,White,5,12,Low Tax Era,Standard,Low,4.09,0
+Toyota,Camry,2008,564059,158944,Petrol,Automatic,1000,Sedan,Matara,Reconditioned,Individual,Brown,10,16,Low Tax Era,Standard,Medium,3.55,0
+KIA,Sportage,2015,1665071,86380,Hybrid,Automatic,2000,Coupe,Matara,Used,Individual,Green,22,9,Low Tax Era,Standard,High,19.28,0
+Suzuki,Celerio,2019,1761214,90362,Petrol,Automatic,1000,Coupe,Gampaha,Used,Dealer,Silver,22,5,Medium Tax Era,Standard,Medium,19.49,0
+Toyota,Corolla,2011,831197,138001,Petrol,Automatic,1500,Sedan,Colombo,Used,Individual,Red,8,13,Low Tax Era,Standard,Low,6.02,0
+Toyota,Premio,2021,3541622,49256,Diesel,Manual,1800,Sedan,Galle,Used,Dealer,Gold,13,3,High Tax Era,Standard,Low,71.9,0
+Honda,Accord,2019,2169841,66571,Diesel,Automatic,2000,Hatchback,Matara,Used,Individual,Blue,8,5,Medium Tax Era,Standard,Low,32.59,0
+Hyundai,Creta,2014,912593,194165,Petrol,Automatic,1300,Sedan,Gampaha,Reconditioned,Dealer,Black,8,10,Low Tax Era,Standard,Medium,4.7,0
+Honda,Fit,2013,1051567,192364,Petrol,Automatic,1000,Hatchback,Colombo,Used,Dealer,White,20,11,Low Tax Era,Standard,Medium,5.47,1
+Toyota,Vezel,2017,2426981,44803,Hybrid,Automatic,1500,SUV,Galle,Used,Dealer,White,19,7,Medium Tax Era,Standard,High,54.17,1
+Toyota,Axio,2020,3064947,44753,Petrol,Automatic,1000,Sedan,Kurunegala,Reconditioned,Dealer,White,24,4,High Tax Era,Standard,Medium,68.48,1
+Nissan,Leaf,2020,2632726,50137,Hybrid,Automatic,1300,Wagon,Gampaha,Used,Dealer,White,10,4,High Tax Era,Standard,High,52.51,0
+Hyundai,Accent,2016,1298211,98630,Petrol,Automatic,1500,Coupe,Kandy,Used,Dealer,Red,11,8,Medium Tax Era,Standard,Low,13.16,0
+Mazda,Atenza,2011,729626,94425,Petrol,Manual,1500,SUV,Colombo,Used,Dealer,Red,17,13,Low Tax Era,Standard,Low,7.73,0
+Toyota,Vitz,2019,2841184,112843,Petrol,Automatic,1500,Hatchback,Colombo,Reconditioned,Individual,Gold,10,5,Medium Tax Era,Standard,Low,25.18,0
+KIA,Picanto,2011,663656,172162,Petrol,Automatic,2000,Sedan,Matara,Used,Dealer,Silver,11,13,Low Tax Era,Standard,Low,3.85,0
+Suzuki,Alto,2018,1476975,100309,Petrol,Automatic,660,Hatchback,Gampaha,Used,Individual,Red,14,6,Medium Tax Era,Standard,Medium,14.72,1
+Toyota,Vezel,2020,3516394,16702,Hybrid,Manual,1800,SUV,Colombo,Used,Individual,Silver,11,4,High Tax Era,Standard,High,210.52,1
+Suzuki,Swift,2020,1839446,26160,Hybrid,Manual,1800,Hatchback,Kalutara,Used,Individual,White,11,4,High Tax Era,Standard,High,70.31,1
+KIA,Sorento,2019,1982099,89455,Petrol,Automatic,1500,Wagon,Gampaha,Reconditioned,Individual,Black,16,5,Medium Tax Era,Standard,Low,22.16,0
+Toyota,CH-R,2016,2177673,55935,Hybrid,Automatic,1000,SUV,Kurunegala,Reconditioned,Dealer,Silver,6,8,Medium Tax Era,Standard,High,38.93,0
+Suzuki,Celerio,2020,2524060,40579,Hybrid,Automatic,1300,Sedan,Ratnapura,Reconditioned,Dealer,White,21,4,High Tax Era,Standard,High,62.2,0
+Toyota,Axio,2018,2497657,55701,Diesel,Automatic,2000,Sedan,Colombo,Reconditioned,Individual,White,5,6,Medium Tax Era,Standard,Low,44.84,1
+Mitsubishi,Outlander,2018,2225525,95773,Hybrid,Automatic,1800,SUV,Negombo,Reconditioned,Individual,Black,24,6,Medium Tax Era,Standard,High,23.24,0
+Honda,Civic,2020,3826067,57205,Hybrid,Automatic,1300,Sedan,Colombo,Used,Individual,White,19,4,High Tax Era,Standard,High,66.88,0
+Mitsubishi,ASX,2022,3538012,48799,Hybrid,Automatic,1800,SUV,Batticaloa,Reconditioned,Individual,White,6,2,High Tax Era,Standard,High,72.5,0
+Mazda,Demio,2016,1600185,69482,Petrol,Automatic,1500,Hatchback,Gampaha,Reconditioned,Dealer,Blue,13,8,Medium Tax Era,Standard,Low,23.03,0
+Honda,Civic,2021,3767828,32454,Hybrid,Manual,1500,Sedan,Kandy,Reconditioned,Dealer,Brown,15,3,High Tax Era,Standard,High,116.09,0
+Suzuki,Spacia,2014,1008006,95852,Hybrid,Automatic,1800,Wagon,Kalutara,Used,Dealer,White,19,10,Low Tax Era,Standard,High,10.52,0
+Honda,City,2019,2206055,49136,Petrol,Automatic,1500,Van,Colombo,Reconditioned,Dealer,Black,7,5,Medium Tax Era,Standard,Low,44.9,0
+Honda,Civic,2019,2408427,68491,Diesel,Manual,1300,Sedan,Galle,Reconditioned,Individual,White,11,5,Medium Tax Era,Standard,Medium,35.16,0
+Suzuki,Ertiga,2018,1858974,90728,Hybrid,Automatic,2000,SUV,Colombo,Used,Dealer,Silver,11,6,Medium Tax Era,Standard,High,20.49,0
+Suzuki,Every,2016,1115951,96921,Diesel,Automatic,1800,Van,Kandy,Used,Individual,Black,6,8,Medium Tax Era,Standard,Low,11.51,0
+Toyota,Axio,2017,2022976,48945,Petrol,Automatic,1500,Sedan,Gampaha,Reconditioned,Individual,Black,14,7,Medium Tax Era,Standard,Low,41.33,1
+Suzuki,Ertiga,2019,1694394,54694,Petrol,Automatic,1000,Wagon,Colombo,Used,Dealer,Black,24,5,Medium Tax Era,Standard,Medium,30.98,0
+Toyota,Prius,2019,2709246,88225,Petrol,Manual,1300,SUV,Jaffna,Reconditioned,Dealer,Brown,18,5,Medium Tax Era,Standard,Medium,30.71,1
+Benz,E200,2017,3492972,105211,Diesel,Automatic,2400,Hatchback,Gampaha,Reconditioned,Individual,White,6,7,Medium Tax Era,Luxury,Low,33.2,0
+Toyota,CH-R,2010,722353,137450,Diesel,Manual,1000,SUV,Gampaha,Used,Dealer,Red,12,14,Low Tax Era,Standard,Medium,5.26,0
+Honda,Insight,2015,1388085,98770,Diesel,Automatic,1300,Wagon,Galle,Used,Individual,Black,11,9,Low Tax Era,Standard,Medium,14.05,0
+Hyundai,Santa Fe,2014,951809,189578,Petrol,Automatic,1800,Hatchback,Colombo,Reconditioned,Individual,Brown,24,10,Low Tax Era,Standard,Low,5.02,0
+Nissan,Caravan,2020,2785191,30829,Hybrid,Automatic,1800,Van,Gampaha,Used,Dealer,Black,24,4,High Tax Era,Standard,High,90.34,0
+Toyota,Aqua,2017,2755009,89600,Hybrid,Automatic,2000,Hatchback,Anuradhapura,Used,Dealer,White,20,7,Medium Tax Era,Standard,High,30.75,1
+Toyota,Axio,2016,2351842,41069,Hybrid,Automatic,1500,Sedan,Colombo,Used,Dealer,Grey,14,8,Medium Tax Era,Standard,High,57.26,1
+Suzuki,Spacia,2016,1070755,62789,Diesel,Automatic,1300,Hatchback,Kandy,Reconditioned,Individual,Green,11,8,Medium Tax Era,Standard,Medium,17.05,0
+Suzuki,Wagon R,2012,732169,101179,Hybrid,Automatic,1000,Hatchback,Gampaha,Used,Dealer,Black,17,12,Low Tax Era,Standard,High,7.24,1
+Toyota,Vitz,2009,745876,121098,Petrol,Manual,1800,Hatchback,Batticaloa,Used,Individual,Silver,22,15,Low Tax Era,Standard,Low,6.16,0
+Honda,Accord,2019,2505349,78491,Hybrid,Automatic,1800,Hatchback,Kandy,Used,Individual,White,5,5,Medium Tax Era,Standard,High,31.92,0
+Toyota,Aqua,2019,2997350,85823,Hybrid,Automatic,1300,Hatchback,Negombo,Reconditioned,Dealer,Black,17,5,Medium Tax Era,Standard,High,34.92,1
+BMW,520d,2019,4505343,91901,Diesel,Automatic,3500,Wagon,Kandy,Reconditioned,Individual,White,12,5,Medium Tax Era,Luxury,Low,49.02,0
+Toyota,Vitz,2019,3422003,97558,Hybrid,Automatic,1800,Hatchback,Gampaha,Used,Individual,Silver,18,5,Medium Tax Era,Standard,High,35.08,0
+Toyota,Prius,2015,1856098,62741,Hybrid,Automatic,2000,Hatchback,Kandy,Used,Individual,Gold,13,9,Low Tax Era,Standard,High,29.58,1
+Honda,Accord,2018,2380712,118157,Hybrid,Automatic,1800,Van,Ratnapura,Reconditioned,Individual,Black,10,6,Medium Tax Era,Standard,High,20.15,0
+Toyota,Aqua,2017,2522178,81733,Hybrid,Automatic,1300,Hatchback,Colombo,Reconditioned,Dealer,White,20,7,Medium Tax Era,Standard,High,30.86,1
+Honda,Civic,2015,1807541,41238,Hybrid,Automatic,1000,Sedan,Galle,Used,Dealer,White,8,9,Low Tax Era,Standard,High,43.83,0
+Suzuki,Swift,2012,710241,184139,Hybrid,Automatic,2000,Hatchback,Colombo,Used,Dealer,White,16,12,Low Tax Era,Standard,High,3.86,1
+Suzuki,Spacia,2015,1218591,80000,Hybrid,Automatic,1000,SUV,Colombo,Used,Individual,White,15,9,Low Tax Era,Standard,High,15.23,0
+Honda,Accord,2011,830791,134895,Petrol,Manual,2000,Wagon,Gampaha,Used,Individual,Brown,24,13,Low Tax Era,Standard,Low,6.16,0
+Suzuki,Alto,2016,1330021,94641,Electric,Automatic,0,Hatchback,Negombo,Used,Individual,White,12,8,Medium Tax Era,Standard,Very High,14.05,1
