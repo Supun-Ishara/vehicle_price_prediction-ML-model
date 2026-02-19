@@ -4,10 +4,13 @@ mileage
 engine_capacity
 features_count
 vehicle_age
-price_per_km
 mileage_per_year
+brand_age_interaction
+is_premium_combo
 fuel_efficiency_enc
 tax_era_enc
+mileage_category_enc
+engine_category_enc
 brand_Benz
 brand_Honda
 brand_Hyundai
