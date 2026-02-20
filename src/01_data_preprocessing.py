@@ -3,7 +3,6 @@
 Sri Lankan Used Vehicle Price Prediction
 ML Assignment - Data Preprocessing & EDA
 
-CRITICAL FIX: Removed price_per_km feature (contained target variable)
 """
 
 import pandas as pd

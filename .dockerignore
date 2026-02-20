@@ -1,0 +1,48 @@
+# Docker ignore file - exclude unnecessary files from image
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Large data files (exclude intermediate outputs)
+outputs/preprocessed_data.csv
+outputs/cleaned_data.csv
+
+# Documentation (include in repo, not in image)
+*.md
+*.pdf
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+.coverage
+
+# Logs
+*.log

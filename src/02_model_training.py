@@ -3,10 +3,6 @@
 Sri Lankan Used Vehicle Price Prediction
 Algorithm: Histogram Gradient Boosting Regressor
 
-CRITICAL FIXES:
-1. Removed price_per_km feature (data leakage)
-2. Added baseline Linear Regression comparison
-3. Improved theoretical justification for log-transform
 """
 
 import pandas as pd
