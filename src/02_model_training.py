@@ -49,7 +49,6 @@ print("\n" + "=" * 60)
 print("STEP 2: Defining Feature Matrix and Target")
 print("=" * 60)
 
-# Drop non-feature columns + REMOVED price_per_km (leakage)
 drop_cols = ['price', 'log_price', 'model', 'color',
              'age_group', 'fuel_efficiency', 'tax_era',
              'is_popular_model', 'mileage_category', 'engine_category']
@@ -59,9 +58,9 @@ print(f"Number of features: {len(feature_cols)}")
 
 # Verify price_per_km is NOT in features
 if 'price_per_km' in feature_cols:
-    raise ValueError("❌ CRITICAL: price_per_km still in features! Data leakage detected!")
+    raise ValueError(" price_per_km still in features! Data leakage detected!")
 else:
-    print("✓ VERIFIED: price_per_km removed (no data leakage)")
+    print("✓ VERIFIED: price_per_km removed")
 
 X = df[feature_cols].copy()
 y = df['log_price'].copy()
@@ -248,7 +247,7 @@ axes[0].scatter(y_true_t/1e6, y_pred_t/1e6, alpha=0.4, s=18,
                 color='steelblue', edgecolors='none')
 lim = max(y_true_t.max(), y_pred_t.max()) / 1e6
 axes[0].plot([0, lim], [0, lim], 'r--', linewidth=1.5, label='Perfect Prediction')
-axes[0].set_title('Actual vs Predicted Price (Test Set)\nHistGBR (No Leakage)', 
+axes[0].set_title('Actual vs Predicted Price (Test Set)\nHistGBR', 
                    fontsize=13, fontweight='bold')
 axes[0].set_xlabel('Actual Price (Million LKR)')
 axes[0].set_ylabel('Predicted Price (Million LKR)')
@@ -324,4 +323,3 @@ pd.DataFrame({'feature': feature_cols}).to_csv(
 
 print("\n✓ Models saved: histgbr_model.pkl, baseline_model.pkl")
 print("✓ Feature list saved: feature_list.csv")
-print("\n✓ Model training complete (CORRECTED VERSION - No Leakage)!")

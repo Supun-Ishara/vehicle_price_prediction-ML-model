@@ -1,5 +1,5 @@
 """
-app/streamlit_app.py - FIXED VERSION
+app/streamlit_app.py
 Sri Lankan Used Vehicle Price Prediction — Interactive Web App
 """
 
@@ -166,7 +166,7 @@ def get_tax_era(yr):
 
 tax_era = get_tax_era(year)
 
-# Derived features (NO price_per_km - that was data leakage)
+# Derived features
 mileage_per_year = mileage / max(vehicle_age, 1)
 
 # Mileage category
@@ -268,9 +268,9 @@ with col1:
         "Features": f"{features_count} accessories",
     }
     summary_df = pd.DataFrame(list(summary_data.items()), columns=['Property', 'Value'])
-    # FIX: Convert Value column to string to avoid Arrow serialization error
+    # Convert Value column to string to avoid Arrow serialization error
     summary_df['Value'] = summary_df['Value'].astype(str)
-    # FIX: Replace use_container_width with width='stretch'
+    # Replace use_container_width with width='stretch'
     st.dataframe(summary_df, hide_index=True, width='stretch')
 
 with col2:
@@ -452,7 +452,7 @@ with st.expander("ℹ️ About the Model — Histogram Gradient Boosting Regress
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center; color:#888; font-size:0.8rem;'>"
-    "MSc AI — Machine Learning Assignment | Sri Lanka Used Vehicle Price Prediction | "
-    "Algorithm: HistGradientBoostingRegressor (Corrected Version)"
+    "AI — Machine Learning Assignment | Sri Lanka Used Vehicle Price Prediction | "
+    "Algorithm: HistGradientBoostingRegressor"
     "</div>", unsafe_allow_html=True
 )

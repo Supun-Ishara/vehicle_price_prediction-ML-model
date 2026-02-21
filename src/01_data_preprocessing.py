@@ -1,5 +1,5 @@
 """
-01_data_preprocessing.py - CORRECTED VERSION (No Data Leakage)
+01_data_preprocessing.py
 Sri Lankan Used Vehicle Price Prediction
 ML Assignment - Data Preprocessing & EDA
 
@@ -31,10 +31,8 @@ print("=" * 60)
 
 df = pd.read_csv(DATA_PATH)
 
-# ⚠️ CRITICAL FIX: Drop price_per_km (data leakage - contains target variable)
 if 'price_per_km' in df.columns:
     df = df.drop('price_per_km', axis=1)
-    print("⚠️  REMOVED price_per_km column (data leakage - contains price)")
 
 print(f"Dataset Shape: {df.shape}")
 print(f"Rows: {df.shape[0]}, Columns: {df.shape[1]}")
@@ -131,10 +129,10 @@ df['mileage'] = df['mileage'].clip(lower=0,      upper=m_upper)
 print("Outliers capped using Winsorisation (IQR method).")
 
 # ─────────────────────────────────────────────
-# 8. FEATURE ENGINEERING - NO LEAKAGE VERSION
+# 8. FEATURE ENGINEERING
 # ─────────────────────────────────────────────
 print("\n" + "=" * 60)
-print("STEP 8: Feature Engineering (CORRECTED - No Data Leakage)")
+print("STEP 8: Feature Engineering")
 print("=" * 60)
 
 # Log-transform price (for model training target)
@@ -173,9 +171,6 @@ df['engine_category'] = pd.cut(df['engine_capacity'],
                                 labels=['Micro', 'Small', 'Medium', 'Large'])
 print("✓ Created: engine_category (binned engine)")
 
-# print(f"\n  CRITICAL FIX APPLIED:")
-# print(f"   REMOVED: price_per_km (contained target variable 'price')")
-print(f"   This was causing data leakage and inflated R² scores.")
 print(f"\nFinal Dataset Shape: {df.shape}")
 
 # ─────────────────────────────────────────────
@@ -309,7 +304,7 @@ mask = np.triu(np.ones_like(corr_matrix, dtype=bool))
 sns.heatmap(corr_matrix, mask=mask, annot=True, fmt='.2f', cmap='RdYlBu',
             center=0, square=True, linewidths=0.5, ax=ax,
             cbar_kws={"shrink": 0.8})
-ax.set_title('Feature Correlation Heatmap (NO price_per_km leakage)', fontsize=14, fontweight='bold')
+ax.set_title('Feature Correlation Heatmap', fontsize=14, fontweight='bold')
 plt.tight_layout()
 plt.savefig(os.path.join(OUTPUT_PATH, 'fig06_correlation_heatmap.png'), dpi=150, bbox_inches='tight')
 plt.close()
@@ -332,5 +327,5 @@ plt.savefig(os.path.join(OUTPUT_PATH, 'fig07_transmission_condition.png'), dpi=1
 plt.close()
 
 print("All EDA plots saved to outputs/")
-print("\n✓ Preprocessing complete (CORRECTED VERSION - No Data Leakage)!")
+print("\n✓ Preprocessing complete!")
 
